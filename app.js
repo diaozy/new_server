@@ -73,6 +73,7 @@ function createWebAPIRequest(path, data, c, response, method) {
 	});
 	http_client.write('params=' + cryptoreq.params + '&encSecKey=' + cryptoreq.encSecKey);
 	http_client.end();
+	console.log(`Process ${path}...`);//diaozy
 }
 
 function createRequest(path, method, data, callback) {
@@ -99,10 +100,41 @@ function createRequest(path, method, data, callback) {
 		http_client.write(data);
 	}
 	http_client.end();
+	console.log(`Process ${path}...`);//diaozy
 }
 app.get(dir + '/mine', function(request, response) {
 	response.send(user);
 });
+
+var books =
+{
+
+"111": {
+bookID:"new1",
+picUrl: "http://susanlistening-1253455298.file.myqcloud.com/images/new1.jpg",
+name: "新概念英语第1册",
+artists:"新概念英语" ,
+},
+"112": {
+bookID:"new2",
+picUrl: "http://susanlistening-1253455298.file.myqcloud.com/images/new2.jpg",
+name: "新概念英语第2册",
+artists:"新概念英语" ,
+},
+"113": {
+bookID:"new3",
+picUrl: "http://susanlistening-1253455298.file.myqcloud.com/images/new3.jpg",
+name: "新概念英语第3册",
+artists:"新概念英语" ,
+},
+
+};
+
+app.get(dir + '/test', function(request, response) {
+	response.send(books);
+	console.log(`Process ${request.url}...`);
+});
+	
 app.get(dir + '/login/cellphone', function(request, response) {
 	var phone =request.query.phone;
 	var md5sum = crypto.createHash('md5');
@@ -961,7 +993,7 @@ app.all('*', function(req, res, next) {
     res.header("Content-Type", "application/json;charset=utf-8");
     next();
 });
-var server = app.listen(3000, function() {
+var server = app.listen(3001, function() {
 	console.log("启动App");
 });
 
