@@ -2,7 +2,12 @@ var Encrypt = require('./crypto.js');
 var express = require('express');
 var http = require('http');
 var crypto = require('crypto');
-var reqhttp = require("request")
+var reqhttp = require("request");
+
+var books = require('./data.js').books;
+var catalogue = require('./data.js').catalogue;
+var banner = require('./data.js').banner;
+
 //var bodyParser = require("body-parser");
 var app = express();
 var dir = "/v1"
@@ -106,35 +111,39 @@ app.get(dir + '/mine', function(request, response) {
 	response.send(user);
 });
 
-var books =
-{
-
-"111": {
-bookID:"new1",
-picUrl: "http://susanlistening-1253455298.file.myqcloud.com/images/new1.jpg",
-name: "新概念英语第1册",
-artists:"新概念英语" ,
-},
-"112": {
-bookID:"new2",
-picUrl: "http://susanlistening-1253455298.file.myqcloud.com/images/new2.jpg",
-name: "新概念英语第2册",
-artists:"新概念英语" ,
-},
-"113": {
-bookID:"new3",
-picUrl: "http://susanlistening-1253455298.file.myqcloud.com/images/new3.jpg",
-name: "新概念英语第3册",
-artists:"新概念英语" ,
-},
-
-};
 
 app.get(dir + '/test', function(request, response) {
 	response.send(books);
 	console.log(`Process ${request.url}...`);
 });
-	
+
+/*
+Start New Server
+ */
+
+
+
+//get books
+app.get(dir + '/books', function(request, response) {
+	response.send(books);
+	console.log(`Process ${request.url}...`);
+});
+
+//get banner
+app.get(dir + '/banner', function(request, response) {
+	response.send(banner);
+	console.log(`Process ${request.url}...`);
+});
+
+
+
+app.get(dir + '/personalized', function(request, response) {
+	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
+	var data = {};
+	createWebAPIRequest('/api/personalized/playlist', data, cookie, response)
+});
+
+
 app.get(dir + '/login/cellphone', function(request, response) {
 	var phone =request.query.phone;
 	var md5sum = crypto.createHash('md5');
@@ -175,18 +184,6 @@ app.get(dir + '/login/refresh', function(request, response) {
 	createWebAPIRequest('/weapi/login/token/refresh?csrf_token=' + csrf, data, cookie, response)
 });
 
-//banner
-app.get(dir + '/banner', function(request, response) {
-	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
-	var data = {
-		"csrf_token": ""
-	}
-	createWebAPIRequest('/api/v2/banner/get', data, cookie, response, 'GET')
-	//createRequest('/api/v2/banner/get', 'GET', data, function(res) {
-	//	response.setHeader("Content-Type", "application/json");
-	//	response.send(res);
-	//});
-});
 
 //歌单类型列表
 app.get(dir + '/playlist/catlist', function(request, response) {
@@ -211,12 +208,7 @@ app.get(dir + '/personalized/newsong', function(request, response) {
 	};
 	createWebAPIRequest('/api/personalized/newsong', data, cookie, response)
 })
-//推荐歌单
-app.get(dir + '/personalized', function(request, response) {
-	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
-	var data = {};
-	createWebAPIRequest('/api/personalized/playlist', data, cookie, response)
-})
+
 //推荐mv
 app.get(dir + '/personalized/mv', function(request, response) {
 	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
