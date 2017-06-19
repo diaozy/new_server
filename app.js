@@ -7,6 +7,9 @@ var reqhttp = require("request");
 var books = require('./data.js').books;
 var catalogue = require('./data.js').catalogue;
 var banner = require('./data.js').banner;
+var data100001 = require('./data.js').data100001;
+
+
 
 //var bodyParser = require("body-parser");
 var app = express();
@@ -107,15 +110,6 @@ function createRequest(path, method, data, callback) {
 	http_client.end();
 	console.log(`Process ${path}...`);//diaozy
 }
-app.get(dir + '/mine', function(request, response) {
-	response.send(user);
-});
-
-
-app.get(dir + '/test', function(request, response) {
-	response.send(books);
-	console.log(`Process ${request.url}...`);
-});
 
 /*
 Start New Server
@@ -138,17 +132,10 @@ app.get(dir + '/banner', function(request, response) {
 
 //get lists
 app.get(dir + '/playlist/detail', function(request, response) {
-	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
-	var data = {
-		"id": request.query.id,
-		"offset": request.query.offset || '0',
-		"total": false,
-		"n": request.query.limit || 20,
-		"limit": request.query.limit || 20,
-		"csrf_token": ""
-	};
-	createWebAPIRequest('/weapi/v3/playlist/detail', data, cookie, response)
-
+	response.send(data100001);
+	
+	console.log(`Process ${request.url}...`);
+	console.log(`Process ${request.query.id}...`);
 });
 
 
@@ -160,6 +147,10 @@ app.get(dir + '/personalized', function(request, response) {
 	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
 	var data = {};
 	createWebAPIRequest('/api/personalized/playlist', data, cookie, response)
+});
+
+app.get(dir + '/mine', function(request, response) {
+	response.send(user);
 });
 
 
