@@ -800,7 +800,7 @@ const banner =
 	            "monitorImpress":null,
 	            "targetId":3165446,
 	            "titleColor":"red",
-	            "typeTitle":"新碟首发",
+	            "typeTitle":"ad1",
 	            "targetType":10,
 	            "url":""
 	        },
@@ -811,7 +811,7 @@ const banner =
 	            "monitorImpress":null,
 	            "targetId":170001,
 	            "titleColor":"blue",
-	            "typeTitle":"专栏",
+	            "typeTitle":"ad2",
 	            "targetType":1005,
 	            "url":"http://music.163.com/m/topic/170001"
 	        },
@@ -822,7 +822,7 @@ const banner =
 	            "monitorImpress":null,
 	            "targetId":169001,
 	            "titleColor":"blue",
-	            "typeTitle":"专栏",
+	            "typeTitle":"ad3",
 	            "targetType":1005,
 	            "url":"http://music.163.com/m/topic/169001"
 	        }

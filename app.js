@@ -136,6 +136,25 @@ app.get(dir + '/banner', function(request, response) {
 });
 
 
+//get lists
+app.get(dir + '/playlist/detail', function(request, response) {
+	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
+	var data = {
+		"id": request.query.id,
+		"offset": request.query.offset || '0',
+		"total": false,
+		"n": request.query.limit || 20,
+		"limit": request.query.limit || 20,
+		"csrf_token": ""
+	};
+	createWebAPIRequest('/weapi/v3/playlist/detail', data, cookie, response)
+
+});
+
+
+
+
+
 
 app.get(dir + '/personalized', function(request, response) {
 	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
