@@ -7,7 +7,15 @@ var reqhttp = require("request");
 var books = require('./data.js').books;
 var catalogue = require('./data.js').catalogue;
 var banner = require('./data.js').banner;
-var data100001 = require('./data.js').data100001;
+var book3001 = require('./data.js').book3001;
+var book3002 = require('./data.js').book3002;
+var book3003 = require('./data.js').book3003;
+var detail300001 = require('./data.js').detail300001;
+var detail300002 = require('./data.js').detail300002;
+var detail300003 = require('./data.js').detail300003;
+var url300001 = require('./data.js').url300001;
+var url300002 = require('./data.js').url300002;
+var url300003 = require('./data.js').url300003;
 
 
 
@@ -25,6 +33,99 @@ app.all('*', function(req, res, next) {
     res.header("Content-Type", "application/json;charset=utf-8");
     next();
 });
+
+
+
+/*
+Start New Server
+ */
+
+//get books
+app.get(dir + '/books', function(request, response) {
+	response.send(books);
+	console.log(`Process ${request.url}...`);
+});
+
+//get banner
+app.get(dir + '/banner', function(request, response) {
+	response.send(banner);
+	console.log(`Process ${request.url}...`);
+});
+
+//歌单类型列表
+app.get(dir + '/playlist/catlist', function(request, response) {
+	response.send(catalogue);
+	console.log(`Process ${request.url}...`);
+})
+
+//get lists
+app.get(dir + '/playlist/detail', function(request, response) {
+	switch(request.query.id)
+	{
+	case 'book3001':
+		response.send(book3001);
+		break;
+	case 'book3002':
+		response.send(book3002);
+		break;
+	case 'book3003':
+		response.send(book3003);
+		break;
+	default:
+		console.log(`Error get playlist ${request.query.id}...`);
+	}
+
+	console.log(`Process ${request.url}...`);
+	console.log(`Process ${request.query.id}...`);
+});
+
+//get books detail
+app.get(dir + '/music/detail', function(request, response) {
+	switch(request.query.id)
+	{
+	case '300001':
+		response.send(detail300001);
+		break;
+	case '300002':
+		response.send(detail300002);
+		break;
+	case '300003':
+		response.send(detail300003);
+		break;
+	default:
+		console.log(`Error get playlist ${request.query.id}...`);
+	}
+	
+	console.log(`Process ${request.url}...`);
+	console.log(`Process ${request.query.id}...`);
+});
+
+
+//get mp3 url
+app.get(dir + '/music/url', function(request, response) {
+
+	switch(request.query.id)
+	{
+	case '300001':
+		response.send(url300001);
+		break;
+	case '300002':
+		response.send(url300002);
+		break;
+	case '300003':
+		response.send(url300003);
+		break;
+	default:
+		console.log(`Error get playlist ${request.query.id}...`);
+	}
+	
+	console.log(`Process ${request.url}...`);
+	console.log(`Process ${request.query.id}...`);
+	
+});
+
+
+
 var cookie=null
 var user={}
 function createWebAPIRequest(path, data, c, response, method) {
@@ -111,37 +212,6 @@ function createRequest(path, method, data, callback) {
 	console.log(`Process ${path}...`);//diaozy
 }
 
-/*
-Start New Server
- */
-
-
-
-//get books
-app.get(dir + '/books', function(request, response) {
-	response.send(books);
-	console.log(`Process ${request.url}...`);
-});
-
-//get banner
-app.get(dir + '/banner', function(request, response) {
-	response.send(banner);
-	console.log(`Process ${request.url}...`);
-});
-
-
-//get lists
-app.get(dir + '/playlist/detail', function(request, response) {
-	response.send(data100001);
-	
-	console.log(`Process ${request.url}...`);
-	console.log(`Process ${request.query.id}...`);
-});
-
-
-
-
-
 
 app.get(dir + '/personalized', function(request, response) {
 	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
@@ -195,14 +265,7 @@ app.get(dir + '/login/refresh', function(request, response) {
 });
 
 
-//歌单类型列表
-app.get(dir + '/playlist/catlist', function(request, response) {
-	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
-	var data = {
-		"csrf_token": ""
-	};
-	createWebAPIRequest('/weapi/playlist/catalogue', data, cookie, response)
-})
+
 //歌单类型列表-热门类型
 app.get(dir + '/playlist/hot', function(request, response) {
 	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
@@ -632,20 +695,7 @@ var url = request.query.url
   }
   reqhttp(options).pipe(response)
 });
-//单曲详情
-app.get(dir + '/music/detail', function(request, response) {
-	var id = parseInt(request.query.id);
-	var data = {
-		"id": id,
-		'c': JSON.stringify([{
-			id: id
-		}]),
-		"ids": '[' + id + ']',
-		"csrf_token": ""
-	};
-	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
-	createWebAPIRequest('/weapi/v3/song/detail', data, cookie, response)
-});
+
 //专辑详情
 app.get(dir + '/album/detail', function(request, response) {
 	var id = parseInt(request.query.id);
@@ -655,18 +705,7 @@ app.get(dir + '/album/detail', function(request, response) {
 	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
 	createWebAPIRequest('/weapi/v1/album/' + id, data, cookie, response)
 });
-//单曲播放地址
-app.get(dir + '/music/url', function(request, response) {
-	var id = parseInt(request.query.id);
-	var br = parseInt(request.query.br);
-	var data = {
-		"ids": [id],
-		"br": br,
-		"csrf_token": ""
-	};
-	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
-	createWebAPIRequest('/weapi/song/enhance/player/url', data, cookie, response)
-});
+
 //用户详情
 app.get(dir + '/user/detail', function(request, response) {
 	var id = parseInt(request.query.uid);
@@ -724,20 +763,7 @@ app.get(dir + '/user/followeds', function(request, response) {
 	}
 	createWebAPIRequest('/weapi/user/getfolloweds/', data, cookie, response)
 });
-//歌单详情
-app.get(dir + '/playlist/detail', function(request, response) {
-	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
-	var data = {
-		"id": request.query.id,
-		"offset": request.query.offset || '0',
-		"total": false,
-		"n": request.query.limit || 20,
-		"limit": request.query.limit || 20,
-		"csrf_token": ""
-	};
-	createWebAPIRequest('/weapi/v3/playlist/detail', data, cookie, response)
 
-});
 //歌单详情-旧，获取封面
 app.get(dir + '/playlist/img', function(request, response) {
 	createWebAPIRequest('/api/playlist/detail?id=' + request.query.id, null, null, response)
