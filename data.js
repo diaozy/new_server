@@ -1,5 +1,5 @@
 
-const books = { 
+const books1 = { 
     "hasTaste":false,
     "code":200,
     "category":0,
@@ -43,6 +43,76 @@ const books = {
 
         ]
 }
+
+const books2 = { 
+	    "hasTaste":false,
+	    "code":200,
+	    "category":0,
+	    "result":[
+	        {
+	            "id":"book3001",
+	            "type":0,
+	            "name":"新概念英语第1册",
+	            "copywriter":"国际朗文英语Side by Side",
+	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/new1.jpg",
+	            "canDislike":false,
+	            "playCount":999,
+	            "trackCount":73,
+	            "highQuality":false,
+	            "alg":"featured"
+	        },
+	        ]
+	}
+
+const books3 = { 
+	    "hasTaste":false,
+	    "code":200,
+	    "category":0,
+	    "result":[
+	        {
+	            "id":"book3001",
+	            "type":0,
+	            "name":"新概念英语第1册",
+	            "copywriter":"国际朗文英语Side by Side",
+	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/new1.jpg",
+	            "canDislike":false,
+	            "playCount":999,
+	            "trackCount":73,
+	            "highQuality":false,
+	            "alg":"featured"
+	        },
+	        ]
+	}
+
+const books4 = { 
+	    "hasTaste":false,
+	    "code":200,
+	    "category":0,
+	    "result":[
+	        {
+	            "id":"book3001",
+	            "type":0,
+	            "name":"新概念英语第1册",
+	            "copywriter":"国际朗文英语Side by Side",
+	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/new1.jpg",
+	            "canDislike":false,
+	            "playCount":999,
+	            "trackCount":73,
+	            "highQuality":false,
+	            "alg":"featured"
+	        },
+	        ]
+	}
+
+const books5 = { 
+	    "hasTaste":false,
+	    "code":200,
+	    "category":0,
+	    "result":[
+
+	        ]
+	}
+
 
 
 const catalogue =
@@ -894,7 +964,7 @@ const book3001 =
 		          "tns": [],
 		          "pic": 93458488373154
 		        },
-		        "dt": 206000,
+		        "dt": 104000,
 		        "h": {
 		          "br": 320000,
 		          "fid": 0,
@@ -956,7 +1026,7 @@ const book3001 =
 		          "tns": [],
 		          "pic": 93458488373154
 		        },
-		        "dt": 206000,
+		        "dt": 38000,
 		        "h": {
 		          "br": 320000,
 		          "fid": 0,
@@ -1018,7 +1088,7 @@ const book3001 =
 		          "tns": [],
 		          "pic": 93458488373154
 		        },
-		        "dt": 206000,
+		        "dt": 66000,
 		        "h": {
 		          "br": 320000,
 		          "fid": 0,
@@ -1089,7 +1159,7 @@ const book3001 =
 		    "description": null,
 		    "status": 0,
 		    "name": "新概念英语第1册",
-		    "id":"book3001",
+		    "id": "book3001",
 		    "shareCount": 0,
 		    "commentCount": 0
 		  },
@@ -1145,7 +1215,8 @@ const book3001 =
 		    }
 		  ]
 		}
-
+	
+	
 const book3002 ={
 		
 }
@@ -1185,7 +1256,7 @@ const detail300001 =
 		        "tns": [],
 		        "pic": 833429813854557
 		      },
-		      "dt": 280555,
+		      "dt": 104000,
 		      "h": {
 		        "br": 320000,
 		        "fid": 0,
@@ -1274,7 +1345,7 @@ const detail300002 =
 		        "tns": [],
 		        "pic": 833429813854557
 		      },
-		      "dt": 280555,
+		      "dt": 038000,
 		      "h": {
 		        "br": 320000,
 		        "fid": 0,
@@ -1364,7 +1435,7 @@ const detail300003 =
 		        "tns": [],
 		        "pic": 833429813854557
 		      },
-		      "dt": 280555,
+		      "dt": 066000,
 		      "h": {
 		        "br": 320000,
 		        "fid": 0,
@@ -1496,7 +1567,11 @@ const url300003 =
 
 
 module.exports = {
-		books: books,
+		books1: books1,
+		books2: books2,
+		books3: books3,
+		books4: books4,
+		books5: books5,
 		catalogue:catalogue,
 		banner:banner,
 		book3001:book3001,

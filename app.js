@@ -4,7 +4,11 @@ var http = require('http');
 var crypto = require('crypto');
 var reqhttp = require("request");
 
-var books = require('./data.js').books;
+var books1 = require('./data.js').books1;
+var books2 = require('./data.js').books2;
+var books3 = require('./data.js').books3;
+var books4 = require('./data.js').books4;
+var books5 = require('./data.js').books5;
 var catalogue = require('./data.js').catalogue;
 var banner = require('./data.js').banner;
 var book3001 = require('./data.js').book3001;
@@ -41,8 +45,32 @@ Start New Server
  */
 
 //get books
-app.get(dir + '/books', function(request, response) {
-	response.send(books);
+app.get(dir + '/books1', function(request, response) {
+	response.send(books1);
+	console.log(`Process ${request.url}...`);
+});
+
+//get books
+app.get(dir + '/books2', function(request, response) {
+	response.send(books2);
+	console.log(`Process ${request.url}...`);
+});
+
+//get books
+app.get(dir + '/books3', function(request, response) {
+	response.send(books3);
+	console.log(`Process ${request.url}...`);
+});
+
+//get books
+app.get(dir + '/books4', function(request, response) {
+	response.send(books4);
+	console.log(`Process ${request.url}...`);
+});
+
+//get books
+app.get(dir + '/books5', function(request, response) {
+	response.send(books5);
 	console.log(`Process ${request.url}...`);
 });
 
