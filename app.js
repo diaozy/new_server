@@ -22,7 +22,6 @@ var url300002 = require('./data.js').url300002;
 var url300003 = require('./data.js').url300003;
 
 
-
 //var bodyParser = require("body-parser");
 var app = express();
 var dir = "/v1"
@@ -37,8 +36,6 @@ app.all('*', function(req, res, next) {
     res.header("Content-Type", "application/json;charset=utf-8");
     next();
 });
-
-
 
 /*
 Start New Server
@@ -120,6 +117,7 @@ app.get(dir + '/music/detail', function(request, response) {
 	case '300003':
 		response.send(detail300003);
 		break;
+
 	default:
 		console.log(`Error get playlist ${request.query.id}...`);
 	}
