@@ -14,12 +14,12 @@ var banner = require('./data.js').banner;
 var book3001 = require('./data.js').book3001;
 var book3002 = require('./data.js').book3002;
 var book3003 = require('./data.js').book3003;
-var detail300001 = require('./data.js').detail300001;
-var detail300002 = require('./data.js').detail300002;
-var detail300003 = require('./data.js').detail300003;
-var url300001 = require('./data.js').url300001;
-var url300002 = require('./data.js').url300002;
-var url300003 = require('./data.js').url300003;
+var detail300101 = require('./data.js').detail300101;
+var detail300102 = require('./data.js').detail300102;
+var detail300103 = require('./data.js').detail300103;
+var url300101 = require('./data.js').url300101;
+var url300102 = require('./data.js').url300102;
+var url300103 = require('./data.js').url300103;
 
 
 //var bodyParser = require("body-parser");
@@ -108,14 +108,14 @@ app.get(dir + '/playlist/detail', function(request, response) {
 app.get(dir + '/music/detail', function(request, response) {
 	switch(request.query.id)
 	{
-	case '300001':
-		response.send(detail300001);
+	case '300101':
+		response.send(detail300101);
 		break;
-	case '300002':
-		response.send(detail300002);
+	case '300102':
+		response.send(detail300102);
 		break;
-	case '300003':
-		response.send(detail300003);
+	case '300103':
+		response.send(detail300103);
 		break;
 
 	default:
@@ -132,14 +132,14 @@ app.get(dir + '/music/url', function(request, response) {
 
 	switch(request.query.id)
 	{
-	case '300001':
-		response.send(url300001);
+	case '300101':
+		response.send(url300101);
 		break;
-	case '300002':
-		response.send(url300002);
+	case '300102':
+		response.send(url300102);
 		break;
-	case '300003':
-		response.send(url300003);
+	case '300103':
+		response.send(url300103);
 		break;
 	default:
 		console.log(`Error get playlist ${request.query.id}...`);

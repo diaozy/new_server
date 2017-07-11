@@ -8353,12 +8353,12 @@ const book3003 =
 
 
 
-const detail300001 = 
+const detail300101 = 
 {
 		  "songs": [
 		    {
 		      "name": "FLTRP",
-		      "id": 300001,
+		      "id": 300101,
 		      "pst": 0,
 		      "t": 0,
 		      "ar": [
@@ -8385,38 +8385,6 @@ const detail300001 =
 		        "pic": 833429813854557
 		      },
 		      "dt": 104000,
-		      "h": {
-		        "br": 320000,
-		        "fid": 0,
-		        "size": 11240301,
-		        "vd": 0.912588
-		      },
-		      "m": {
-		        "br": 160000,
-		        "fid": 0,
-		        "size": 5634424,
-		        "vd": 0.153235
-		      },
-		      "l": {
-		        "br": 96000,
-		        "fid": 0,
-		        "size": 3391655,
-		        "vd": 0.00716012
-		      },
-		      "a": null,
-		      "cd": "",
-		      "no": 8,
-		      "rtUrl": null,
-		      "ftype": 0,
-		      "rtUrls": [],
-		      "djId": 0,
-		      "copyright": 1,
-		      "s_id": 0,
-		      "cp": 7003,
-		      "mv": 0,
-		      "rtype": 0,
-		      "rurl": null,
-		      "mst": 9
 		    }
 		  ],
 		  "privileges": [
@@ -8441,7 +8409,7 @@ const detail300001 =
 		}
 
 
-const detail300002 = 
+const detail300102 = 
 
 {
 		  "songs": [
@@ -8532,7 +8500,7 @@ const detail300002 =
 	
 	
 	
-const detail300003 = 
+const detail300103 = 
 	
 {
 		  "songs": [
@@ -8621,36 +8589,24 @@ const detail300003 =
 		}
 	
 
-const url300001 = 
+const url300101 = 
 {
 		  "data": [
 		    {
-		      "id": 300001,
+		      "id": 300101,
 		      "url": "http://susanlistening-1253455298.file.myqcloud.com//%E6%96%B0%E6%A6%82%E5%BF%B5/NCE1MP3/01_FLTRP.mp3",
-		      "br": 128000,
-		      "size": 4485621,
-		      "md5": "413d2dac34340d5185b7073d31b7c349",
-		      "code": 200,
-		      "expi": 1200,
-		      "type": "mp3",
-		      "gain": 0.5225,
-		      "fee": 0,
-		      "uf": null,
-		      "payed": 0,
-		      "flag": 0,
-		      "canExtend": false
 		    }
 		  ],
 		  "code": 200
 		}	
 
 
-const url300002 = 
+const url300102 = 
 
 {
 		  "data": [
 		    {
-		      "id": 300002,
+		      "id": 300102,
 		      "url": "http://susanlistening-1253455298.file.myqcloud.com//%E6%96%B0%E6%A6%82%E5%BF%B5/NCE1MP3/02_L001.mp3",
 		      "br": 128000,
 		      "size": 4485621,
@@ -8670,12 +8626,12 @@ const url300002 =
 		}
 
 
-const url300003 = 
+const url300103 = 
 	
 {
 		  "data": [
 		    {
-		      "id": 300003,
+		      "id": 300103,
 		      "url": "http://susanlistening-1253455298.file.myqcloud.com//%E6%96%B0%E6%A6%82%E5%BF%B5/NCE1MP3/03_L003.mp3",
 		      "br": 128000,
 		      "size": 4485621,
@@ -8704,11 +8660,11 @@ module.exports = {
 		banner:banner,
 		book3001:book3001,
 		book3002:book3002,
-		book3002:book3002,
-		detail300001:detail300001,
-		detail300002:detail300002,
-		detail300003:detail300003,
-		url300001:url300001,
-		url300002:url300002,
-		url300003:url300003
+		book3003:book3003,
+		detail300101:detail300101,
+		detail300102:detail300102,
+		detail300103:detail300103,
+		url300101:url300101,
+		url300102:url300102,
+		url300103:url300103
 	}
