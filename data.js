@@ -8595,6 +8595,18 @@ const url300101 =
 		    {
 		      "id": 300101,
 		      "url": "http://susanlistening-1253455298.file.myqcloud.com//%E6%96%B0%E6%A6%82%E5%BF%B5/NCE1MP3/01_FLTRP.mp3",
+		      "br": 128000,
+		      "size": 4485621,
+		      "md5": "413d2dac34340d5185b7073d31b7c349",
+		      "code": 200,
+		      "expi": 1200,
+		      "type": "mp3",
+		      "gain": 0.5225,
+		      "fee": 0,
+		      "uf": null,
+		      "payed": 0,
+		      "flag": 0,
+		      "canExtend": false
 		    }
 		  ],
 		  "code": 200
