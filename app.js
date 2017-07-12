@@ -14,12 +14,17 @@ var banner = require('./data.js').banner;
 var book3001 = require('./data.js').book3001;
 var book3002 = require('./data.js').book3002;
 var book3003 = require('./data.js').book3003;
-var detail300101 = require('./data.js').detail300101;
-var detail300102 = require('./data.js').detail300102;
-var detail300103 = require('./data.js').detail300103;
-var url300101 = require('./data.js').url300101;
-var url300102 = require('./data.js').url300102;
-var url300103 = require('./data.js').url300103;
+
+
+for (var i=300101 ; i < 300174;i++)
+{
+	eval('var detail'+ i + '= require(\'./data.js\').detail' + i);
+}
+
+for (var i=300101 ; i < 300174;i++)
+{
+	eval('var url'+ i + '= require(\'./data.js\').url' + i);
+}
 
 
 //var bodyParser = require("body-parser");
@@ -85,20 +90,9 @@ app.get(dir + '/playlist/catlist', function(request, response) {
 
 //get lists
 app.get(dir + '/playlist/detail', function(request, response) {
-	switch(request.query.id)
-	{
-	case 'book3001':
-		response.send(book3001);
-		break;
-	case 'book3002':
-		response.send(book3002);
-		break;
-	case 'book3003':
-		response.send(book3003);
-		break;
-	default:
-		console.log(`Error get playlist ${request.query.id}...`);
-	}
+
+	var key = request.query.id;
+	response.send(eval(key));
 
 	console.log(`Process ${request.url}...`);
 	console.log(`Process ${request.query.id}...`);
@@ -106,22 +100,10 @@ app.get(dir + '/playlist/detail', function(request, response) {
 
 //get books detail
 app.get(dir + '/music/detail', function(request, response) {
-	switch(request.query.id)
-	{
-	case '300101':
-		response.send(detail300101);
-		break;
-	case '300102':
-		response.send(detail300102);
-		break;
-	case '300103':
-		response.send(detail300103);
-		break;
 
-	default:
-		console.log(`Error get playlist ${request.query.id}...`);
-	}
-	
+	var key = 'detail'+request.query.id;
+	response.send(eval(key));
+
 	console.log(`Process ${request.url}...`);
 	console.log(`Process ${request.query.id}...`);
 });
@@ -130,20 +112,8 @@ app.get(dir + '/music/detail', function(request, response) {
 //get mp3 url
 app.get(dir + '/music/url', function(request, response) {
 
-	switch(request.query.id)
-	{
-	case '300101':
-		response.send(url300101);
-		break;
-	case '300102':
-		response.send(url300102);
-		break;
-	case '300103':
-		response.send(url300103);
-		break;
-	default:
-		console.log(`Error get playlist ${request.query.id}...`);
-	}
+	var key = 'url'+request.query.id;
+	response.send(eval(key));
 	
 	console.log(`Process ${request.url}...`);
 	console.log(`Process ${request.query.id}...`);
