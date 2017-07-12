@@ -26,6 +26,25 @@ for (var i=300101 ; i < 300174;i++)
 	eval('var url'+ i + '= require(\'./data.js\').url' + i);
 }
 
+for (var i=300201 ; i < 300298;i++)
+{
+	eval('var detail'+ i + '= require(\'./data.js\').detail' + i);
+}
+
+for (var i=300201 ; i < 300298;i++)
+{
+	eval('var url'+ i + '= require(\'./data.js\').url' + i);
+}
+
+for (var i=300301 ; i < 300362;i++)
+{
+	eval('var detail'+ i + '= require(\'./data.js\').detail' + i);
+}
+
+for (var i=300301 ; i < 300362;i++)
+{
+	eval('var url'+ i + '= require(\'./data.js\').url' + i);
+}
 
 //var bodyParser = require("body-parser");
 var app = express();
