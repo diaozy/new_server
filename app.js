@@ -550,19 +550,22 @@ app.get(dir + '/simi/user', function(request, response) {
 });
 //评论
 app.get(dir + '/comments', function(request, response) {
-	var id = request.query.id;
-	var limit = request.query.limit;
-	var offset = request.query.offset;
-	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
-	var type = request.query.type == 'hot' ? 'hotcomments' : 'comments';
-	var data = {
-		"rid": id,
-		"offset": offset,
-		"limit": limit,
-		"total": false,
-		"csrf_token": ""
-	};
-	createWebAPIRequest('/weapi/v1/resource/' + type + '/' + id, data, cookie, response)
+
+	return;
+	
+	//	var id = request.query.id;
+//	var limit = request.query.limit;
+//	var offset = request.query.offset;
+//	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
+//	var type = request.query.type == 'hot' ? 'hotcomments' : 'comments';
+//	var data = {
+//		"rid": id,
+//		"offset": offset,
+//		"limit": limit,
+//		"total": false,
+//		"csrf_token": ""
+//	};
+//	createWebAPIRequest('/weapi/v1/resource/' + type + '/' + id, data, cookie, response)
 });
 
 //艺术家
