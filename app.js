@@ -15,6 +15,12 @@ var book3001 = require('./data.js').book3001;
 var book3002 = require('./data.js').book3002;
 var book3003 = require('./data.js').book3003;
 
+var book401 = require('./data.js').book401;
+var book402 = require('./data.js').book402;
+var book403 = require('./data.js').book403;
+var book404 = require('./data.js').book404;
+var book405 = require('./data.js').book405;
+var book406 = require('./data.js').book406;
 
 for (var i=300101 ; i < 300174;i++)
 {

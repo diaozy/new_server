@@ -50,19 +50,19 @@ const books2 = {
 	    "category":0,
 	    "result":[
 //	        {
-//	            "id":"book4001",
+//	            "id":"book401",
 //	            "type":0,
 //	            "name":"Side by Side 国际朗文英语第1册",
 //	            "copywriter":"国际朗文英语Side by Side",
 //	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/sbs1.jpg",
 //	            "canDislike":false,
 //	            "playCount":999,
-//	            "trackCount":99,
+//	            "trackCount":247,
 //	            "highQuality":false,
 //	            "alg":"featured"
 //	        },
 //	        {
-//	            "id":"book4002",
+//	            "id":"book402",
 //	            "type":0,
 //	            "name":"Side by Side 国际朗文英语练习第1册",
 //	            "copywriter":"国际朗文英语Side by Side",
@@ -74,7 +74,7 @@ const books2 = {
 //	            "alg":"featured"
 //	        },
 //	        {
-//	            "id":"book4003",
+//	            "id":"book403",
 //	            "type":0,
 //	            "name":"Side by Side 国际朗文英语第2册",
 //	            "copywriter":"国际朗文英语Side by Side",
@@ -86,7 +86,7 @@ const books2 = {
 //	            "alg":"featured"
 //	        },
 //	        {
-//	            "id":"book4004",
+//	            "id":"book404",
 //	            "type":0,
 //	            "name":"Side by Side 国际朗文英语练习第2册",
 //	            "copywriter":"国际朗文英语Side by Side",
@@ -98,7 +98,7 @@ const books2 = {
 //	            "alg":"featured"
 //	        },
 //	        {
-//	            "id":"book4005",
+//	            "id":"book405",
 //	            "type":0,
 //	            "name":"Side by Side 国际朗文英语第3册",
 //	            "copywriter":"国际朗文英语Side by Side",
@@ -110,7 +110,7 @@ const books2 = {
 //	            "alg":"featured"
 //	        },
 //	        {
-//	            "id":"book4006",
+//	            "id":"book406",
 //	            "type":0,
 //	            "name":"Side by Side 国际朗文英语练习第3册",
 //	            "copywriter":"国际朗文英语Side by Side",
@@ -2169,6 +2169,7 @@ const book3001 =
 		  },
 		  "code": 200,
 		  "privileges": [
+
 			    {
 			        "id": 300101,
 			        "fee": 0,
@@ -8350,6 +8351,14 @@ const book3003 =
 			      },
 			  ]
 		}
+
+const book401 = {}
+const book402 = {}
+const book403 = {}
+const book404 = {}
+const book405 = {}
+const book406 = {}
+
 
 const detail300101 = 
 {
@@ -17152,6 +17161,12 @@ module.exports = {
 		book3001:book3001,
 		book3002:book3002,
 		book3003:book3003,
+		book401:book401,
+		book402:book402,
+		book403:book403,
+		book404:book404,
+		book405:book405,
+		book406:book406,
 		detail300101:detail300101,
 		detail300102:detail300102,
 		detail300103:detail300103,
