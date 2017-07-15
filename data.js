@@ -804,7 +804,7 @@ const banner =
 {
 	    "banners":[
 	        {
-	            "pic":"http://susanlistening-1253455298.file.myqcloud.com/images/ad3.jpg",
+	            "pic":"http://susanlistening-1253455298.file.myqcloud.com/images/ad_n1.jpg",
 	            "exclusive":false,
 	            "monitorClick":null,
 	            "monitorImpress":null,
@@ -815,7 +815,7 @@ const banner =
 	            "url":""
 	        },
 	        {
-	            "pic":"http://susanlistening-1253455298.file.myqcloud.com/images/ad1.jpg",
+	            "pic":"http://susanlistening-1253455298.file.myqcloud.com/images/ad_n2.jpg",
 	            "exclusive":false,
 	            "monitorClick":null,
 	            "monitorImpress":null,
@@ -826,7 +826,18 @@ const banner =
 	            "url":"http://music.163.com/m/topic/170001"
 	        },
 	        {
-	            "pic":"http://susanlistening-1253455298.file.myqcloud.com/images/ad3.jpg",
+	            "pic":"http://susanlistening-1253455298.file.myqcloud.com/images/ad_n3.jpg",
+	            "exclusive":false,
+	            "monitorClick":null,
+	            "monitorImpress":null,
+	            "targetId":169001,
+	            "titleColor":"blue",
+	            "typeTitle":"ad3",
+	            "targetType":1005,
+	            "url":"http://music.163.com/m/topic/169001"
+	        },
+	        {
+	            "pic":"http://susanlistening-1253455298.file.myqcloud.com/images/ad_n5.jpg",
 	            "exclusive":false,
 	            "monitorClick":null,
 	            "monitorImpress":null,
