@@ -5,7 +5,7 @@ var crypto = require('crypto');
 var reqhttp = require("request");
 
 var books1 = require('./data.js').books1;
-var books2 = require('./data4.js').books2;
+var books2 = require('./data.js').books2;
 var books3 = require('./data.js').books3;
 var books4 = require('./data.js').books4;
 var books5 = require('./data.js').books5;
@@ -15,67 +15,42 @@ var book3001 = require('./data.js').book3001;
 var book3002 = require('./data.js').book3002;
 var book3003 = require('./data.js').book3003;
 
-var book401 = require('./data4.js').book401;
-var book402 = require('./data4.js').book402;
-var book403 = require('./data4.js').book403;
-var book404 = require('./data4.js').book404;
-var book405 = require('./data4.js').book405;
-var book406 = require('./data4.js').book406;
+var book401 = require('./data.js').book401;
+var book402 = require('./data.js').book402;
+var book403 = require('./data.js').book403;
+var book404 = require('./data.js').book404;
+var book405 = require('./data.js').book405;
+var book406 = require('./data.js').book406;
 
 for (var i=300101 ; i < 300174;i++)
 {
 	eval('var detail'+ i + '= require(\'./data.js\').detail' + i);
+}
+
+for (var i=300101 ; i < 300174;i++)
+{
 	eval('var url'+ i + '= require(\'./data.js\').url' + i);
 }
 
 for (var i=300201 ; i < 300298;i++)
 {
 	eval('var detail'+ i + '= require(\'./data.js\').detail' + i);
+}
+
+for (var i=300201 ; i < 300298;i++)
+{
 	eval('var url'+ i + '= require(\'./data.js\').url' + i);
 }
 
 for (var i=300301 ; i < 300362;i++)
 {
 	eval('var detail'+ i + '= require(\'./data.js\').detail' + i);
+}
+
+for (var i=300301 ; i < 300362;i++)
+{
 	eval('var url'+ i + '= require(\'./data.js\').url' + i);
 }
-
-for (var i=401001 ; i < 401248;i++)
-{
-	eval('var detail'+ i + '= require(\'./data4.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data4.js\').url' + i);
-}
-
-for (var i=402001 ; i < 402082;i++)
-{
-	eval('var detail'+ i + '= require(\'./data4.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data4.js\').url' + i);
-}
-
-for (var i=403001 ; i < 403208;i++)
-{
-	eval('var detail'+ i + '= require(\'./data4.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data4.js\').url' + i);
-}
-
-for (var i=404001 ; i < 404067;i++)
-{
-	eval('var detail'+ i + '= require(\'./data4.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data4.js\').url' + i);
-}
-
-for (var i=405001 ; i < 405194;i++)
-{
-	eval('var detail'+ i + '= require(\'./data4.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data4.js\').url' + i);
-}
-
-for (var i=406001 ; i < 406048;i++)
-{
-	eval('var detail'+ i + '= require(\'./data4.js\').detail' + i);
-	eval('var url'+ i + '= require(\'./data4.js\').url' + i);
-}
-
 
 //var bodyParser = require("body-parser");
 var app = express();

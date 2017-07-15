@@ -43,6 +43,88 @@ const books1 = {
 
         ]
 }
+
+const books2 = { 
+	    "hasTaste":false,
+	    "code":200,
+	    "category":0,
+	    "result":[
+//	        {
+//	            "id":"book401",
+//	            "type":0,
+//	            "name":"Side by Side 国际朗文英语第1册",
+//	            "copywriter":"国际朗文英语Side by Side",
+//	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/sbs1.jpg",
+//	            "canDislike":false,
+//	            "playCount":999,
+//	            "trackCount":247,
+//	            "highQuality":false,
+//	            "alg":"featured"
+//	        },
+//	        {
+//	            "id":"book402",
+//	            "type":0,
+//	            "name":"Side by Side 国际朗文英语练习第1册",
+//	            "copywriter":"国际朗文英语Side by Side",
+//	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/sbs1e.jpg",
+//	            "canDislike":false,
+//	            "playCount":999,
+//	            "trackCount":99,
+//	            "highQuality":false,
+//	            "alg":"featured"
+//	        },
+//	        {
+//	            "id":"book403",
+//	            "type":0,
+//	            "name":"Side by Side 国际朗文英语第2册",
+//	            "copywriter":"国际朗文英语Side by Side",
+//	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/sbs2.jpg",
+//	            "canDislike":false,
+//	            "playCount":999,
+//	            "trackCount":99,
+//	            "highQuality":false,
+//	            "alg":"featured"
+//	        },
+//	        {
+//	            "id":"book404",
+//	            "type":0,
+//	            "name":"Side by Side 国际朗文英语练习第2册",
+//	            "copywriter":"国际朗文英语Side by Side",
+//	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/sbs2e.jpg",
+//	            "canDislike":false,
+//	            "playCount":999,
+//	            "trackCount":99,
+//	            "highQuality":false,
+//	            "alg":"featured"
+//	        },
+//	        {
+//	            "id":"book405",
+//	            "type":0,
+//	            "name":"Side by Side 国际朗文英语第3册",
+//	            "copywriter":"国际朗文英语Side by Side",
+//	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/sbs3.jpg",
+//	            "canDislike":false,
+//	            "playCount":999,
+//	            "trackCount":99,
+//	            "highQuality":false,
+//	            "alg":"featured"
+//	        },
+//	        {
+//	            "id":"book406",
+//	            "type":0,
+//	            "name":"Side by Side 国际朗文英语练习第3册",
+//	            "copywriter":"国际朗文英语Side by Side",
+//	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/sbs3e.jpg",
+//	            "canDislike":false,
+//	            "playCount":999,
+//	            "trackCount":99,
+//	            "highQuality":false,
+//	            "alg":"featured"
+//	        },
+
+	        ]
+	}
+
 const books3 = { 
 	    "hasTaste":false,
 	    "code":200,
@@ -3242,19 +3324,7 @@ const book3001 =
 			      },
 			      {
 			        "id": 300173,
-			        "fee": 0,
-			        "payed": 0,
-			        "st": 0,
-			        "pl": 320000,
-			        "dl": 320000,
-			        "sp": 7,
-			        "cp": 1,
-			        "subp": 1,
-			        "cs": false,
-			        "maxbr": 999000,
-			        "fl": 320000,
-			        "toast": false,
-			        "flag": 0
+			        "st": 0
 			      },
 
 			  ]
@@ -7278,7 +7348,7 @@ const book3003 =
 		    "newImported": false,
 		    "specialType": 5,
 		    "trackUpdateTime": 1497870817842,
-		    "trackCount": 61,
+		    "trackCount": 97,
 		    "highQuality": false,
 		    "playCount": 999,
 		    "coverImgUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/new3.jpg",
@@ -8269,6 +8339,14 @@ const book3003 =
 			      },
 			  ]
 		}
+
+const book401 = {}
+const book402 = {}
+const book403 = {}
+const book404 = {}
+const book405 = {}
+const book406 = {}
+
 
 const detail300101 = 
 {
@@ -17058,9 +17136,11 @@ const url300361 =
   "code": 200
 }
 
+	
 
 module.exports = {
 		books1: books1,
+		books2: books2,
 		books3: books3,
 		books4: books4,
 		books5: books5,
@@ -17069,6 +17149,12 @@ module.exports = {
 		book3001:book3001,
 		book3002:book3002,
 		book3003:book3003,
+		book401:book401,
+		book402:book402,
+		book403:book403,
+		book404:book404,
+		book405:book405,
+		book406:book406,
 		detail300101:detail300101,
 		detail300102:detail300102,
 		detail300103:detail300103,
@@ -17531,6 +17617,5 @@ module.exports = {
 		url300359:url300359,
 		url300360:url300360,
 		url300361:url300361
-
 
 	}
