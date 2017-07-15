@@ -43,106 +43,6 @@ const books1 = {
 
         ]
 }
-const books3 = { 
-	    "hasTaste":false,
-	    "code":200,
-	    "category":0,
-	    "result":[
-//	        {
-//	            "id":"book5001",
-//	            "type":0,
-//	            "name":"3E少儿英语一级笔试",
-//	            "copywriter":"3E少儿英语",
-//	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/3e1b.jpg",
-//	            "canDislike":false,
-//	            "playCount":999,
-//	            "trackCount":99,
-//	            "highQuality":false,
-//	            "alg":"featured"
-//	        },
-//	        {
-//	            "id":"book5002",
-//	            "type":0,
-//	            "name":"3E少儿英语一级笔试真题集",
-//	            "copywriter":"3E少儿英语",
-//	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/3e1bz.jpg",
-//	            "canDislike":false,
-//	            "playCount":999,
-//	            "trackCount":99,
-//	            "highQuality":false,
-//	            "alg":"featured"
-//	        },
-//	        {
-//	            "id":"book5003",
-//	            "type":0,
-//	            "name":"3E少儿英语一级口试",
-//	            "copywriter":"3E少儿英语",
-//	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/3e1k.jpg",
-//	            "canDislike":false,
-//	            "playCount":999,
-//	            "trackCount":99,
-//	            "highQuality":false,
-//	            "alg":"featured"
-//	        },
-//	        {
-//	            "id":"book5004",
-//	            "type":0,
-//	            "name":"3E少儿英语一级口试真题集",
-//	            "copywriter":"3E少儿英语",
-//	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/3e1kz.jpg",
-//	            "canDislike":false,
-//	            "playCount":999,
-//	            "trackCount":99,
-//	            "highQuality":false,
-//	            "alg":"featured"
-//	        },
-//	        {
-//	            "id":"book5005",
-//	            "type":0,
-//	            "name":"3E少儿英语二级口试",
-//	            "copywriter":"3E少儿英语",
-//	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/3e2k.jpg",
-//	            "canDislike":false,
-//	            "playCount":999,
-//	            "trackCount":99,
-//	            "highQuality":false,
-//	            "alg":"featured"
-//	        },
-
-	        ]
-	}
-
-const books4 = { 
-	    "hasTaste":false,
-	    "code":200,
-	    "category":0,
-	    "result":[
-//	        {
-//	            "id":"book9001",
-//	            "type":0,
-//	            "name":"英语小故事（3年级）",
-//	            "copywriter":"其他",
-//	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/book3.jpg",
-//	            "canDislike":false,
-//	            "playCount":999,
-//	            "trackCount":99,
-//	            "highQuality":false,
-//	            "alg":"featured"
-//	        },
-//	        {
-//	            "id":"book9002",
-//	            "type":0,
-//	            "name":"英语小故事（4年级）",
-//	            "copywriter":"其他",
-//	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/book4.jpg",
-//	            "canDislike":false,
-//	            "playCount":999,
-//	            "trackCount":99,
-//	            "highQuality":false,
-//	            "alg":"featured"
-//	        },
-	        ]
-	}
 
 const books5 = { 
 	    "hasTaste":false,
@@ -17061,8 +16961,6 @@ const url300361 =
 
 module.exports = {
 		books1: books1,
-		books3: books3,
-		books4: books4,
 		books5: books5,
 		catalogue:catalogue,
 		banner:banner,
