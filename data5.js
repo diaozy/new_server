@@ -35,7 +35,7 @@ const books3 = {
 	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/3e1b.jpg",
 	            "canDislike":false,
 	            "playCount":999,
-	            "trackCount":2,
+	            "trackCount":6,
 	            "highQuality":false,
 	            "alg":"featured"
 	        },
@@ -453,7 +453,7 @@ const book503 =
 		    },
 		    "tracks": [
 		        {
-		            "name": "3E一级笔试音频A",
+		            "name": "01",
 		            "id": 503001,
 		            "ar": [
 		              {
@@ -468,7 +468,7 @@ const book503 =
 		            },
 		          },
 		          {
-		            "name": "3E一级笔试音频B",
+		            "name": "02",
 		            "id": 503002,
 		            "ar": [
 		              {
@@ -482,7 +482,66 @@ const book503 =
 		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e1b.jpg",
 		            },
 		          },
-
+		          {
+			            "name": "03",
+			            "id": 503003,
+			            "ar": [
+			              {
+			                 "id": 503,
+			                 "name": "3E少儿英语",
+			              }
+			            ],
+			            "al": {
+			              "id": "book503",
+			              "name": "3E少儿英语一级笔试",
+			              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e1b.jpg",
+			            },
+			          },
+			          {
+				            "name": "04",
+				            "id": 503004,
+				            "ar": [
+				              {
+				                 "id": 503,
+				                 "name": "3E少儿英语",
+				              }
+				            ],
+				            "al": {
+				              "id": "book503",
+				              "name": "3E少儿英语一级笔试",
+				              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e1b.jpg",
+				            },
+				          },
+				          {
+					            "name": "05",
+					            "id": 503005,
+					            "ar": [
+					              {
+					                 "id": 503,
+					                 "name": "3E少儿英语",
+					              }
+					            ],
+					            "al": {
+					              "id": "book503",
+					              "name": "3E少儿英语一级笔试",
+					              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e1b.jpg",
+					            },
+					          },
+					          {
+						            "name": "06",
+						            "id": 503006,
+						            "ar": [
+						              {
+						                 "id": 503,
+						                 "name": "3E少儿英语",
+						              }
+						            ],
+						            "al": {
+						              "id": "book503",
+						              "name": "3E少儿英语一级笔试",
+						              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e1b.jpg",
+						            },
+						          },
 		    	],
 		    "adType": 0,
 		    "trackNumberUpdateTime": 1497861674034,
@@ -499,7 +558,7 @@ const book503 =
 		    "newImported": false,
 		    "specialType": 5,
 		    "trackUpdateTime": 1497870817842,
-		    "trackCount": 2,
+		    "trackCount": 6,
 		    "highQuality": false,
 		    "playCount": 999,
 		    "coverImgUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e1b.jpg",
@@ -520,7 +579,22 @@ const book503 =
 		          "id": 503002,
 		        "st": 0
 		      },
-
+		        {
+		          "id": 503003,
+		        "st": 0
+		      },
+		        {
+		          "id": 503004,
+		        "st": 0
+		      },
+		        {
+		          "id": 503005,
+		        "st": 0
+		      },
+		        {
+		          "id": 503006,
+		        "st": 0
+		      },
 			  ]
 		}
 
@@ -2088,7 +2162,7 @@ const detail503001 =
 {
   "songs": [
     {
-        "name": "3E一级笔试音频A",
+        "name": "01",
         "id": 503001,
         "ar": [
           {
@@ -2114,7 +2188,7 @@ const detail503002 =
 {
   "songs": [
     {
-        "name": "3E一级笔试音频B",
+        "name": "02",
         "id": 503002,
         "ar": [
           {
@@ -2132,6 +2206,110 @@ const detail503002 =
   "privileges": [
     {
         "id": 503002,
+    }
+  ],
+  "code": 200
+}
+const detail503003 = 
+{
+  "songs": [
+    {
+        "name": "03",
+        "id": 503003,
+        "ar": [
+          {
+             "id": 503,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book503",
+          "name": "3E少儿英语一级笔试",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e1b.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 503003,
+    }
+  ],
+  "code": 200
+}
+const detail503004 = 
+{
+  "songs": [
+    {
+        "name": "04",
+        "id": 503004,
+        "ar": [
+          {
+             "id": 503,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book503",
+          "name": "3E少儿英语一级笔试",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e1b.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 503004,
+    }
+  ],
+  "code": 200
+}
+const detail503005 = 
+{
+  "songs": [
+    {
+        "name": "05",
+        "id": 503005,
+        "ar": [
+          {
+             "id": 503,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book503",
+          "name": "3E少儿英语一级笔试",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e1b.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 503005,
+    }
+  ],
+  "code": 200
+}
+const detail503006 = 
+{
+  "songs": [
+    {
+        "name": "06",
+        "id": 503006,
+        "ar": [
+          {
+             "id": 503,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book503",
+          "name": "3E少儿英语一级笔试",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e1b.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 503006,
     }
   ],
   "code": 200
@@ -3607,7 +3785,7 @@ const url503001 =
   "data": [
     {
         "id": 503001,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%B8%80%E7%BA%A7/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/A.mp3",
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%B8%80%E7%BA%A7/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/01.mp3",
     }
 ],
   "code": 200
@@ -3617,12 +3795,51 @@ const url503002 =
   "data": [
     {
         "id": 503002,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%B8%80%E7%BA%A7/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/A.mp3",
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%B8%80%E7%BA%A7/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/02.mp3",
     }
 ],
   "code": 200
 }
-
+const url503003 = 
+{
+  "data": [
+    {
+        "id": 503002,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%B8%80%E7%BA%A7/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/03.mp3",
+    }
+],
+  "code": 200
+}
+const url503004 = 
+{
+  "data": [
+    {
+        "id": 503002,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%B8%80%E7%BA%A7/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/04.mp3",
+    }
+],
+  "code": 200
+}
+const url503005 = 
+{
+  "data": [
+    {
+        "id": 503002,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%B8%80%E7%BA%A7/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/05.mp3",
+    }
+],
+  "code": 200
+}
+const url503006 = 
+{
+  "data": [
+    {
+        "id": 503002,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%B8%80%E7%BA%A7/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95/3E%E4%B8%80%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/06.mp3",
+    }
+],
+  "code": 200
+}
 const url504001 = 
 {
   "data": [
@@ -4167,6 +4384,10 @@ module.exports = {
 		detail502006:detail502006,
 		detail503001:detail503001,
 		detail503002:detail503002,
+		detail503003:detail503003,
+		detail503004:detail503004,
+		detail503005:detail503005,
+		detail503006:detail503006,
 		detail504001:detail504001,
 		detail504002:detail504002,
 		detail504003:detail504003,
@@ -4233,6 +4454,10 @@ module.exports = {
 		url502006:url502006,
 		url503001:url503001,
 		url503002:url503002,
+		url503003:url503003,
+		url503004:url503004,
+		url503005:url503005,
+		url503006:url503006,
 		url504001:url504001,
 		url504002:url504002,
 		url504003:url504003,
