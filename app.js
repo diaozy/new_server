@@ -235,7 +235,6 @@ app.get(dir + '/playlist/detail', function(request, response) {
 	response.send(eval(key));
 
 	console.log(`Process ${request.url}...`);
-	console.log(`Process ${request.query.id}...`);
 });
 
 //get books detail
@@ -245,7 +244,7 @@ app.get(dir + '/music/detail', function(request, response) {
 	response.send(eval(key));
 
 	console.log(`Process ${request.url}...`);
-	console.log(`Process ${request.query.id}...`);
+
 });
 
 
@@ -256,8 +255,7 @@ app.get(dir + '/music/url', function(request, response) {
 	response.send(eval(key));
 	
 	console.log(`Process ${request.url}...`);
-	console.log(`Process ${request.query.id}...`);
-	
+
 });
 
 
@@ -856,14 +854,15 @@ app.get(dir + '/user/detail', function(request, response) {
 });
 //用户歌单
 app.get(dir + '/user/playlist', function(request, response) {
-	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
-	var data = {
-		"offset": request.query.offset || '0',
-		"uid": request.query.uid,
-		"limit": request.query.limit || 20,
-		"csrf_token": ""
-	};
-	createWebAPIRequest('/weapi/user/playlist', data, cookie, response)
+//	var cookie = request.get('Cookie') ? request.get('Cookie') : (request.query.cookie ? request.query.cookie : '');
+//	var data = {
+//		"offset": request.query.offset || '0',
+//		"uid": request.query.uid,
+//		"limit": request.query.limit || 20,
+//		"csrf_token": ""
+//	};
+//	createWebAPIRequest('/weapi/user/playlist', data, cookie, response)
+	return;
 });
 //用户电台
 app.get(dir + '/user/radio', function(request, response) {
