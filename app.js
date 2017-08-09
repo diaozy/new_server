@@ -31,6 +31,9 @@ var book506 = require('./data5.js').book506;
 var book507 = require('./data5.js').book507;
 var book508 = require('./data5.js').book508;
 var book509 = require('./data5.js').book509;
+var book510 = require('./data5.js').book510;
+var book511 = require('./data5.js').book511;
+var book512 = require('./data5.js').book512;
 
 
 var book601 = require('./data6.js').book601;
@@ -144,6 +147,24 @@ for (var i=508001 ; i < 508011;i++)
 }
 
 for (var i=509001 ; i < 509011;i++)
+{
+	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
+	eval('var url'+ i + '= require(\'./data5.js\').url' + i);
+}
+
+for (var i=510001 ; i < 510007;i++)
+{
+	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
+	eval('var url'+ i + '= require(\'./data5.js\').url' + i);
+}
+
+for (var i=511001 ; i < 511012;i++)
+{
+	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
+	eval('var url'+ i + '= require(\'./data5.js\').url' + i);
+}
+
+for (var i=512001 ; i < 512011;i++)
 {
 	eval('var detail'+ i + '= require(\'./data5.js\').detail' + i);
 	eval('var url'+ i + '= require(\'./data5.js\').url' + i);

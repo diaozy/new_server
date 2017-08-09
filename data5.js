@@ -64,6 +64,42 @@ const books3 = {
 	            "alg":"featured"
 	        },
 	        {
+	            "id":"book510",
+	            "type":0,
+	            "name":"3E少儿英语二级口试真题集",
+	            "copywriter":"3E少儿英语",
+	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/3e2kz.jpg",
+	            "canDislike":false,
+	            "playCount":999,
+	            "trackCount":6,
+	            "highQuality":false,
+	            "alg":"featured"
+	        },
+	        {
+	            "id":"book511",
+	            "type":0,
+	            "name":"3E少儿英语二级笔试",
+	            "copywriter":"3E少儿英语",
+	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+	            "canDislike":false,
+	            "playCount":999,
+	            "trackCount":11,
+	            "highQuality":false,
+	            "alg":"featured"
+	        },
+	        {
+	            "id":"book512",
+	            "type":0,
+	            "name":"3E少儿英语二级笔试真题集",
+	            "copywriter":"3E少儿英语",
+	            "picUrl":"http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+	            "canDislike":false,
+	            "playCount":999,
+	            "trackCount":10,
+	            "highQuality":false,
+	            "alg":"featured"
+	        },
+	        {
 	            "id":"book506",
 	            "type":0,
 	            "name":"3E少儿英语三级口试",
@@ -1004,6 +1040,641 @@ const book505 =
 
 			  ]
 		}
+
+const book510 =
+{
+		"playlist": {
+		    "subscribers": [],
+		    "subscribed": false,
+		    "creator": {
+		    },
+		    "tracks": [
+		        {
+		            "name": "01",
+		            "id": 510001,
+		            "ar": [
+		              {
+		                 "id": 510,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book510",
+		              "name": "3E少儿英语二级口试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2kz.jpg",
+		            },
+		          },
+		          {
+		            "name": "02",
+		            "id": 510002,
+		            "ar": [
+		              {
+		                 "id": 510,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book510",
+		              "name": "3E少儿英语二级口试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2kz.jpg",
+		            },
+		          },
+		          {
+		            "name": "03",
+		            "id": 510003,
+		            "ar": [
+		              {
+		                 "id": 510,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book510",
+		              "name": "3E少儿英语二级口试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2kz.jpg",
+		            },
+		          },
+		          {
+		            "name": "04",
+		            "id": 510004,
+		            "ar": [
+		              {
+		                 "id": 510,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book510",
+		              "name": "3E少儿英语二级口试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2kz.jpg",
+		            },
+		          },
+		          {
+		            "name": "05",
+		            "id": 510005,
+		            "ar": [
+		              {
+		                 "id": 510,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book510",
+		              "name": "3E少儿英语二级口试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2kz.jpg",
+		            },
+		          },
+		          {
+		            "name": "06",
+		            "id": 510006,
+		            "ar": [
+		              {
+		                 "id": 510,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book510",
+		              "name": "3E少儿英语二级口试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2kz.jpg",
+		            },
+		          },
+
+		    	],
+		    "adType": 0,
+		    "trackNumberUpdateTime": 1497861674034,
+		    "ordered": false,
+		    "tags": [],
+		    "updateTime": 1497861674034,
+		    "commentThreadId": "A_PL_0_100003",
+		    "coverImgId": 3384296791485810,
+		    "createTime": 1359375591913,
+		    "userId": 79002,
+		    "cloudTrackCount": 0,
+		    "subscribedCount": 0,
+		    "privacy": 0,
+		    "newImported": false,
+		    "specialType": 5,
+		    "trackUpdateTime": 1497870817842,
+		    "trackCount": 6,
+		    "highQuality": false,
+		    "playCount": 999,
+		    "coverImgUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2kz.jpg",
+		    "description": null,
+		    "status": 0,
+		    "name": "3E少儿英语二级口试真题集",
+		    "id": "book510",
+		    "shareCount": 0,
+		    "commentCount": 0
+		  },
+		  "code": 200,
+		  "privileges": [
+		      {
+		          "id": 510001,
+		        "st": 0
+		      },
+		        {
+		          "id": 510002,
+		        "st": 0
+		      },
+		        {
+		          "id": 510003,
+		        "st": 0
+		      },
+		        {
+		          "id": 510004,
+		        "st": 0
+		      },
+		        {
+		          "id": 510005,
+		        "st": 0
+		      },
+		        {
+		          "id": 510006,
+		        "st": 0
+		      },
+			  ]
+		}
+
+const book511 =
+{
+		"playlist": {
+		    "subscribers": [],
+		    "subscribed": false,
+		    "creator": {
+		    },
+		    "tracks": [
+		        {
+		            "name": "01",
+		            "id": 511001,
+		            "ar": [
+		              {
+		                 "id": 511,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book511",
+		              "name": "3E少儿英语二级笔试",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+		            },
+		          },
+		          {
+		            "name": "02",
+		            "id": 511002,
+		            "ar": [
+		              {
+		                 "id": 511,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book511",
+		              "name": "3E少儿英语二级笔试",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+		            },
+		          },
+		          {
+		            "name": "03",
+		            "id": 511003,
+		            "ar": [
+		              {
+		                 "id": 511,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book511",
+		              "name": "3E少儿英语二级笔试",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+		            },
+		          },
+		          {
+		            "name": "04",
+		            "id": 511004,
+		            "ar": [
+		              {
+		                 "id": 511,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book511",
+		              "name": "3E少儿英语二级笔试",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+		            },
+		          },
+		          {
+		            "name": "05",
+		            "id": 511005,
+		            "ar": [
+		              {
+		                 "id": 511,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book511",
+		              "name": "3E少儿英语二级笔试",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+		            },
+		          },
+		          {
+		            "name": "06",
+		            "id": 511006,
+		            "ar": [
+		              {
+		                 "id": 511,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book511",
+		              "name": "3E少儿英语二级笔试",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+		            },
+		          },
+		          {
+		            "name": "07",
+		            "id": 511007,
+		            "ar": [
+		              {
+		                 "id": 511,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book511",
+		              "name": "3E少儿英语二级笔试",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+		            },
+		          },
+		          {
+		            "name": "08",
+		            "id": 511008,
+		            "ar": [
+		              {
+		                 "id": 511,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book511",
+		              "name": "3E少儿英语二级笔试",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+		            },
+		          },
+		          {
+		            "name": "09",
+		            "id": 511009,
+		            "ar": [
+		              {
+		                 "id": 511,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book511",
+		              "name": "3E少儿英语二级笔试",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+		            },
+		          },
+		          {
+		            "name": "10",
+		            "id": 511010,
+		            "ar": [
+		              {
+		                 "id": 511,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book511",
+		              "name": "3E少儿英语二级笔试",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+		            },
+		          },
+		          {
+		            "name": "11",
+		            "id": 511011,
+		            "ar": [
+		              {
+		                 "id": 511,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book511",
+		              "name": "3E少儿英语二级笔试",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+		            },
+		          },
+		    	],
+		    "adType": 0,
+		    "trackNumberUpdateTime": 1497861674034,
+		    "ordered": false,
+		    "tags": [],
+		    "updateTime": 1497861674034,
+		    "commentThreadId": "A_PL_0_100003",
+		    "coverImgId": 3384296791485810,
+		    "createTime": 1359375591913,
+		    "userId": 79002,
+		    "cloudTrackCount": 0,
+		    "subscribedCount": 0,
+		    "privacy": 0,
+		    "newImported": false,
+		    "specialType": 5,
+		    "trackUpdateTime": 1497870817842,
+		    "trackCount": 11,
+		    "highQuality": false,
+		    "playCount": 999,
+		    "coverImgUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+		    "description": null,
+		    "status": 0,
+		    "name": "3E少儿英语二级笔试",
+		    "id": "book511",
+		    "shareCount": 0,
+		    "commentCount": 0
+		  },
+		  "code": 200,
+		  "privileges": [
+		      {
+		          "id": 511001,
+		        "st": 0
+		      },
+		        {
+		          "id": 511002,
+		        "st": 0
+		      },
+		        {
+		          "id": 511003,
+		        "st": 0
+		      },
+		        {
+		          "id": 511004,
+		        "st": 0
+		      },
+		        {
+		          "id": 511005,
+		        "st": 0
+		      },
+		        {
+		          "id": 511006,
+		        "st": 0
+		      },
+		        {
+		          "id": 511007,
+		        "st": 0
+		      },
+		        {
+		          "id": 511008,
+		        "st": 0
+		      },
+		        {
+		          "id": 511009,
+		        "st": 0
+		      },
+		        {
+		          "id": 511010,
+		        "st": 0
+		      },
+		        {
+		          "id": 511011,
+		        "st": 0
+		      },
+			  ]
+		}
+
+const book512 =
+{
+		"playlist": {
+		    "subscribers": [],
+		    "subscribed": false,
+		    "creator": {
+		    },
+		    "tracks": [
+		        {
+		            "name": "01",
+		            "id": 512001,
+		            "ar": [
+		              {
+		                 "id": 512,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book512",
+		              "name": "3E少儿英语二级笔试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+		            },
+		          },
+		          {
+		            "name": "02",
+		            "id": 512002,
+		            "ar": [
+		              {
+		                 "id": 512,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book512",
+		              "name": "3E少儿英语二级笔试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+		            },
+		          },
+		          {
+		            "name": "03",
+		            "id": 512003,
+		            "ar": [
+		              {
+		                 "id": 512,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book512",
+		              "name": "3E少儿英语二级笔试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+		            },
+		          },
+		          {
+		            "name": "04",
+		            "id": 512004,
+		            "ar": [
+		              {
+		                 "id": 512,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book512",
+		              "name": "3E少儿英语二级笔试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+		            },
+		          },
+		          {
+		            "name": "05",
+		            "id": 512005,
+		            "ar": [
+		              {
+		                 "id": 512,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book512",
+		              "name": "3E少儿英语二级笔试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+		            },
+		          },
+		          {
+		            "name": "06",
+		            "id": 512006,
+		            "ar": [
+		              {
+		                 "id": 512,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book512",
+		              "name": "3E少儿英语二级笔试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+		            },
+		          },
+		          {
+		            "name": "07",
+		            "id": 512007,
+		            "ar": [
+		              {
+		                 "id": 512,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book512",
+		              "name": "3E少儿英语二级笔试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+		            },
+		          },
+		          {
+		            "name": "08",
+		            "id": 512008,
+		            "ar": [
+		              {
+		                 "id": 512,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book512",
+		              "name": "3E少儿英语二级笔试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+		            },
+		          },
+		          {
+		            "name": "09",
+		            "id": 512009,
+		            "ar": [
+		              {
+		                 "id": 512,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book512",
+		              "name": "3E少儿英语二级笔试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+		            },
+		          },
+		          {
+		            "name": "10",
+		            "id": 512010,
+		            "ar": [
+		              {
+		                 "id": 512,
+		                 "name": "3E少儿英语",
+		              }
+		            ],
+		            "al": {
+		              "id": "book512",
+		              "name": "3E少儿英语二级笔试真题集",
+		              "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+		            },
+		          },
+		    	],
+		    "adType": 0,
+		    "trackNumberUpdateTime": 1497861674034,
+		    "ordered": false,
+		    "tags": [],
+		    "updateTime": 1497861674034,
+		    "commentThreadId": "A_PL_0_100003",
+		    "coverImgId": 3384296791485810,
+		    "createTime": 1359375591913,
+		    "userId": 79002,
+		    "cloudTrackCount": 0,
+		    "subscribedCount": 0,
+		    "privacy": 0,
+		    "newImported": false,
+		    "specialType": 5,
+		    "trackUpdateTime": 1497870817842,
+		    "trackCount": 10,
+		    "highQuality": false,
+		    "playCount": 999,
+		    "coverImgUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+		    "description": null,
+		    "status": 0,
+		    "name": "3E少儿英语二级笔试真题集",
+		    "id": "book512",
+		    "shareCount": 0,
+		    "commentCount": 0
+		  },
+		  "code": 200,
+		  "privileges": [
+		      {
+		          "id": 512001,
+		        "st": 0
+		      },
+		        {
+		          "id": 512002,
+		        "st": 0
+		      },
+		        {
+		          "id": 512003,
+		        "st": 0
+		      },
+		        {
+		          "id": 512004,
+		        "st": 0
+		      },
+		        {
+		          "id": 512005,
+		        "st": 0
+		      },
+		        {
+		          "id": 512006,
+		        "st": 0
+		      },
+		        {
+		          "id": 512007,
+		        "st": 0
+		      },
+		        {
+		          "id": 512008,
+		        "st": 0
+		      },
+		        {
+		          "id": 512009,
+		        "st": 0
+		      },
+		        {
+		          "id": 512010,
+		        "st": 0
+		      },
+			  ]
+		}
+
 
 const book506 =
 {
@@ -4357,6 +5028,984 @@ const url509010 =
   "code": 200
 }
 
+const detail510001 = 
+{
+  "songs": [
+    {
+        "name": "01",
+        "id": 510001,
+        "ar": [
+          {
+             "id": 510,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book510",
+          "name": "3E少儿英语二级口试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2kz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 510001,
+    }
+  ],
+  "code": 200
+}
+const detail510002 = 
+{
+  "songs": [
+    {
+        "name": "02",
+        "id": 510002,
+        "ar": [
+          {
+             "id": 510,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book510",
+          "name": "3E少儿英语二级口试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2kz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 510002,
+    }
+  ],
+  "code": 200
+}
+const detail510003 = 
+{
+  "songs": [
+    {
+        "name": "03",
+        "id": 510003,
+        "ar": [
+          {
+             "id": 510,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book510",
+          "name": "3E少儿英语二级口试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2kz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 510003,
+    }
+  ],
+  "code": 200
+}
+const detail510004 = 
+{
+  "songs": [
+    {
+        "name": "04",
+        "id": 510004,
+        "ar": [
+          {
+             "id": 510,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book510",
+          "name": "3E少儿英语二级口试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2kz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 510004,
+    }
+  ],
+  "code": 200
+}
+const detail510005 = 
+{
+  "songs": [
+    {
+        "name": "05",
+        "id": 510005,
+        "ar": [
+          {
+             "id": 510,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book510",
+          "name": "3E少儿英语二级口试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2kz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 510005,
+    }
+  ],
+  "code": 200
+}
+const detail510006 = 
+{
+  "songs": [
+    {
+        "name": "06",
+        "id": 510006,
+        "ar": [
+          {
+             "id": 510,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book510",
+          "name": "3E少儿英语二级口试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2kz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 510006,
+    }
+  ],
+  "code": 200
+}
+
+const detail511001 = 
+{
+  "songs": [
+    {
+        "name": "01",
+        "id": 511001,
+        "ar": [
+          {
+             "id": 511,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book511",
+          "name": "3E少儿英语二级笔试",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 511001,
+    }
+  ],
+  "code": 200
+}
+const detail511002 = 
+{
+  "songs": [
+    {
+        "name": "02",
+        "id": 511002,
+        "ar": [
+          {
+             "id": 511,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book511",
+          "name": "3E少儿英语二级笔试",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 511002,
+    }
+  ],
+  "code": 200
+}
+const detail511003 = 
+{
+  "songs": [
+    {
+        "name": "03",
+        "id": 511003,
+        "ar": [
+          {
+             "id": 511,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book511",
+          "name": "3E少儿英语二级笔试",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 511003,
+    }
+  ],
+  "code": 200
+}
+const detail511004 = 
+{
+  "songs": [
+    {
+        "name": "04",
+        "id": 511004,
+        "ar": [
+          {
+             "id": 511,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book511",
+          "name": "3E少儿英语二级笔试",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 511004,
+    }
+  ],
+  "code": 200
+}
+const detail511005 = 
+{
+  "songs": [
+    {
+        "name": "05",
+        "id": 511005,
+        "ar": [
+          {
+             "id": 511,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book511",
+          "name": "3E少儿英语二级笔试",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 511005,
+    }
+  ],
+  "code": 200
+}
+const detail511006 = 
+{
+  "songs": [
+    {
+        "name": "06",
+        "id": 511006,
+        "ar": [
+          {
+             "id": 511,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book511",
+          "name": "3E少儿英语二级笔试",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 511006,
+    }
+  ],
+  "code": 200
+}
+const detail511007 = 
+{
+  "songs": [
+    {
+        "name": "07",
+        "id": 511007,
+        "ar": [
+          {
+             "id": 511,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book511",
+          "name": "3E少儿英语二级笔试",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 511007,
+    }
+  ],
+  "code": 200
+}
+const detail511008 = 
+{
+  "songs": [
+    {
+        "name": "08",
+        "id": 511008,
+        "ar": [
+          {
+             "id": 511,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book511",
+          "name": "3E少儿英语二级笔试",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 511008,
+    }
+  ],
+  "code": 200
+}
+const detail511009 = 
+{
+  "songs": [
+    {
+        "name": "09",
+        "id": 511009,
+        "ar": [
+          {
+             "id": 511,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book511",
+          "name": "3E少儿英语二级笔试",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 511009,
+    }
+  ],
+  "code": 200
+}
+const detail511010 = 
+{
+  "songs": [
+    {
+        "name": "10",
+        "id": 511010,
+        "ar": [
+          {
+             "id": 511,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book511",
+          "name": "3E少儿英语二级笔试",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 511010,
+    }
+  ],
+  "code": 200
+}
+const detail511011 = 
+{
+  "songs": [
+    {
+        "name": "11",
+        "id": 511011,
+        "ar": [
+          {
+             "id": 511,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book511",
+          "name": "3E少儿英语二级笔试",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2b.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 511011,
+    }
+  ],
+  "code": 200
+}
+
+const detail512001 = 
+{
+  "songs": [
+    {
+        "name": "01",
+        "id": 512001,
+        "ar": [
+          {
+             "id": 512,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book512",
+          "name": "3E少儿英语二级笔试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 512001,
+    }
+  ],
+  "code": 200
+}
+const detail512002 = 
+{
+  "songs": [
+    {
+        "name": "02",
+        "id": 512002,
+        "ar": [
+          {
+             "id": 512,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book512",
+          "name": "3E少儿英语二级笔试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 512002,
+    }
+  ],
+  "code": 200
+}
+const detail512003 = 
+{
+  "songs": [
+    {
+        "name": "03",
+        "id": 512003,
+        "ar": [
+          {
+             "id": 512,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book512",
+          "name": "3E少儿英语二级笔试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 512003,
+    }
+  ],
+  "code": 200
+}
+const detail512004 = 
+{
+  "songs": [
+    {
+        "name": "04",
+        "id": 512004,
+        "ar": [
+          {
+             "id": 512,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book512",
+          "name": "3E少儿英语二级笔试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 512004,
+    }
+  ],
+  "code": 200
+}
+const detail512005 = 
+{
+  "songs": [
+    {
+        "name": "05",
+        "id": 512005,
+        "ar": [
+          {
+             "id": 512,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book512",
+          "name": "3E少儿英语二级笔试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 512005,
+    }
+  ],
+  "code": 200
+}
+const detail512006 = 
+{
+  "songs": [
+    {
+        "name": "06",
+        "id": 512006,
+        "ar": [
+          {
+             "id": 512,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book512",
+          "name": "3E少儿英语二级笔试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 512006,
+    }
+  ],
+  "code": 200
+}
+const detail512007 = 
+{
+  "songs": [
+    {
+        "name": "07",
+        "id": 512007,
+        "ar": [
+          {
+             "id": 512,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book512",
+          "name": "3E少儿英语二级笔试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 512007,
+    }
+  ],
+  "code": 200
+}
+const detail512008 = 
+{
+  "songs": [
+    {
+        "name": "08",
+        "id": 512008,
+        "ar": [
+          {
+             "id": 512,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book512",
+          "name": "3E少儿英语二级笔试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 512008,
+    }
+  ],
+  "code": 200
+}
+const detail512009 = 
+{
+  "songs": [
+    {
+        "name": "09",
+        "id": 512009,
+        "ar": [
+          {
+             "id": 512,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book512",
+          "name": "3E少儿英语二级笔试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 512009,
+    }
+  ],
+  "code": 200
+}
+const detail512010 = 
+{
+  "songs": [
+    {
+        "name": "10",
+        "id": 512010,
+        "ar": [
+          {
+             "id": 512,
+             "name": "3E少儿英语",
+          }
+        ],
+        "al": {
+          "id": "book512",
+          "name": "3E少儿英语二级笔试真题集",
+          "picUrl": "http://susanlistening-1253455298.file.myqcloud.com/images/3e2bz.jpg",
+        },
+    }
+  ],
+  "privileges": [
+    {
+        "id": 512010,
+    }
+  ],
+  "code": 200
+}
+
+const url510001 = 
+{
+  "data": [
+    {
+        "id": 510001,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E5%8F%A3%E8%AF%95%E7%9C%9F%E9%A2%98MP3/1.mp3",
+    }
+],
+  "code": 200
+}
+const url510002 = 
+{
+  "data": [
+    {
+        "id": 510002,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E5%8F%A3%E8%AF%95%E7%9C%9F%E9%A2%98MP3/2.mp3",
+    }
+],
+  "code": 200
+}
+const url510003 = 
+{
+  "data": [
+    {
+        "id": 510003,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E5%8F%A3%E8%AF%95%E7%9C%9F%E9%A2%98MP3/3.mp3",
+    }
+],
+  "code": 200
+}
+const url510004 = 
+{
+  "data": [
+    {
+        "id": 510004,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E5%8F%A3%E8%AF%95%E7%9C%9F%E9%A2%98MP3/4.mp3",
+    }
+],
+  "code": 200
+}
+const url510005 = 
+{
+  "data": [
+    {
+        "id": 510005,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E5%8F%A3%E8%AF%95%E7%9C%9F%E9%A2%98MP3/5.mp3",
+    }
+],
+  "code": 200
+}
+const url510006 = 
+{
+  "data": [
+    {
+        "id": 510006,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E5%8F%A3%E8%AF%95%E7%9C%9F%E9%A2%98MP3/6.mp3",
+    }
+],
+  "code": 200
+}
+
+const url511001 = 
+{
+  "data": [
+    {
+        "id": 511001,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/01.mp3",
+    }
+],
+  "code": 200
+}
+const url511002 = 
+{
+  "data": [
+    {
+        "id": 511002,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/02.mp3",
+    }
+],
+  "code": 200
+}
+const url511003 = 
+{
+  "data": [
+    {
+        "id": 511003,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/03.mp3",
+    }
+],
+  "code": 200
+}
+const url511004 = 
+{
+  "data": [
+    {
+        "id": 511004,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/04.mp3",
+    }
+],
+  "code": 200
+}
+const url511005 = 
+{
+  "data": [
+    {
+        "id": 511005,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/05.mp3",
+    }
+],
+  "code": 200
+}
+const url511006 = 
+{
+  "data": [
+    {
+        "id": 511006,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/06.mp3",
+    }
+],
+  "code": 200
+}
+const url511007 = 
+{
+  "data": [
+    {
+        "id": 511007,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/07.mp3",
+    }
+],
+  "code": 200
+}
+const url511008 = 
+{
+  "data": [
+    {
+        "id": 511008,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/08.mp3",
+    }
+],
+  "code": 200
+}
+const url511009 = 
+{
+  "data": [
+    {
+        "id": 511009,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/09.mp3",
+    }
+],
+  "code": 200
+}
+const url511010 = 
+{
+  "data": [
+    {
+        "id": 511010,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/10.mp3",
+    }
+],
+  "code": 200
+}
+const url511011 = 
+{
+  "data": [
+    {
+        "id": 511011,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E6%95%99%E6%9D%90MP3/11.mp3",
+    }
+],
+  "code": 200
+}
+
+const url512001 = 
+{
+  "data": [
+    {
+        "id": 512001,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98MP3/01.mp3",
+    }
+],
+  "code": 200
+}
+const url512002 = 
+{
+  "data": [
+    {
+        "id": 512002,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98MP3/02.mp3",
+    }
+],
+  "code": 200
+}
+const url512003 = 
+{
+  "data": [
+    {
+        "id": 512003,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98MP3/03.mp3",
+    }
+],
+  "code": 200
+}
+const url512004 = 
+{
+  "data": [
+    {
+        "id": 512004,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98MP3/04.mp3",
+    }
+],
+  "code": 200
+}
+const url512005 = 
+{
+  "data": [
+    {
+        "id": 512005,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98MP3/05.mp3",
+    }
+],
+  "code": 200
+}
+const url512006 = 
+{
+  "data": [
+    {
+        "id": 512006,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98MP3/06.mp3",
+    }
+],
+  "code": 200
+}
+const url512007 = 
+{
+  "data": [
+    {
+        "id": 512007,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98MP3/07.mp3",
+    }
+],
+  "code": 200
+}
+const url512008 = 
+{
+  "data": [
+    {
+        "id": 512008,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98MP3/08.mp3",
+    }
+],
+  "code": 200
+}
+const url512009 = 
+{
+  "data": [
+    {
+        "id": 512009,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98MP3/09.mp3",
+    }
+],
+  "code": 200
+}
+const url512010 = 
+{
+  "data": [
+    {
+        "id": 512010,
+        "url": "http://susanlistening-1253455298.file.myqcloud.com/3E/3E%E4%BA%8C%E7%BA%A7/%E4%BA%8C%E7%BA%A7%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98MP3/10.mp3",
+    }
+],
+  "code": 200
+}
+
 
 module.exports = {
 		books3: books3,
@@ -4369,6 +6018,9 @@ module.exports = {
 		book507:book507,
 		book508:book508,
 		book509:book509,
+		book510:book510,
+		book511:book511,
+		book512:book512,
 		detail501001:detail501001,
 		detail501002:detail501002,
 		detail501003:detail501003,
@@ -4508,6 +6160,60 @@ module.exports = {
 		url509007:url509007,
 		url509008:url509008,
 		url509009:url509009,
-		url509010:url509010
+		url509010:url509010,
+		detail510001:detail510001,
+		detail510002:detail510002,
+		detail510003:detail510003,
+		detail510004:detail510004,
+		detail510005:detail510005,
+		detail510006:detail510006,
+		detail511001:detail511001,
+		detail511002:detail511002,
+		detail511003:detail511003,
+		detail511004:detail511004,
+		detail511005:detail511005,
+		detail511006:detail511006,
+		detail511007:detail511007,
+		detail511008:detail511008,
+		detail511009:detail511009,
+		detail511010:detail511010,
+		detail511011:detail511011,
+		detail512001:detail512001,
+		detail512002:detail512002,
+		detail512003:detail512003,
+		detail512004:detail512004,
+		detail512005:detail512005,
+		detail512006:detail512006,
+		detail512007:detail512007,
+		detail512008:detail512008,
+		detail512009:detail512009,
+		detail512010:detail512010,
+		url510001:url510001,
+		url510002:url510002,
+		url510003:url510003,
+		url510004:url510004,
+		url510005:url510005,
+		url510006:url510006,
+		url511001:url511001,
+		url511002:url511002,
+		url511003:url511003,
+		url511004:url511004,
+		url511005:url511005,
+		url511006:url511006,
+		url511007:url511007,
+		url511008:url511008,
+		url511009:url511009,
+		url511010:url511010,
+		url511011:url511011,
+		url512001:url512001,
+		url512002:url512002,
+		url512003:url512003,
+		url512004:url512004,
+		url512005:url512005,
+		url512006:url512006,
+		url512007:url512007,
+		url512008:url512008,
+		url512009:url512009,
+		url512010:url512010
 		
 }
