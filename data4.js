@@ -24845,7 +24845,7 @@ const url401001 =
   "data": [
     {
         "id": 401001,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/A001Introduction%20.MP3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/A001Introduction%20.MP3",
     }
 ],
   "code": 200
@@ -24855,7 +24855,7 @@ const url401002 =
   "data": [
     {
         "id": 401002,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P001_Chapter%2001_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P001_Chapter%2001_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -24865,7 +24865,7 @@ const url401003 =
   "data": [
     {
         "id": 401003,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P002_Chapter%2001_Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P002_Chapter%2001_Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -24875,7 +24875,7 @@ const url401004 =
   "data": [
     {
         "id": 401004,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P003_Chapter%2001_How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P003_Chapter%2001_How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -24885,7 +24885,7 @@ const url401005 =
   "data": [
     {
         "id": 401005,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P004_Chapter%2001_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P004_Chapter%2001_Reading.mp3",
     }
 ],
   "code": 200
@@ -24895,7 +24895,7 @@ const url401006 =
   "data": [
     {
         "id": 401006,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P005_Chapter%2001_1Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P005_Chapter%2001_1Listening.mp3",
     }
 ],
   "code": 200
@@ -24905,7 +24905,7 @@ const url401007 =
   "data": [
     {
         "id": 401007,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P005_Chapter%2001_2Interview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P005_Chapter%2001_2Interview.mp3",
     }
 ],
   "code": 200
@@ -24915,7 +24915,7 @@ const url401008 =
   "data": [
     {
         "id": 401008,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P006_Chapter%2001_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P006_Chapter%2001_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -24925,7 +24925,7 @@ const url401009 =
   "data": [
     {
         "id": 401009,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P007_Chapter%2002_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P007_Chapter%2002_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -24935,7 +24935,7 @@ const url401010 =
   "data": [
     {
         "id": 401010,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P008_Chapter%2002_In%20the%20Classroom.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P008_Chapter%2002_In%20the%20Classroom.mp3",
     }
 ],
   "code": 200
@@ -24945,7 +24945,7 @@ const url401011 =
   "data": [
     {
         "id": 401011,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P009_Chapter%2002_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P009_Chapter%2002_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -24955,7 +24955,7 @@ const url401012 =
   "data": [
     {
         "id": 401012,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P009_Chapter%2002_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P009_Chapter%2002_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -24965,7 +24965,7 @@ const url401013 =
   "data": [
     {
         "id": 401013,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P010_Chapter%2002_At%20Home.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P010_Chapter%2002_At%20Home.mp3",
     }
 ],
   "code": 200
@@ -24975,7 +24975,7 @@ const url401014 =
   "data": [
     {
         "id": 401014,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P011_Chapter%2002_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P011_Chapter%2002_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -24985,7 +24985,7 @@ const url401015 =
   "data": [
     {
         "id": 401015,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P011_Chapter%2002_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P011_Chapter%2002_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -24995,7 +24995,7 @@ const url401016 =
   "data": [
     {
         "id": 401016,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P012_Chapter%2002_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P012_Chapter%2002_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -25005,7 +25005,7 @@ const url401017 =
   "data": [
     {
         "id": 401017,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P012_Chapter%2002_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P012_Chapter%2002_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -25015,7 +25015,7 @@ const url401018 =
   "data": [
     {
         "id": 401018,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P013_Chapter%2002_1Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P013_Chapter%2002_1Reading.mp3",
     }
 ],
   "code": 200
@@ -25025,7 +25025,7 @@ const url401019 =
   "data": [
     {
         "id": 401019,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P013_Chapter%2002_2How%20to%20Say%20It!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P013_Chapter%2002_2How%20to%20Say%20It!.mp3",
     }
 ],
   "code": 200
@@ -25035,7 +25035,7 @@ const url401020 =
   "data": [
     {
         "id": 401020,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P014_Chapter%2002_Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P014_Chapter%2002_Exercises.mp3",
     }
 ],
   "code": 200
@@ -25045,7 +25045,7 @@ const url401021 =
   "data": [
     {
         "id": 401021,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P015_Chapter%2002_1Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P015_Chapter%2002_1Reading.mp3",
     }
 ],
   "code": 200
@@ -25055,7 +25055,7 @@ const url401022 =
   "data": [
     {
         "id": 401022,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P015_Chapter%2002_2Listening%201.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P015_Chapter%2002_2Listening%201.mp3",
     }
 ],
   "code": 200
@@ -25065,7 +25065,7 @@ const url401023 =
   "data": [
     {
         "id": 401023,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P015_Chapter%2002_3Listening%202.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P015_Chapter%2002_3Listening%202.mp3",
     }
 ],
   "code": 200
@@ -25075,7 +25075,7 @@ const url401024 =
   "data": [
     {
         "id": 401024,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P016_Chapter%2002_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P016_Chapter%2002_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -25085,7 +25085,7 @@ const url401025 =
   "data": [
     {
         "id": 401025,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P017_Chapter%2003_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P017_Chapter%2003_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -25095,7 +25095,7 @@ const url401026 =
   "data": [
     {
         "id": 401026,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P018_Chapter%2003_Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P018_Chapter%2003_Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -25105,7 +25105,7 @@ const url401027 =
   "data": [
     {
         "id": 401027,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P019_Chapter%2003_Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P019_Chapter%2003_Exercises.mp3",
     }
 ],
   "code": 200
@@ -25115,7 +25115,7 @@ const url401028 =
   "data": [
     {
         "id": 401028,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P020_Chapter%2003_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P020_Chapter%2003_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -25125,7 +25125,7 @@ const url401029 =
   "data": [
     {
         "id": 401029,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P020_Chapter%2003_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P020_Chapter%2003_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -25135,7 +25135,7 @@ const url401030 =
   "data": [
     {
         "id": 401030,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P021_Chapter%2003_How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P021_Chapter%2003_How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -25145,7 +25145,7 @@ const url401031 =
   "data": [
     {
         "id": 401031,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P022_Chapter%2003_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P022_Chapter%2003_Reading.mp3",
     }
 ],
   "code": 200
@@ -25155,7 +25155,7 @@ const url401032 =
   "data": [
     {
         "id": 401032,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P023_Chapter%2003_Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P023_Chapter%2003_Listening.mp3",
     }
 ],
   "code": 200
@@ -25165,7 +25165,7 @@ const url401033 =
   "data": [
     {
         "id": 401033,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P024_Chapter%2003_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P024_Chapter%2003_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -25175,7 +25175,7 @@ const url401034 =
   "data": [
     {
         "id": 401034,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P025_Side%20by%20Side%20Gazette%2001_1Global%20Exchange.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P025_Side%20by%20Side%20Gazette%2001_1Global%20Exchange.mp3",
     }
 ],
   "code": 200
@@ -25185,7 +25185,7 @@ const url401035 =
   "data": [
     {
         "id": 401035,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P025_Side%20by%20Side%20Gazette%2001_2Build%20Your%20Vocabulary!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P025_Side%20by%20Side%20Gazette%2001_2Build%20Your%20Vocabulary!.mp3",
     }
 ],
   "code": 200
@@ -25195,7 +25195,7 @@ const url401036 =
   "data": [
     {
         "id": 401036,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P026_Side%20by%20Side%20Gazette%2001_1Around%20the%20World.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P026_Side%20by%20Side%20Gazette%2001_1Around%20the%20World.mp3",
     }
 ],
   "code": 200
@@ -25205,7 +25205,7 @@ const url401037 =
   "data": [
     {
         "id": 401037,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P026_Side%20by%20Side%20Gazette%2001_2Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P026_Side%20by%20Side%20Gazette%2001_2Listening.mp3",
     }
 ],
   "code": 200
@@ -25215,7 +25215,7 @@ const url401038 =
   "data": [
     {
         "id": 401038,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P027_Chapter%2004_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P027_Chapter%2004_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -25225,7 +25225,7 @@ const url401039 =
   "data": [
     {
         "id": 401039,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P028_Chapter%2004_Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P028_Chapter%2004_Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -25235,7 +25235,7 @@ const url401040 =
   "data": [
     {
         "id": 401040,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P029_Chapter%2004_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P029_Chapter%2004_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -25245,7 +25245,7 @@ const url401041 =
   "data": [
     {
         "id": 401041,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P029_Chapter%2004_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P029_Chapter%2004_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -25255,7 +25255,7 @@ const url401042 =
   "data": [
     {
         "id": 401042,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P030_Chapter%2004_How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P030_Chapter%2004_How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -25265,7 +25265,7 @@ const url401043 =
   "data": [
     {
         "id": 401043,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P032_Chapter%2004_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P032_Chapter%2004_Reading.mp3",
     }
 ],
   "code": 200
@@ -25275,7 +25275,7 @@ const url401044 =
   "data": [
     {
         "id": 401044,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P033_Chapter%2004_Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P033_Chapter%2004_Listening.mp3",
     }
 ],
   "code": 200
@@ -25285,7 +25285,7 @@ const url401045 =
   "data": [
     {
         "id": 401045,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P034_Chapter%2004_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P034_Chapter%2004_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -25295,7 +25295,7 @@ const url401046 =
   "data": [
     {
         "id": 401046,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P035_Chapter%2005_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P035_Chapter%2005_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -25305,7 +25305,7 @@ const url401047 =
   "data": [
     {
         "id": 401047,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P036_Chapter%2005_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P036_Chapter%2005_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -25315,7 +25315,7 @@ const url401048 =
   "data": [
     {
         "id": 401048,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P036_Chapter%2005_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P036_Chapter%2005_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -25325,7 +25325,7 @@ const url401049 =
   "data": [
     {
         "id": 401049,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P038_Chapter%2005_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P038_Chapter%2005_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -25335,7 +25335,7 @@ const url401050 =
   "data": [
     {
         "id": 401050,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P038_Chapter%2005_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P038_Chapter%2005_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -25345,7 +25345,7 @@ const url401051 =
   "data": [
     {
         "id": 401051,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P040_Chapter%2005_1Models.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P040_Chapter%2005_1Models.mp3",
     }
 ],
   "code": 200
@@ -25355,7 +25355,7 @@ const url401052 =
   "data": [
     {
         "id": 401052,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P040_Chapter%2005_2How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P040_Chapter%2005_2How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -25365,7 +25365,7 @@ const url401053 =
   "data": [
     {
         "id": 401053,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P041_Chapter%2005_Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P041_Chapter%2005_Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -25375,7 +25375,7 @@ const url401054 =
   "data": [
     {
         "id": 401054,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P042_Chapter%2005_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P042_Chapter%2005_Reading.mp3",
     }
 ],
   "code": 200
@@ -25385,7 +25385,7 @@ const url401055 =
   "data": [
     {
         "id": 401055,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P043_Chapter%2005_1Listening%201.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P043_Chapter%2005_1Listening%201.mp3",
     }
 ],
   "code": 200
@@ -25395,7 +25395,7 @@ const url401056 =
   "data": [
     {
         "id": 401056,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P043_Chapter%2005_2Listening%202.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P043_Chapter%2005_2Listening%202.mp3",
     }
 ],
   "code": 200
@@ -25405,7 +25405,7 @@ const url401057 =
   "data": [
     {
         "id": 401057,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P044_Chapter%2005_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P044_Chapter%2005_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -25415,7 +25415,7 @@ const url401058 =
   "data": [
     {
         "id": 401058,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P045_Chapter%2006_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P045_Chapter%2006_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -25425,7 +25425,7 @@ const url401059 =
   "data": [
     {
         "id": 401059,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P046_Chapter%2006_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P046_Chapter%2006_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -25435,7 +25435,7 @@ const url401060 =
   "data": [
     {
         "id": 401060,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P046_Chapter%2006_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P046_Chapter%2006_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -25445,7 +25445,7 @@ const url401061 =
   "data": [
     {
         "id": 401061,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P049_Chapter%2006_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P049_Chapter%2006_Reading.mp3",
     }
 ],
   "code": 200
@@ -25455,7 +25455,7 @@ const url401062 =
   "data": [
     {
         "id": 401062,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P050_Chapter%2006_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P050_Chapter%2006_Reading.mp3",
     }
 ],
   "code": 200
@@ -25465,7 +25465,7 @@ const url401063 =
   "data": [
     {
         "id": 401063,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P051_Chapter%2006_1Listening%201.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P051_Chapter%2006_1Listening%201.mp3",
     }
 ],
   "code": 200
@@ -25475,7 +25475,7 @@ const url401064 =
   "data": [
     {
         "id": 401064,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P051_Chapter%2006_2Listening%202.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P051_Chapter%2006_2Listening%202.mp3",
     }
 ],
   "code": 200
@@ -25485,7 +25485,7 @@ const url401065 =
   "data": [
     {
         "id": 401065,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P051_Chapter%2006_3How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P051_Chapter%2006_3How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -25495,7 +25495,7 @@ const url401066 =
   "data": [
     {
         "id": 401066,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P052_Chapter%2006_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P052_Chapter%2006_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -25505,7 +25505,7 @@ const url401067 =
   "data": [
     {
         "id": 401067,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P053_Side%20by%20Side%20Gazette%2002_1Feature%20Article.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P053_Side%20by%20Side%20Gazette%2002_1Feature%20Article.mp3",
     }
 ],
   "code": 200
@@ -25515,7 +25515,7 @@ const url401068 =
   "data": [
     {
         "id": 401068,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P053_Side%20by%20Side%20Gazette%2002_2Build%20Your%20Vocabulary!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P053_Side%20by%20Side%20Gazette%2002_2Build%20Your%20Vocabulary!.mp3",
     }
 ],
   "code": 200
@@ -25525,7 +25525,7 @@ const url401069 =
   "data": [
     {
         "id": 401069,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P054_Side%20by%20Side%20Gazette%2002_1Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P054_Side%20by%20Side%20Gazette%2002_1Listening.mp3",
     }
 ],
   "code": 200
@@ -25535,7 +25535,7 @@ const url401070 =
   "data": [
     {
         "id": 401070,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P054_Side%20by%20Side%20Gazette%2002_2Around%20the%20World.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P054_Side%20by%20Side%20Gazette%2002_2Around%20the%20World.mp3",
     }
 ],
   "code": 200
@@ -25545,7 +25545,7 @@ const url401071 =
   "data": [
     {
         "id": 401071,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P054_Side%20by%20Side%20Gazette%2002_3Global%20Exchange.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P054_Side%20by%20Side%20Gazette%2002_3Global%20Exchange.mp3",
     }
 ],
   "code": 200
@@ -25555,7 +25555,7 @@ const url401072 =
   "data": [
     {
         "id": 401072,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P055_Chapter%2007_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P055_Chapter%2007_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -25565,7 +25565,7 @@ const url401073 =
   "data": [
     {
         "id": 401073,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P056_Chapter%2007_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P056_Chapter%2007_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -25575,7 +25575,7 @@ const url401074 =
   "data": [
     {
         "id": 401074,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P056_Chapter%2007_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P056_Chapter%2007_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -25585,7 +25585,7 @@ const url401075 =
   "data": [
     {
         "id": 401075,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P057_Chapter%2007_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P057_Chapter%2007_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -25595,7 +25595,7 @@ const url401076 =
   "data": [
     {
         "id": 401076,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P057_Chapter%2007_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P057_Chapter%2007_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -25605,7 +25605,7 @@ const url401077 =
   "data": [
     {
         "id": 401077,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P057_Chapter%2007_3How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P057_Chapter%2007_3How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -25615,7 +25615,7 @@ const url401078 =
   "data": [
     {
         "id": 401078,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P058_Chapter%2007_On%20Your%20Own.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P058_Chapter%2007_On%20Your%20Own.mp3",
     }
 ],
   "code": 200
@@ -25625,7 +25625,7 @@ const url401079 =
   "data": [
     {
         "id": 401079,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P059_Chapter%2007_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P059_Chapter%2007_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -25635,7 +25635,7 @@ const url401080 =
   "data": [
     {
         "id": 401080,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P059_Chapter%2007_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P059_Chapter%2007_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -25645,7 +25645,7 @@ const url401081 =
   "data": [
     {
         "id": 401081,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P060_Chapter%2007_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P060_Chapter%2007_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -25655,7 +25655,7 @@ const url401082 =
   "data": [
     {
         "id": 401082,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P060_Chapter%2007_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P060_Chapter%2007_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -25665,7 +25665,7 @@ const url401083 =
   "data": [
     {
         "id": 401083,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P063_Chapter%2007_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P063_Chapter%2007_Reading.mp3",
     }
 ],
   "code": 200
@@ -25675,7 +25675,7 @@ const url401084 =
   "data": [
     {
         "id": 401084,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P064_Chapter%2007_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P064_Chapter%2007_Reading.mp3",
     }
 ],
   "code": 200
@@ -25685,7 +25685,7 @@ const url401085 =
   "data": [
     {
         "id": 401085,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P065_Chapter%2007_1Listening%201.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P065_Chapter%2007_1Listening%201.mp3",
     }
 ],
   "code": 200
@@ -25695,7 +25695,7 @@ const url401086 =
   "data": [
     {
         "id": 401086,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P065_Chapter%2007_2Listening%202.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P065_Chapter%2007_2Listening%202.mp3",
     }
 ],
   "code": 200
@@ -25705,7 +25705,7 @@ const url401087 =
   "data": [
     {
         "id": 401087,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P066_Chapter%2007_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P066_Chapter%2007_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -25715,7 +25715,7 @@ const url401088 =
   "data": [
     {
         "id": 401088,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P067_Chapter%2008_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P067_Chapter%2008_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -25725,7 +25725,7 @@ const url401089 =
   "data": [
     {
         "id": 401089,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P068_Chapter%2008_Clothing.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P068_Chapter%2008_Clothing.mp3",
     }
 ],
   "code": 200
@@ -25735,7 +25735,7 @@ const url401090 =
   "data": [
     {
         "id": 401090,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P069_Chapter%2008_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P069_Chapter%2008_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -25745,7 +25745,7 @@ const url401091 =
   "data": [
     {
         "id": 401091,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P069_Chapter%2008_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P069_Chapter%2008_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -25755,7 +25755,7 @@ const url401092 =
   "data": [
     {
         "id": 401092,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P070_Chapter%2008_1Colors.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P070_Chapter%2008_1Colors.mp3",
     }
 ],
   "code": 200
@@ -25765,7 +25765,7 @@ const url401093 =
   "data": [
     {
         "id": 401093,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P070_Chapter%2008_2Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P070_Chapter%2008_2Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -25775,7 +25775,7 @@ const url401094 =
   "data": [
     {
         "id": 401094,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P070_Chapter%2008_3Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P070_Chapter%2008_3Exercises.mp3",
     }
 ],
   "code": 200
@@ -25785,7 +25785,7 @@ const url401095 =
   "data": [
     {
         "id": 401095,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P071_Chapter%2008_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P071_Chapter%2008_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -25795,7 +25795,7 @@ const url401096 =
   "data": [
     {
         "id": 401096,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P071_Chapter%2008_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P071_Chapter%2008_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -25805,7 +25805,7 @@ const url401097 =
   "data": [
     {
         "id": 401097,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P072_Chapter%2008_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P072_Chapter%2008_Reading.mp3",
     }
 ],
   "code": 200
@@ -25815,7 +25815,7 @@ const url401098 =
   "data": [
     {
         "id": 401098,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P073_Chapter%2008_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P073_Chapter%2008_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -25825,7 +25825,7 @@ const url401099 =
   "data": [
     {
         "id": 401099,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P073_Chapter%2008_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P073_Chapter%2008_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -25835,7 +25835,7 @@ const url401100 =
   "data": [
     {
         "id": 401100,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P074_Chapter%2008_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P074_Chapter%2008_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -25845,7 +25845,7 @@ const url401101 =
   "data": [
     {
         "id": 401101,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P074_Chapter%2008_2How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P074_Chapter%2008_2How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -25855,7 +25855,7 @@ const url401102 =
   "data": [
     {
         "id": 401102,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P075_Chapter%2008_1Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P075_Chapter%2008_1Reading.mp3",
     }
 ],
   "code": 200
@@ -25865,7 +25865,7 @@ const url401103 =
   "data": [
     {
         "id": 401103,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P075_Chapter%2008_2Listening%201.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P075_Chapter%2008_2Listening%201.mp3",
     }
 ],
   "code": 200
@@ -25875,7 +25875,7 @@ const url401104 =
   "data": [
     {
         "id": 401104,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P075_Chapter%2008_3Listening%202.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P075_Chapter%2008_3Listening%202.mp3",
     }
 ],
   "code": 200
@@ -25885,7 +25885,7 @@ const url401105 =
   "data": [
     {
         "id": 401105,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P076_Chapter%2008_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P076_Chapter%2008_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -25895,7 +25895,7 @@ const url401106 =
   "data": [
     {
         "id": 401106,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P077_Side%20by%20Side%20Gazette%2003_1Feature%20Article.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P077_Side%20by%20Side%20Gazette%2003_1Feature%20Article.mp3",
     }
 ],
   "code": 200
@@ -25905,7 +25905,7 @@ const url401107 =
   "data": [
     {
         "id": 401107,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P077_Side%20by%20Side%20Gazette%2003_2Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P077_Side%20by%20Side%20Gazette%2003_2Listening.mp3",
     }
 ],
   "code": 200
@@ -25915,7 +25915,7 @@ const url401108 =
   "data": [
     {
         "id": 401108,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P077_Side%20by%20Side%20Gazette%2003_3Build%20Your%20Vocabulary!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P077_Side%20by%20Side%20Gazette%2003_3Build%20Your%20Vocabulary!.mp3",
     }
 ],
   "code": 200
@@ -25925,7 +25925,7 @@ const url401109 =
   "data": [
     {
         "id": 401109,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P078_Side%20by%20Side%20Gazette%2003_1Around%20the%20World.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P078_Side%20by%20Side%20Gazette%2003_1Around%20the%20World.mp3",
     }
 ],
   "code": 200
@@ -25935,7 +25935,7 @@ const url401110 =
   "data": [
     {
         "id": 401110,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P078_Side%20by%20Side%20Gazette%2003_2Global%20Exchange.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P078_Side%20by%20Side%20Gazette%2003_2Global%20Exchange.mp3",
     }
 ],
   "code": 200
@@ -25945,7 +25945,7 @@ const url401111 =
   "data": [
     {
         "id": 401111,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P079_Chapter%2009_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P079_Chapter%2009_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -25955,7 +25955,7 @@ const url401112 =
   "data": [
     {
         "id": 401112,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P080_Chapter%2009_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P080_Chapter%2009_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -25965,7 +25965,7 @@ const url401113 =
   "data": [
     {
         "id": 401113,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P080_Chapter%2009_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P080_Chapter%2009_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -25975,7 +25975,7 @@ const url401114 =
   "data": [
     {
         "id": 401114,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P081_Chapter%2009_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P081_Chapter%2009_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -25985,7 +25985,7 @@ const url401115 =
   "data": [
     {
         "id": 401115,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P081_Chapter%2009_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P081_Chapter%2009_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -25995,7 +25995,7 @@ const url401116 =
   "data": [
     {
         "id": 401116,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P082_Chapter%2009_Talk%20About%20It!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P082_Chapter%2009_Talk%20About%20It!.mp3",
     }
 ],
   "code": 200
@@ -26005,7 +26005,7 @@ const url401117 =
   "data": [
     {
         "id": 401117,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P083_Chapter%2009_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P083_Chapter%2009_Reading.mp3",
     }
 ],
   "code": 200
@@ -26015,7 +26015,7 @@ const url401118 =
   "data": [
     {
         "id": 401118,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P084_Chapter%2009_1Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P084_Chapter%2009_1Listening.mp3",
     }
 ],
   "code": 200
@@ -26025,7 +26025,7 @@ const url401119 =
   "data": [
     {
         "id": 401119,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P084_Chapter%2009_2How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P084_Chapter%2009_2How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -26035,7 +26035,7 @@ const url401120 =
   "data": [
     {
         "id": 401120,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P086_Chapter%2009_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P086_Chapter%2009_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -26045,7 +26045,7 @@ const url401121 =
   "data": [
     {
         "id": 401121,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P087_Chapter%2010_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P087_Chapter%2010_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -26055,7 +26055,7 @@ const url401122 =
   "data": [
     {
         "id": 401122,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_1Stanley's%20International%20Restaurant.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_1Stanley's%20International%20Restaurant.mp3",
     }
 ],
   "code": 200
@@ -26065,7 +26065,7 @@ const url401123 =
   "data": [
     {
         "id": 401123,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_2Model%20Conversation%201.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_2Model%20Conversation%201.mp3",
     }
 ],
   "code": 200
@@ -26075,7 +26075,7 @@ const url401124 =
   "data": [
     {
         "id": 401124,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_3Exercises%201.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_3Exercises%201.mp3",
     }
 ],
   "code": 200
@@ -26085,7 +26085,7 @@ const url401125 =
   "data": [
     {
         "id": 401125,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_4Model%20Conversation%202.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_4Model%20Conversation%202.mp3",
     }
 ],
   "code": 200
@@ -26095,7 +26095,7 @@ const url401126 =
   "data": [
     {
         "id": 401126,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_5Exercises%202.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_5Exercises%202.mp3",
     }
 ],
   "code": 200
@@ -26105,7 +26105,7 @@ const url401127 =
   "data": [
     {
         "id": 401127,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_6Model%20Conversation%203.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_6Model%20Conversation%203.mp3",
     }
 ],
   "code": 200
@@ -26115,7 +26115,7 @@ const url401128 =
   "data": [
     {
         "id": 401128,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_7Exercises%203.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2010_7Exercises%203.mp3",
     }
 ],
   "code": 200
@@ -26125,7 +26125,7 @@ const url401129 =
   "data": [
     {
         "id": 401129,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_1Model%20Conversation%201.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_1Model%20Conversation%201.mp3",
     }
 ],
   "code": 200
@@ -26135,7 +26135,7 @@ const url401130 =
   "data": [
     {
         "id": 401130,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_2Exercises%201-4.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_2Exercises%201-4.mp3",
     }
 ],
   "code": 200
@@ -26145,7 +26145,7 @@ const url401131 =
   "data": [
     {
         "id": 401131,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_3Model%20Conversation%202.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_3Model%20Conversation%202.mp3",
     }
 ],
   "code": 200
@@ -26155,7 +26155,7 @@ const url401132 =
   "data": [
     {
         "id": 401132,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_4Exercises%205-8.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_4Exercises%205-8.mp3",
     }
 ],
   "code": 200
@@ -26165,7 +26165,7 @@ const url401133 =
   "data": [
     {
         "id": 401133,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_5Model%20Conversation%203.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_5Model%20Conversation%203.mp3",
     }
 ],
   "code": 200
@@ -26175,7 +26175,7 @@ const url401134 =
   "data": [
     {
         "id": 401134,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_6Exercises%209-12.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2010_6Exercises%209-12.mp3",
     }
 ],
   "code": 200
@@ -26185,7 +26185,7 @@ const url401135 =
   "data": [
     {
         "id": 401135,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P090_Chapter%2010_Busy%20People!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P090_Chapter%2010_Busy%20People!.mp3",
     }
 ],
   "code": 200
@@ -26195,7 +26195,7 @@ const url401136 =
   "data": [
     {
         "id": 401136,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P091_Chapter%2010_Models.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P091_Chapter%2010_Models.mp3",
     }
 ],
   "code": 200
@@ -26205,7 +26205,7 @@ const url401137 =
   "data": [
     {
         "id": 401137,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P092_Chapter%2010_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P092_Chapter%2010_Reading.mp3",
     }
 ],
   "code": 200
@@ -26215,7 +26215,7 @@ const url401138 =
   "data": [
     {
         "id": 401138,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P093_Chapter%2010_1Listening%201.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P093_Chapter%2010_1Listening%201.mp3",
     }
 ],
   "code": 200
@@ -26225,7 +26225,7 @@ const url401139 =
   "data": [
     {
         "id": 401139,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P093_Chapter%2010_2Listening%202.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P093_Chapter%2010_2Listening%202.mp3",
     }
 ],
   "code": 200
@@ -26235,7 +26235,7 @@ const url401140 =
   "data": [
     {
         "id": 401140,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P094_Chapter%2010_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P094_Chapter%2010_Reading.mp3",
     }
 ],
   "code": 200
@@ -26245,7 +26245,7 @@ const url401141 =
   "data": [
     {
         "id": 401141,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P095_Chapter%2010_How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P095_Chapter%2010_How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -26255,7 +26255,7 @@ const url401142 =
   "data": [
     {
         "id": 401142,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P096_Chapter%2010_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P096_Chapter%2010_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -26265,7 +26265,7 @@ const url401143 =
   "data": [
     {
         "id": 401143,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P097_Side%20by%20Side%20Gazette%2004_1Feature%20Article.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P097_Side%20by%20Side%20Gazette%2004_1Feature%20Article.mp3",
     }
 ],
   "code": 200
@@ -26275,7 +26275,7 @@ const url401144 =
   "data": [
     {
         "id": 401144,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P097_Side%20by%20Side%20Gazette%2004_2Build%20Your%20Vocabulary!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P097_Side%20by%20Side%20Gazette%2004_2Build%20Your%20Vocabulary!.mp3",
     }
 ],
   "code": 200
@@ -26285,7 +26285,7 @@ const url401145 =
   "data": [
     {
         "id": 401145,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P098_Side%20by%20Side%20Gazette%2004_1Around%20the%20World.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P098_Side%20by%20Side%20Gazette%2004_1Around%20the%20World.mp3",
     }
 ],
   "code": 200
@@ -26295,7 +26295,7 @@ const url401146 =
   "data": [
     {
         "id": 401146,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P098_Side%20by%20Side%20Gazette%2004_2Global%20Exchange.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P098_Side%20by%20Side%20Gazette%2004_2Global%20Exchange.mp3",
     }
 ],
   "code": 200
@@ -26305,7 +26305,7 @@ const url401147 =
   "data": [
     {
         "id": 401147,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P098_Side%20by%20Side%20Gazette%2004_3Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P098_Side%20by%20Side%20Gazette%2004_3Listening.mp3",
     }
 ],
   "code": 200
@@ -26315,7 +26315,7 @@ const url401148 =
   "data": [
     {
         "id": 401148,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P099_Chapter%2011_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P099_Chapter%2011_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -26325,7 +26325,7 @@ const url401149 =
   "data": [
     {
         "id": 401149,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P100_Chapter%2011_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P100_Chapter%2011_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -26335,7 +26335,7 @@ const url401150 =
   "data": [
     {
         "id": 401150,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P100_Chapter%2011_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P100_Chapter%2011_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -26345,7 +26345,7 @@ const url401151 =
   "data": [
     {
         "id": 401151,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P101_Chapter%2011_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P101_Chapter%2011_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -26355,7 +26355,7 @@ const url401152 =
   "data": [
     {
         "id": 401152,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P101_Chapter%2011_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P101_Chapter%2011_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -26365,7 +26365,7 @@ const url401153 =
   "data": [
     {
         "id": 401153,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P102_Chapter%2011_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P102_Chapter%2011_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -26375,7 +26375,7 @@ const url401154 =
   "data": [
     {
         "id": 401154,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P102_Chapter%2011_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P102_Chapter%2011_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -26385,7 +26385,7 @@ const url401155 =
   "data": [
     {
         "id": 401155,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P103_Chapter%2011_1On%20Your%20Own.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P103_Chapter%2011_1On%20Your%20Own.mp3",
     }
 ],
   "code": 200
@@ -26395,7 +26395,7 @@ const url401156 =
   "data": [
     {
         "id": 401156,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P103_Chapter%2011_2How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P103_Chapter%2011_2How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -26405,7 +26405,7 @@ const url401157 =
   "data": [
     {
         "id": 401157,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P104_Chapter%2011_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P104_Chapter%2011_Reading.mp3",
     }
 ],
   "code": 200
@@ -26415,7 +26415,7 @@ const url401158 =
   "data": [
     {
         "id": 401158,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P105_Chapter%2011_Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P105_Chapter%2011_Listening.mp3",
     }
 ],
   "code": 200
@@ -26425,7 +26425,7 @@ const url401159 =
   "data": [
     {
         "id": 401159,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P106_Chapter%2011_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P106_Chapter%2011_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -26435,7 +26435,7 @@ const url401160 =
   "data": [
     {
         "id": 401160,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P107_Chapter%2012_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P107_Chapter%2012_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -26445,7 +26445,7 @@ const url401161 =
   "data": [
     {
         "id": 401161,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P108_Chapter%2012_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P108_Chapter%2012_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -26455,7 +26455,7 @@ const url401162 =
   "data": [
     {
         "id": 401162,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P108_Chapter%2012_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P108_Chapter%2012_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -26465,7 +26465,7 @@ const url401163 =
   "data": [
     {
         "id": 401163,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P110_Chapter%2012_Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P110_Chapter%2012_Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -26475,7 +26475,7 @@ const url401164 =
   "data": [
     {
         "id": 401164,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P111_Chapter%2012_1Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P111_Chapter%2012_1Exercises.mp3",
     }
 ],
   "code": 200
@@ -26485,7 +26485,7 @@ const url401165 =
   "data": [
     {
         "id": 401165,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P111_Chapter%2012_2How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P111_Chapter%2012_2How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -26495,7 +26495,7 @@ const url401166 =
   "data": [
     {
         "id": 401166,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P112_Chapter%2012_1Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P112_Chapter%2012_1Reading.mp3",
     }
 ],
   "code": 200
@@ -26505,7 +26505,7 @@ const url401167 =
   "data": [
     {
         "id": 401167,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P112_Chapter%2012_2Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P112_Chapter%2012_2Listening.mp3",
     }
 ],
   "code": 200
@@ -26515,7 +26515,7 @@ const url401168 =
   "data": [
     {
         "id": 401168,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P113_Chapter%2012_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P113_Chapter%2012_Reading.mp3",
     }
 ],
   "code": 200
@@ -26525,7 +26525,7 @@ const url401169 =
   "data": [
     {
         "id": 401169,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P114_Chapter%2012_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P114_Chapter%2012_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -26535,7 +26535,7 @@ const url401170 =
   "data": [
     {
         "id": 401170,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P115_Side%20by%20Side%20Gazette%2005_1Feature%20Article.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P115_Side%20by%20Side%20Gazette%2005_1Feature%20Article.mp3",
     }
 ],
   "code": 200
@@ -26545,7 +26545,7 @@ const url401171 =
   "data": [
     {
         "id": 401171,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P115_Side%20by%20Side%20Gazette%2005_2Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P115_Side%20by%20Side%20Gazette%2005_2Listening.mp3",
     }
 ],
   "code": 200
@@ -26555,7 +26555,7 @@ const url401172 =
   "data": [
     {
         "id": 401172,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P115_Side%20by%20Side%20Gazette%2005_3Build%20Your%20Vocabulary!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P115_Side%20by%20Side%20Gazette%2005_3Build%20Your%20Vocabulary!.mp3",
     }
 ],
   "code": 200
@@ -26565,7 +26565,7 @@ const url401173 =
   "data": [
     {
         "id": 401173,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P116_Side%20by%20Side%20Gazette%2005_1Around%20the%20World.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P116_Side%20by%20Side%20Gazette%2005_1Around%20the%20World.mp3",
     }
 ],
   "code": 200
@@ -26575,7 +26575,7 @@ const url401174 =
   "data": [
     {
         "id": 401174,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P116_Side%20by%20Side%20Gazette%2005_2Global%20Exchange.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P116_Side%20by%20Side%20Gazette%2005_2Global%20Exchange.mp3",
     }
 ],
   "code": 200
@@ -26585,7 +26585,7 @@ const url401175 =
   "data": [
     {
         "id": 401175,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P117_Chapter%2013_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P117_Chapter%2013_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -26595,7 +26595,7 @@ const url401176 =
   "data": [
     {
         "id": 401176,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P118_Chapter%2013_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P118_Chapter%2013_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -26605,7 +26605,7 @@ const url401177 =
   "data": [
     {
         "id": 401177,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P118_Chapter%2013_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P118_Chapter%2013_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -26615,7 +26615,7 @@ const url401178 =
   "data": [
     {
         "id": 401178,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P119_Chapter%2013_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P119_Chapter%2013_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -26625,7 +26625,7 @@ const url401179 =
   "data": [
     {
         "id": 401179,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P119_Chapter%2013_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P119_Chapter%2013_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -26635,7 +26635,7 @@ const url401180 =
   "data": [
     {
         "id": 401180,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P120_Chapter%2013_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P120_Chapter%2013_Reading.mp3",
     }
 ],
   "code": 200
@@ -26645,7 +26645,7 @@ const url401181 =
   "data": [
     {
         "id": 401181,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P121_Chapter%2013_1Listening%201.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P121_Chapter%2013_1Listening%201.mp3",
     }
 ],
   "code": 200
@@ -26655,7 +26655,7 @@ const url401182 =
   "data": [
     {
         "id": 401182,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P121_Chapter%2013_2Listening%202.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P121_Chapter%2013_2Listening%202.mp3",
     }
 ],
   "code": 200
@@ -26665,7 +26665,7 @@ const url401183 =
   "data": [
     {
         "id": 401183,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P122_Chapter%2013_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P122_Chapter%2013_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -26675,7 +26675,7 @@ const url401184 =
   "data": [
     {
         "id": 401184,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P122_Chapter%2013_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P122_Chapter%2013_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -26685,7 +26685,7 @@ const url401185 =
   "data": [
     {
         "id": 401185,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P123_Chapter%2013_How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P123_Chapter%2013_How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -26695,7 +26695,7 @@ const url401186 =
   "data": [
     {
         "id": 401186,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P124_Chapter%2013_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P124_Chapter%2013_Reading.mp3",
     }
 ],
   "code": 200
@@ -26705,7 +26705,7 @@ const url401187 =
   "data": [
     {
         "id": 401187,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P126_Chapter%2013_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P126_Chapter%2013_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -26715,7 +26715,7 @@ const url401188 =
   "data": [
     {
         "id": 401188,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P127_Chapter%2014_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P127_Chapter%2014_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -26725,7 +26725,7 @@ const url401189 =
   "data": [
     {
         "id": 401189,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P128_Chapter%2014_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P128_Chapter%2014_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -26735,7 +26735,7 @@ const url401190 =
   "data": [
     {
         "id": 401190,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P128_Chapter%2014_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P128_Chapter%2014_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -26745,7 +26745,7 @@ const url401191 =
   "data": [
     {
         "id": 401191,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P129_Chapter%2014_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P129_Chapter%2014_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -26755,7 +26755,7 @@ const url401192 =
   "data": [
     {
         "id": 401192,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P129_Chapter%2014_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P129_Chapter%2014_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -26765,7 +26765,7 @@ const url401193 =
   "data": [
     {
         "id": 401193,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P130_Chapter%2014_Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P130_Chapter%2014_Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -26775,7 +26775,7 @@ const url401194 =
   "data": [
     {
         "id": 401194,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P131_Chapter%2014_Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P131_Chapter%2014_Exercises.mp3",
     }
 ],
   "code": 200
@@ -26785,7 +26785,7 @@ const url401195 =
   "data": [
     {
         "id": 401195,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P132_Chapter%2014_1Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P132_Chapter%2014_1Reading.mp3",
     }
 ],
   "code": 200
@@ -26795,7 +26795,7 @@ const url401196 =
   "data": [
     {
         "id": 401196,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P132_Chapter%2014_2Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P132_Chapter%2014_2Listening.mp3",
     }
 ],
   "code": 200
@@ -26805,7 +26805,7 @@ const url401197 =
   "data": [
     {
         "id": 401197,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P133_Chapter%2014_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P133_Chapter%2014_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -26815,7 +26815,7 @@ const url401198 =
   "data": [
     {
         "id": 401198,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P133_Chapter%2014_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P133_Chapter%2014_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -26825,7 +26825,7 @@ const url401199 =
   "data": [
     {
         "id": 401199,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P134_Chapter%2014_Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P134_Chapter%2014_Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -26835,7 +26835,7 @@ const url401200 =
   "data": [
     {
         "id": 401200,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P135_Chapter%2014_1Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P135_Chapter%2014_1Exercises.mp3",
     }
 ],
   "code": 200
@@ -26845,7 +26845,7 @@ const url401201 =
   "data": [
     {
         "id": 401201,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P135_Chapter%2014_2How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P135_Chapter%2014_2How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -26855,7 +26855,7 @@ const url401202 =
   "data": [
     {
         "id": 401202,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P136_Chapter%2014_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P136_Chapter%2014_Reading.mp3",
     }
 ],
   "code": 200
@@ -26865,7 +26865,7 @@ const url401203 =
   "data": [
     {
         "id": 401203,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P137_Chapter%2014_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P137_Chapter%2014_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -26875,7 +26875,7 @@ const url401204 =
   "data": [
     {
         "id": 401204,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P139_Side%20by%20Side%20Gazette%2006_1Feature%20Article.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P139_Side%20by%20Side%20Gazette%2006_1Feature%20Article.mp3",
     }
 ],
   "code": 200
@@ -26885,7 +26885,7 @@ const url401205 =
   "data": [
     {
         "id": 401205,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P139_Side%20by%20Side%20Gazette%2006_2Build%20Your%20Vocabulary!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P139_Side%20by%20Side%20Gazette%2006_2Build%20Your%20Vocabulary!.mp3",
     }
 ],
   "code": 200
@@ -26895,7 +26895,7 @@ const url401206 =
   "data": [
     {
         "id": 401206,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P140_Side%20by%20Side%20Gazette%2006_1Around%20the%20World.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P140_Side%20by%20Side%20Gazette%2006_1Around%20the%20World.mp3",
     }
 ],
   "code": 200
@@ -26905,7 +26905,7 @@ const url401207 =
   "data": [
     {
         "id": 401207,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P140_Side%20by%20Side%20Gazette%2006_2Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P140_Side%20by%20Side%20Gazette%2006_2Listening.mp3",
     }
 ],
   "code": 200
@@ -26915,7 +26915,7 @@ const url401208 =
   "data": [
     {
         "id": 401208,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P140_Side%20by%20Side%20Gazette%2006_3Global%20Exchange.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P140_Side%20by%20Side%20Gazette%2006_3Global%20Exchange.mp3",
     }
 ],
   "code": 200
@@ -26925,7 +26925,7 @@ const url401209 =
   "data": [
     {
         "id": 401209,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P141_Chapter%2015_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P141_Chapter%2015_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -26935,7 +26935,7 @@ const url401210 =
   "data": [
     {
         "id": 401210,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P142_Chapter%2015_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P142_Chapter%2015_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -26945,7 +26945,7 @@ const url401211 =
   "data": [
     {
         "id": 401211,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P142_Chapter%2015_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P142_Chapter%2015_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -26955,7 +26955,7 @@ const url401212 =
   "data": [
     {
         "id": 401212,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P142_Chapter%2015_3How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P142_Chapter%2015_3How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -26965,7 +26965,7 @@ const url401213 =
   "data": [
     {
         "id": 401213,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P143_Chapter%2015_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P143_Chapter%2015_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -26975,7 +26975,7 @@ const url401214 =
   "data": [
     {
         "id": 401214,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P143_Chapter%2015_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P143_Chapter%2015_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -26985,7 +26985,7 @@ const url401215 =
   "data": [
     {
         "id": 401215,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P144_Chapter%2015_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P144_Chapter%2015_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -26995,7 +26995,7 @@ const url401216 =
   "data": [
     {
         "id": 401216,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P144_Chapter%2015_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P144_Chapter%2015_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -27005,7 +27005,7 @@ const url401217 =
   "data": [
     {
         "id": 401217,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P146_Chapter%2015_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P146_Chapter%2015_Reading.mp3",
     }
 ],
   "code": 200
@@ -27015,7 +27015,7 @@ const url401218 =
   "data": [
     {
         "id": 401218,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P147_Chapter%2015_Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P147_Chapter%2015_Listening.mp3",
     }
 ],
   "code": 200
@@ -27025,7 +27025,7 @@ const url401219 =
   "data": [
     {
         "id": 401219,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P148_Chapter%2015_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P148_Chapter%2015_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -27035,7 +27035,7 @@ const url401220 =
   "data": [
     {
         "id": 401220,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P149_Chapter%2016_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P149_Chapter%2016_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -27045,7 +27045,7 @@ const url401221 =
   "data": [
     {
         "id": 401221,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P150_Chapter%2016_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P150_Chapter%2016_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -27055,7 +27055,7 @@ const url401222 =
   "data": [
     {
         "id": 401222,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P150_Chapter%2016_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P150_Chapter%2016_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -27065,7 +27065,7 @@ const url401223 =
   "data": [
     {
         "id": 401223,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P151_Chapter%2016_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P151_Chapter%2016_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -27075,7 +27075,7 @@ const url401224 =
   "data": [
     {
         "id": 401224,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P151_Chapter%2016_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P151_Chapter%2016_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -27085,7 +27085,7 @@ const url401225 =
   "data": [
     {
         "id": 401225,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P152_Chapter%2016_Talk%20About%20It!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P152_Chapter%2016_Talk%20About%20It!.mp3",
     }
 ],
   "code": 200
@@ -27095,7 +27095,7 @@ const url401226 =
   "data": [
     {
         "id": 401226,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P153_Chapter%2016_How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P153_Chapter%2016_How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -27105,7 +27105,7 @@ const url401227 =
   "data": [
     {
         "id": 401227,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P154_Chapter%2016_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P154_Chapter%2016_Reading.mp3",
     }
 ],
   "code": 200
@@ -27115,7 +27115,7 @@ const url401228 =
   "data": [
     {
         "id": 401228,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P155_Chapter%2016_Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P155_Chapter%2016_Listening.mp3",
     }
 ],
   "code": 200
@@ -27125,7 +27125,7 @@ const url401229 =
   "data": [
     {
         "id": 401229,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P156_Chapter%2016_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P156_Chapter%2016_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -27135,7 +27135,7 @@ const url401230 =
   "data": [
     {
         "id": 401230,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P157_Chapter%2017_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P157_Chapter%2017_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -27145,7 +27145,7 @@ const url401231 =
   "data": [
     {
         "id": 401231,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P158_Chapter%2017_1Model.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P158_Chapter%2017_1Model.mp3",
     }
 ],
   "code": 200
@@ -27155,7 +27155,7 @@ const url401232 =
   "data": [
     {
         "id": 401232,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P158_Chapter%2017_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P158_Chapter%2017_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -27165,7 +27165,7 @@ const url401233 =
   "data": [
     {
         "id": 401233,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P159_Chapter%2017_1Model.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P159_Chapter%2017_1Model.mp3",
     }
 ],
   "code": 200
@@ -27175,7 +27175,7 @@ const url401234 =
   "data": [
     {
         "id": 401234,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P159_Chapter%2017_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P159_Chapter%2017_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -27185,7 +27185,7 @@ const url401235 =
   "data": [
     {
         "id": 401235,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P159_Chapter%2017_3How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P159_Chapter%2017_3How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -27195,7 +27195,7 @@ const url401236 =
   "data": [
     {
         "id": 401236,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P160_Chapter%2017_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P160_Chapter%2017_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -27205,7 +27205,7 @@ const url401237 =
   "data": [
     {
         "id": 401237,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P160_Chapter%2017_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P160_Chapter%2017_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -27215,7 +27215,7 @@ const url401238 =
   "data": [
     {
         "id": 401238,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P161_Chapter%2017_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P161_Chapter%2017_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -27225,7 +27225,7 @@ const url401239 =
   "data": [
     {
         "id": 401239,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P161_Chapter%2017_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P161_Chapter%2017_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -27235,7 +27235,7 @@ const url401240 =
   "data": [
     {
         "id": 401240,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P162_Chapter%2017_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P162_Chapter%2017_Reading.mp3",
     }
 ],
   "code": 200
@@ -27245,7 +27245,7 @@ const url401241 =
   "data": [
     {
         "id": 401241,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P163_Chapter%2017_Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P163_Chapter%2017_Listening.mp3",
     }
 ],
   "code": 200
@@ -27255,7 +27255,7 @@ const url401242 =
   "data": [
     {
         "id": 401242,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P164_Chapter%2017_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P164_Chapter%2017_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -27265,7 +27265,7 @@ const url401243 =
   "data": [
     {
         "id": 401243,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P165_Side%20by%20Side%20Gazette%2007_1Feature%20Article.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P165_Side%20by%20Side%20Gazette%2007_1Feature%20Article.mp3",
     }
 ],
   "code": 200
@@ -27275,7 +27275,7 @@ const url401244 =
   "data": [
     {
         "id": 401244,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P165_Side%20by%20Side%20Gazette%2007_2Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P165_Side%20by%20Side%20Gazette%2007_2Listening.mp3",
     }
 ],
   "code": 200
@@ -27285,7 +27285,7 @@ const url401245 =
   "data": [
     {
         "id": 401245,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P165_Side%20by%20Side%20Gazette%2007_3Build%20Your%20Vocabulary!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P165_Side%20by%20Side%20Gazette%2007_3Build%20Your%20Vocabulary!.mp3",
     }
 ],
   "code": 200
@@ -27295,7 +27295,7 @@ const url401246 =
   "data": [
     {
         "id": 401246,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P166_Side%20by%20Side%20Gazette%2007_1Around%20the%20World.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P166_Side%20by%20Side%20Gazette%2007_1Around%20the%20World.mp3",
     }
 ],
   "code": 200
@@ -27305,7 +27305,7 @@ const url401247 =
   "data": [
     {
         "id": 401247,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P166_Side%20by%20Side%20Gazette%2007_2Global%20Exchange.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P166_Side%20by%20Side%20Gazette%2007_2Global%20Exchange.mp3",
     }
 ],
   "code": 200
@@ -27315,7 +27315,7 @@ const url402001 =
   "data": [
     {
         "id": 402001,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/A001Introduction%20.MP3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/A001Introduction%20.MP3",
     }
 ],
   "code": 200
@@ -27325,7 +27325,7 @@ const url402002 =
   "data": [
     {
         "id": 402002,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P003_Chapter%2001_Exercise%20C%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P003_Chapter%2001_Exercise%20C%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27335,7 +27335,7 @@ const url402003 =
   "data": [
     {
         "id": 402003,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P004_Chapter%2001_Exercise%20E%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P004_Chapter%2001_Exercise%20E%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27345,7 +27345,7 @@ const url402004 =
   "data": [
     {
         "id": 402004,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P005_Chapter%2001_Exercise%20F%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P005_Chapter%2001_Exercise%20F%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27355,7 +27355,7 @@ const url402005 =
   "data": [
     {
         "id": 402005,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P005_Chapter%2001_Exercise%20H%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P005_Chapter%2001_Exercise%20H%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27365,7 +27365,7 @@ const url402006 =
   "data": [
     {
         "id": 402006,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P006_Chapter%2002_Exercise%20B%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P006_Chapter%2002_Exercise%20B%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27375,7 +27375,7 @@ const url402007 =
   "data": [
     {
         "id": 402007,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P011_Chapter%2002_Exercise%20J%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P011_Chapter%2002_Exercise%20J%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27385,7 +27385,7 @@ const url402008 =
   "data": [
     {
         "id": 402008,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P011_Chapter%2002_Exercise%20K%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P011_Chapter%2002_Exercise%20K%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27395,7 +27395,7 @@ const url402009 =
   "data": [
     {
         "id": 402009,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P012_Chapter%2002_Exercise%20M%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P012_Chapter%2002_Exercise%20M%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27405,7 +27405,7 @@ const url402010 =
   "data": [
     {
         "id": 402010,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P012_Chapter%2002_Exercise%20N%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P012_Chapter%2002_Exercise%20N%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27415,7 +27415,7 @@ const url402011 =
   "data": [
     {
         "id": 402011,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P015_Chapter%2003_Exercise%20C%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P015_Chapter%2003_Exercise%20C%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27425,7 +27425,7 @@ const url402012 =
   "data": [
     {
         "id": 402012,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P016_Chapter%2003_Exercise%20D%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P016_Chapter%2003_Exercise%20D%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27435,7 +27435,7 @@ const url402013 =
   "data": [
     {
         "id": 402013,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P018_Chapter%2003_Exercise%20F%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P018_Chapter%2003_Exercise%20F%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27445,7 +27445,7 @@ const url402014 =
   "data": [
     {
         "id": 402014,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P020_Check-Up%20Test%20Chapters%2001-03_Exercise%20D%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P020_Check-Up%20Test%20Chapters%2001-03_Exercise%20D%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27455,7 +27455,7 @@ const url402015 =
   "data": [
     {
         "id": 402015,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P022_Chapter%2004_Exercise%20C%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P022_Chapter%2004_Exercise%20C%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27465,7 +27465,7 @@ const url402016 =
   "data": [
     {
         "id": 402016,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P024_Chapter%2004_Exercise%20F%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P024_Chapter%2004_Exercise%20F%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27475,7 +27475,7 @@ const url402017 =
   "data": [
     {
         "id": 402017,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P024_Chapter%2004_Exercise%20G%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P024_Chapter%2004_Exercise%20G%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27485,7 +27485,7 @@ const url402018 =
   "data": [
     {
         "id": 402018,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P027_Chapter%2005_Exercise%20C%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P027_Chapter%2005_Exercise%20C%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27495,7 +27495,7 @@ const url402019 =
   "data": [
     {
         "id": 402019,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P029_Chapter%2005_Exercise%20F%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P029_Chapter%2005_Exercise%20F%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27505,7 +27505,7 @@ const url402020 =
   "data": [
     {
         "id": 402020,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P032_Chapter%2005_Exercise%20K%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P032_Chapter%2005_Exercise%20K%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27515,7 +27515,7 @@ const url402021 =
   "data": [
     {
         "id": 402021,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P034_Chapter%2005_Exercise%20O%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P034_Chapter%2005_Exercise%20O%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27525,7 +27525,7 @@ const url402022 =
   "data": [
     {
         "id": 402022,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P034_Chapter%2005_Exercise%20P%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P034_Chapter%2005_Exercise%20P%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27535,7 +27535,7 @@ const url402023 =
   "data": [
     {
         "id": 402023,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P036_Chapter%2006_Exercise%20B%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P036_Chapter%2006_Exercise%20B%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27545,7 +27545,7 @@ const url402024 =
   "data": [
     {
         "id": 402024,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P037_Chapter%2006_Exercise%20D%20GrammarSong.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P037_Chapter%2006_Exercise%20D%20GrammarSong.mp3",
     }
 ],
   "code": 200
@@ -27555,7 +27555,7 @@ const url402025 =
   "data": [
     {
         "id": 402025,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P039_Chapter%2006_Exercise%20F%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P039_Chapter%2006_Exercise%20F%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27565,7 +27565,7 @@ const url402026 =
   "data": [
     {
         "id": 402026,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P040_Check-Up%20Test%20Chapters%2004-06_Exercise%20E%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P040_Check-Up%20Test%20Chapters%2004-06_Exercise%20E%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27575,7 +27575,7 @@ const url402027 =
   "data": [
     {
         "id": 402027,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P043_Chapter%2007_Exercise%20C%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P043_Chapter%2007_Exercise%20C%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27585,7 +27585,7 @@ const url402028 =
   "data": [
     {
         "id": 402028,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P044_Chapter%2007_Exercise%20E%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P044_Chapter%2007_Exercise%20E%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27595,7 +27595,7 @@ const url402029 =
   "data": [
     {
         "id": 402029,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P049_Chapter%2007_Exercise%20J%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P049_Chapter%2007_Exercise%20J%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27605,7 +27605,7 @@ const url402030 =
   "data": [
     {
         "id": 402030,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P051_Chapter%2008_Exercise%20D%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P051_Chapter%2008_Exercise%20D%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27615,7 +27615,7 @@ const url402031 =
   "data": [
     {
         "id": 402031,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P052_Chapter%2008_Exercise%20E%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P052_Chapter%2008_Exercise%20E%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27625,7 +27625,7 @@ const url402032 =
   "data": [
     {
         "id": 402032,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P054_Chapter%2008_Exercise%20H%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P054_Chapter%2008_Exercise%20H%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27635,7 +27635,7 @@ const url402033 =
   "data": [
     {
         "id": 402033,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P054_Chapter%2008_Exercise%20I%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P054_Chapter%2008_Exercise%20I%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27645,7 +27645,7 @@ const url402034 =
   "data": [
     {
         "id": 402034,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P057_Chapter%2008_Exercise%20N%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P057_Chapter%2008_Exercise%20N%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27655,7 +27655,7 @@ const url402035 =
   "data": [
     {
         "id": 402035,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P057_Chapter%2008_Exercise%20O%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P057_Chapter%2008_Exercise%20O%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27665,7 +27665,7 @@ const url402036 =
   "data": [
     {
         "id": 402036,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P059_Chapter%2008_Exercise%20Q%20GrammarSong.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P059_Chapter%2008_Exercise%20Q%20GrammarSong.mp3",
     }
 ],
   "code": 200
@@ -27675,7 +27675,7 @@ const url402037 =
   "data": [
     {
         "id": 402037,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P061_Check-Up%20Test%20Chapters%2007-08_Exercise%20F%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P061_Check-Up%20Test%20Chapters%2007-08_Exercise%20F%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27685,7 +27685,7 @@ const url402038 =
   "data": [
     {
         "id": 402038,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P063_Chapter%2009_Exercise%20B%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P063_Chapter%2009_Exercise%20B%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27695,7 +27695,7 @@ const url402039 =
   "data": [
     {
         "id": 402039,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P065_Chapter%2009_Exercise%20E%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P065_Chapter%2009_Exercise%20E%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27705,7 +27705,7 @@ const url402040 =
   "data": [
     {
         "id": 402040,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P066_Chapter%2009_Exercise%20G%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P066_Chapter%2009_Exercise%20G%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27715,7 +27715,7 @@ const url402041 =
   "data": [
     {
         "id": 402041,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P068_Chapter%2009_Exercise%20J%20Listening%20and%20Pronounce.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P068_Chapter%2009_Exercise%20J%20Listening%20and%20Pronounce.mp3",
     }
 ],
   "code": 200
@@ -27725,7 +27725,7 @@ const url402042 =
   "data": [
     {
         "id": 402042,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P070_Chapter%2010_Exercise%20D%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P070_Chapter%2010_Exercise%20D%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27735,7 +27735,7 @@ const url402043 =
   "data": [
     {
         "id": 402043,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P072_Chapter%2010_Exercise%20I%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P072_Chapter%2010_Exercise%20I%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27745,7 +27745,7 @@ const url402044 =
   "data": [
     {
         "id": 402044,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P073_Chapter%2010_Exercise%20J%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P073_Chapter%2010_Exercise%20J%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27755,7 +27755,7 @@ const url402045 =
   "data": [
     {
         "id": 402045,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P075_Check-Up%20Test%20Chapters%2009-10_Exercise%20D%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P075_Check-Up%20Test%20Chapters%2009-10_Exercise%20D%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27765,7 +27765,7 @@ const url402046 =
   "data": [
     {
         "id": 402046,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P077_Chapter%2011_Exercise%20C%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P077_Chapter%2011_Exercise%20C%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27775,7 +27775,7 @@ const url402047 =
   "data": [
     {
         "id": 402047,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P078_Chapter%2011_Exercise%20G%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P078_Chapter%2011_Exercise%20G%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27785,7 +27785,7 @@ const url402048 =
   "data": [
     {
         "id": 402048,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P079_Chapter%2011_Exercise%20I%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P079_Chapter%2011_Exercise%20I%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27795,7 +27795,7 @@ const url402049 =
   "data": [
     {
         "id": 402049,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P082_Chapter%2011_Exercise%20N%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P082_Chapter%2011_Exercise%20N%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27805,7 +27805,7 @@ const url402050 =
   "data": [
     {
         "id": 402050,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P085_Chapter%2012_Exercise%20C%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P085_Chapter%2012_Exercise%20C%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27815,7 +27815,7 @@ const url402051 =
   "data": [
     {
         "id": 402051,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P085_Chapter%2012_Exercise%20D%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P085_Chapter%2012_Exercise%20D%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27825,7 +27825,7 @@ const url402052 =
   "data": [
     {
         "id": 402052,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P089_Chapter%2012_Exercise%20H%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P089_Chapter%2012_Exercise%20H%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27835,7 +27835,7 @@ const url402053 =
   "data": [
     {
         "id": 402053,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P091_Check-Up%20Test%20Chapters%2011-12_Exercise%20E%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P091_Check-Up%20Test%20Chapters%2011-12_Exercise%20E%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27845,7 +27845,7 @@ const url402054 =
   "data": [
     {
         "id": 402054,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P093_Chapter%2013_Exercise%20D%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P093_Chapter%2013_Exercise%20D%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27855,7 +27855,7 @@ const url402055 =
   "data": [
     {
         "id": 402055,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P095_Chapter%2013_Exercise%20G%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P095_Chapter%2013_Exercise%20G%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27865,7 +27865,7 @@ const url402056 =
   "data": [
     {
         "id": 402056,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P097_Chapter%2013_Exercise%20K%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P097_Chapter%2013_Exercise%20K%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27875,7 +27875,7 @@ const url402057 =
   "data": [
     {
         "id": 402057,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P098_Chapter%2013_Exercise%20M%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P098_Chapter%2013_Exercise%20M%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27885,7 +27885,7 @@ const url402058 =
   "data": [
     {
         "id": 402058,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P099_Chapter%2013_Exercise%20N%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P099_Chapter%2013_Exercise%20N%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27895,7 +27895,7 @@ const url402059 =
   "data": [
     {
         "id": 402059,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P099_Chapter%2013_Exercise%20O%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P099_Chapter%2013_Exercise%20O%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27905,7 +27905,7 @@ const url402060 =
   "data": [
     {
         "id": 402060,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P101_Chapter%2014_Exercise%20D%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P101_Chapter%2014_Exercise%20D%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27915,7 +27915,7 @@ const url402061 =
   "data": [
     {
         "id": 402061,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P102_Chapter%2014_Exercise%20H%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P102_Chapter%2014_Exercise%20H%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27925,7 +27925,7 @@ const url402062 =
   "data": [
     {
         "id": 402062,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P103_Chapter%2014_Exercise%20J%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P103_Chapter%2014_Exercise%20J%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27935,7 +27935,7 @@ const url402063 =
   "data": [
     {
         "id": 402063,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P107_Chapter%2014_Exercise%20Q%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P107_Chapter%2014_Exercise%20Q%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27945,7 +27945,7 @@ const url402064 =
   "data": [
     {
         "id": 402064,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P108_Chapter%2014_Exercise%20T%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P108_Chapter%2014_Exercise%20T%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27955,7 +27955,7 @@ const url402065 =
   "data": [
     {
         "id": 402065,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P110_Chapter%2014_Exercise%20W%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P110_Chapter%2014_Exercise%20W%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -27965,7 +27965,7 @@ const url402066 =
   "data": [
     {
         "id": 402066,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P111_Chapter%2014_Exercise%20X%20GrammarSong.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P111_Chapter%2014_Exercise%20X%20GrammarSong.mp3",
     }
 ],
   "code": 200
@@ -27975,7 +27975,7 @@ const url402067 =
   "data": [
     {
         "id": 402067,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P113_Check-Up%20Test%20Chapters%2013-14_Exercise%20G%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P113_Check-Up%20Test%20Chapters%2013-14_Exercise%20G%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27985,7 +27985,7 @@ const url402068 =
   "data": [
     {
         "id": 402068,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P114_Chapter%2015_Exercise%20B%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P114_Chapter%2015_Exercise%20B%20Listening.mp3",
     }
 ],
   "code": 200
@@ -27995,7 +27995,7 @@ const url402069 =
   "data": [
     {
         "id": 402069,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P115_Chapter%2015_Exercise%20C%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P115_Chapter%2015_Exercise%20C%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -28005,7 +28005,7 @@ const url402070 =
   "data": [
     {
         "id": 402070,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P117_Chapter%2015_Exercise%20F%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P117_Chapter%2015_Exercise%20F%20Listening.mp3",
     }
 ],
   "code": 200
@@ -28015,7 +28015,7 @@ const url402071 =
   "data": [
     {
         "id": 402071,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P120_Chapter%2015_Exercise%20J%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P120_Chapter%2015_Exercise%20J%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -28025,7 +28025,7 @@ const url402072 =
   "data": [
     {
         "id": 402072,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P125_Chapter%2016_Exercise%20F%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P125_Chapter%2016_Exercise%20F%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -28035,7 +28035,7 @@ const url402073 =
   "data": [
     {
         "id": 402073,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P126_Chapter%2016_Exercise%20I%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P126_Chapter%2016_Exercise%20I%20Listening.mp3",
     }
 ],
   "code": 200
@@ -28045,7 +28045,7 @@ const url402074 =
   "data": [
     {
         "id": 402074,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P128_Chapter%2016_Exercise%20L%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P128_Chapter%2016_Exercise%20L%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -28055,7 +28055,7 @@ const url402075 =
   "data": [
     {
         "id": 402075,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P128_Chapter%2016_Exercise%20M%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P128_Chapter%2016_Exercise%20M%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -28065,7 +28065,7 @@ const url402076 =
   "data": [
     {
         "id": 402076,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P129_Chapter%2017_Exercise%20B%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P129_Chapter%2017_Exercise%20B%20Listening.mp3",
     }
 ],
   "code": 200
@@ -28075,7 +28075,7 @@ const url402077 =
   "data": [
     {
         "id": 402077,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P131_Chapter%2017_Exercise%20E%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P131_Chapter%2017_Exercise%20E%20Listening.mp3",
     }
 ],
   "code": 200
@@ -28085,7 +28085,7 @@ const url402078 =
   "data": [
     {
         "id": 402078,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P133_Chapter%2017_Exercise%20G%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P133_Chapter%2017_Exercise%20G%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -28095,7 +28095,7 @@ const url402079 =
   "data": [
     {
         "id": 402079,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P134_Chapter%2017_Exercise%20I%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P134_Chapter%2017_Exercise%20I%20Listening.mp3",
     }
 ],
   "code": 200
@@ -28105,7 +28105,7 @@ const url402080 =
   "data": [
     {
         "id": 402080,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P135_Chapter%2017_Exercise%20J%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P135_Chapter%2017_Exercise%20J%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -28115,7 +28115,7 @@ const url402081 =
   "data": [
     {
         "id": 402081,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P137_Check-Up%20Test%20Chapters%2015-17_Exercise%20F%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS1MP3/%E7%AC%AC1%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P137_Check-Up%20Test%20Chapters%2015-17_Exercise%20F%20Listening.mp3",
     }
 ],
   "code": 200
@@ -41468,7 +41468,7 @@ const url403001 =
   "data": [
     {
         "id": 403001,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P1.mp3",
     }
 ],
   "code": 200
@@ -41478,7 +41478,7 @@ const url403002 =
   "data": [
     {
         "id": 403002,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P2-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P2-1.mp3",
     }
 ],
   "code": 200
@@ -41488,7 +41488,7 @@ const url403003 =
   "data": [
     {
         "id": 403003,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P2-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P2-2.mp3",
     }
 ],
   "code": 200
@@ -41498,7 +41498,7 @@ const url403004 =
   "data": [
     {
         "id": 403004,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P3.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P3.mp3",
     }
 ],
   "code": 200
@@ -41508,7 +41508,7 @@ const url403005 =
   "data": [
     {
         "id": 403005,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P4-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P4-1.mp3",
     }
 ],
   "code": 200
@@ -41518,7 +41518,7 @@ const url403006 =
   "data": [
     {
         "id": 403006,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P4-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P4-2.mp3",
     }
 ],
   "code": 200
@@ -41528,7 +41528,7 @@ const url403007 =
   "data": [
     {
         "id": 403007,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P5.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P5.mp3",
     }
 ],
   "code": 200
@@ -41538,7 +41538,7 @@ const url403008 =
   "data": [
     {
         "id": 403008,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P6-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P6-1.mp3",
     }
 ],
   "code": 200
@@ -41548,7 +41548,7 @@ const url403009 =
   "data": [
     {
         "id": 403009,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P6-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P6-2.mp3",
     }
 ],
   "code": 200
@@ -41558,7 +41558,7 @@ const url403010 =
   "data": [
     {
         "id": 403010,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P7-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P7-1.mp3",
     }
 ],
   "code": 200
@@ -41568,7 +41568,7 @@ const url403011 =
   "data": [
     {
         "id": 403011,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P7-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P7-2.mp3",
     }
 ],
   "code": 200
@@ -41578,7 +41578,7 @@ const url403012 =
   "data": [
     {
         "id": 403012,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P8.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P8.mp3",
     }
 ],
   "code": 200
@@ -41588,7 +41588,7 @@ const url403013 =
   "data": [
     {
         "id": 403013,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P9-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P9-1.mp3",
     }
 ],
   "code": 200
@@ -41598,7 +41598,7 @@ const url403014 =
   "data": [
     {
         "id": 403014,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P9-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C1P9-2.mp3",
     }
 ],
   "code": 200
@@ -41608,7 +41608,7 @@ const url403015 =
   "data": [
     {
         "id": 403015,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P11.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P11.mp3",
     }
 ],
   "code": 200
@@ -41618,7 +41618,7 @@ const url403016 =
   "data": [
     {
         "id": 403016,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P12.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P12.mp3",
     }
 ],
   "code": 200
@@ -41628,7 +41628,7 @@ const url403017 =
   "data": [
     {
         "id": 403017,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P13-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P13-1.mp3",
     }
 ],
   "code": 200
@@ -41638,7 +41638,7 @@ const url403018 =
   "data": [
     {
         "id": 403018,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P13-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P13-2.mp3",
     }
 ],
   "code": 200
@@ -41648,7 +41648,7 @@ const url403019 =
   "data": [
     {
         "id": 403019,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P14-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P14-1.mp3",
     }
 ],
   "code": 200
@@ -41658,7 +41658,7 @@ const url403020 =
   "data": [
     {
         "id": 403020,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P14-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P14-2.mp3",
     }
 ],
   "code": 200
@@ -41668,7 +41668,7 @@ const url403021 =
   "data": [
     {
         "id": 403021,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P15-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P15-1.mp3",
     }
 ],
   "code": 200
@@ -41678,7 +41678,7 @@ const url403022 =
   "data": [
     {
         "id": 403022,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P15-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P15-2.mp3",
     }
 ],
   "code": 200
@@ -41688,7 +41688,7 @@ const url403023 =
   "data": [
     {
         "id": 403023,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P16-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P16-1.mp3",
     }
 ],
   "code": 200
@@ -41698,7 +41698,7 @@ const url403024 =
   "data": [
     {
         "id": 403024,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P16-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P16-2.mp3",
     }
 ],
   "code": 200
@@ -41708,7 +41708,7 @@ const url403025 =
   "data": [
     {
         "id": 403025,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P17.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P17.mp3",
     }
 ],
   "code": 200
@@ -41718,7 +41718,7 @@ const url403026 =
   "data": [
     {
         "id": 403026,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P18.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C2P18.mp3",
     }
 ],
   "code": 200
@@ -41728,7 +41728,7 @@ const url403027 =
   "data": [
     {
         "id": 403027,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P19.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P19.mp3",
     }
 ],
   "code": 200
@@ -41738,7 +41738,7 @@ const url403028 =
   "data": [
     {
         "id": 403028,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P20-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P20-1.mp3",
     }
 ],
   "code": 200
@@ -41748,7 +41748,7 @@ const url403029 =
   "data": [
     {
         "id": 403029,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P20-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P20-2.mp3",
     }
 ],
   "code": 200
@@ -41758,7 +41758,7 @@ const url403030 =
   "data": [
     {
         "id": 403030,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P21.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P21.mp3",
     }
 ],
   "code": 200
@@ -41768,7 +41768,7 @@ const url403031 =
   "data": [
     {
         "id": 403031,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P22-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P22-1.mp3",
     }
 ],
   "code": 200
@@ -41778,7 +41778,7 @@ const url403032 =
   "data": [
     {
         "id": 403032,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P22-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P22-2.mp3",
     }
 ],
   "code": 200
@@ -41788,7 +41788,7 @@ const url403033 =
   "data": [
     {
         "id": 403033,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P23-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P23-1.mp3",
     }
 ],
   "code": 200
@@ -41798,7 +41798,7 @@ const url403034 =
   "data": [
     {
         "id": 403034,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P23-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P23-2.mp3",
     }
 ],
   "code": 200
@@ -41808,7 +41808,7 @@ const url403035 =
   "data": [
     {
         "id": 403035,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P23-3.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P23-3.mp3",
     }
 ],
   "code": 200
@@ -41818,7 +41818,7 @@ const url403036 =
   "data": [
     {
         "id": 403036,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P25.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P25.mp3",
     }
 ],
   "code": 200
@@ -41828,7 +41828,7 @@ const url403037 =
   "data": [
     {
         "id": 403037,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P26.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C3P26.mp3",
     }
 ],
   "code": 200
@@ -41838,7 +41838,7 @@ const url403038 =
   "data": [
     {
         "id": 403038,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P29.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P29.mp3",
     }
 ],
   "code": 200
@@ -41848,7 +41848,7 @@ const url403039 =
   "data": [
     {
         "id": 403039,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P30-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P30-1.mp3",
     }
 ],
   "code": 200
@@ -41858,7 +41858,7 @@ const url403040 =
   "data": [
     {
         "id": 403040,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P30-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P30-2.mp3",
     }
 ],
   "code": 200
@@ -41868,7 +41868,7 @@ const url403041 =
   "data": [
     {
         "id": 403041,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P31-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P31-1.mp3",
     }
 ],
   "code": 200
@@ -41878,7 +41878,7 @@ const url403042 =
   "data": [
     {
         "id": 403042,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P31-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P31-2.mp3",
     }
 ],
   "code": 200
@@ -41888,7 +41888,7 @@ const url403043 =
   "data": [
     {
         "id": 403043,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P32.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P32.mp3",
     }
 ],
   "code": 200
@@ -41898,7 +41898,7 @@ const url403044 =
   "data": [
     {
         "id": 403044,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P33.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P33.mp3",
     }
 ],
   "code": 200
@@ -41908,7 +41908,7 @@ const url403045 =
   "data": [
     {
         "id": 403045,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P34-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P34-1.mp3",
     }
 ],
   "code": 200
@@ -41918,7 +41918,7 @@ const url403046 =
   "data": [
     {
         "id": 403046,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P34-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P34-2.mp3",
     }
 ],
   "code": 200
@@ -41928,7 +41928,7 @@ const url403047 =
   "data": [
     {
         "id": 403047,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P34-3.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P34-3.mp3",
     }
 ],
   "code": 200
@@ -41938,7 +41938,7 @@ const url403048 =
   "data": [
     {
         "id": 403048,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P35-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P35-1.mp3",
     }
 ],
   "code": 200
@@ -41948,7 +41948,7 @@ const url403049 =
   "data": [
     {
         "id": 403049,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P35-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P35-2.mp3",
     }
 ],
   "code": 200
@@ -41958,7 +41958,7 @@ const url403050 =
   "data": [
     {
         "id": 403050,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P36.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P36.mp3",
     }
 ],
   "code": 200
@@ -41968,7 +41968,7 @@ const url403051 =
   "data": [
     {
         "id": 403051,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P37-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P37-1.mp3",
     }
 ],
   "code": 200
@@ -41978,7 +41978,7 @@ const url403052 =
   "data": [
     {
         "id": 403052,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P37-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P37-2.mp3",
     }
 ],
   "code": 200
@@ -41988,7 +41988,7 @@ const url403053 =
   "data": [
     {
         "id": 403053,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P37-3.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C4P37-3.mp3",
     }
 ],
   "code": 200
@@ -41998,7 +41998,7 @@ const url403054 =
   "data": [
     {
         "id": 403054,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P39.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P39.mp3",
     }
 ],
   "code": 200
@@ -42008,7 +42008,7 @@ const url403055 =
   "data": [
     {
         "id": 403055,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P40-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P40-1.mp3",
     }
 ],
   "code": 200
@@ -42018,7 +42018,7 @@ const url403056 =
   "data": [
     {
         "id": 403056,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P40-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P40-2.mp3",
     }
 ],
   "code": 200
@@ -42028,7 +42028,7 @@ const url403057 =
   "data": [
     {
         "id": 403057,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P41-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P41-1.mp3",
     }
 ],
   "code": 200
@@ -42038,7 +42038,7 @@ const url403058 =
   "data": [
     {
         "id": 403058,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P41-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P41-2.mp3",
     }
 ],
   "code": 200
@@ -42048,7 +42048,7 @@ const url403059 =
   "data": [
     {
         "id": 403059,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P42-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P42-1.mp3",
     }
 ],
   "code": 200
@@ -42058,7 +42058,7 @@ const url403060 =
   "data": [
     {
         "id": 403060,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P42-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P42-2.mp3",
     }
 ],
   "code": 200
@@ -42068,7 +42068,7 @@ const url403061 =
   "data": [
     {
         "id": 403061,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P44-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P44-1.mp3",
     }
 ],
   "code": 200
@@ -42078,7 +42078,7 @@ const url403062 =
   "data": [
     {
         "id": 403062,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P44-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P44-2.mp3",
     }
 ],
   "code": 200
@@ -42088,7 +42088,7 @@ const url403063 =
   "data": [
     {
         "id": 403063,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P45-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P45-1.mp3",
     }
 ],
   "code": 200
@@ -42098,7 +42098,7 @@ const url403064 =
   "data": [
     {
         "id": 403064,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P45-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P45-2.mp3",
     }
 ],
   "code": 200
@@ -42108,7 +42108,7 @@ const url403065 =
   "data": [
     {
         "id": 403065,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P46.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P46.mp3",
     }
 ],
   "code": 200
@@ -42118,7 +42118,7 @@ const url403066 =
   "data": [
     {
         "id": 403066,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P47-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P47-1.mp3",
     }
 ],
   "code": 200
@@ -42128,7 +42128,7 @@ const url403067 =
   "data": [
     {
         "id": 403067,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P47-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P47-2.mp3",
     }
 ],
   "code": 200
@@ -42138,7 +42138,7 @@ const url403068 =
   "data": [
     {
         "id": 403068,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P48.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2C5P48.mp3",
     }
 ],
   "code": 200
@@ -42148,7 +42148,7 @@ const url403069 =
   "data": [
     {
         "id": 403069,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P27-1G1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P27-1G1.mp3",
     }
 ],
   "code": 200
@@ -42158,7 +42158,7 @@ const url403070 =
   "data": [
     {
         "id": 403070,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P27-2G1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P27-2G1.mp3",
     }
 ],
   "code": 200
@@ -42168,7 +42168,7 @@ const url403071 =
   "data": [
     {
         "id": 403071,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P28-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P28-1.mp3",
     }
 ],
   "code": 200
@@ -42178,7 +42178,7 @@ const url403072 =
   "data": [
     {
         "id": 403072,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P28-2G1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P28-2G1.mp3",
     }
 ],
   "code": 200
@@ -42188,7 +42188,7 @@ const url403073 =
   "data": [
     {
         "id": 403073,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P28-3.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P28-3.mp3",
     }
 ],
   "code": 200
@@ -42198,7 +42198,7 @@ const url403074 =
   "data": [
     {
         "id": 403074,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P49.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P49.mp3",
     }
 ],
   "code": 200
@@ -42208,7 +42208,7 @@ const url403075 =
   "data": [
     {
         "id": 403075,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P50-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P50-1.mp3",
     }
 ],
   "code": 200
@@ -42218,7 +42218,7 @@ const url403076 =
   "data": [
     {
         "id": 403076,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P50-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P50-2.mp3",
     }
 ],
   "code": 200
@@ -42228,7 +42228,7 @@ const url403077 =
   "data": [
     {
         "id": 403077,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P51-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P51-1.mp3",
     }
 ],
   "code": 200
@@ -42238,7 +42238,7 @@ const url403078 =
   "data": [
     {
         "id": 403078,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P51-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P51-2.mp3",
     }
 ],
   "code": 200
@@ -42248,7 +42248,7 @@ const url403079 =
   "data": [
     {
         "id": 403079,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P52.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P52.mp3",
     }
 ],
   "code": 200
@@ -42258,7 +42258,7 @@ const url403080 =
   "data": [
     {
         "id": 403080,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P53-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P53-1.mp3",
     }
 ],
   "code": 200
@@ -42268,7 +42268,7 @@ const url403081 =
   "data": [
     {
         "id": 403081,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P53-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P53-2.mp3",
     }
 ],
   "code": 200
@@ -42278,7 +42278,7 @@ const url403082 =
   "data": [
     {
         "id": 403082,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P53-3.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P53-3.mp3",
     }
 ],
   "code": 200
@@ -42288,7 +42288,7 @@ const url403083 =
   "data": [
     {
         "id": 403083,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P54.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P54.mp3",
     }
 ],
   "code": 200
@@ -42298,7 +42298,7 @@ const url403084 =
   "data": [
     {
         "id": 403084,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P55.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P55.mp3",
     }
 ],
   "code": 200
@@ -42308,7 +42308,7 @@ const url403085 =
   "data": [
     {
         "id": 403085,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P56.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P56.mp3",
     }
 ],
   "code": 200
@@ -42318,7 +42318,7 @@ const url403086 =
   "data": [
     {
         "id": 403086,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P58.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P58.mp3",
     }
 ],
   "code": 200
@@ -42328,7 +42328,7 @@ const url403087 =
   "data": [
     {
         "id": 403087,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P59.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P59.mp3",
     }
 ],
   "code": 200
@@ -42338,7 +42338,7 @@ const url403088 =
   "data": [
     {
         "id": 403088,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P60-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P60-1.mp3",
     }
 ],
   "code": 200
@@ -42348,7 +42348,7 @@ const url403089 =
   "data": [
     {
         "id": 403089,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P60-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P60-2.mp3",
     }
 ],
   "code": 200
@@ -42358,7 +42358,7 @@ const url403090 =
   "data": [
     {
         "id": 403090,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P60-3.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P60-3.mp3",
     }
 ],
   "code": 200
@@ -42368,7 +42368,7 @@ const url403091 =
   "data": [
     {
         "id": 403091,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P61.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P61.mp3",
     }
 ],
   "code": 200
@@ -42378,7 +42378,7 @@ const url403092 =
   "data": [
     {
         "id": 403092,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P62.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P62.mp3",
     }
 ],
   "code": 200
@@ -42388,7 +42388,7 @@ const url403093 =
   "data": [
     {
         "id": 403093,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P63.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P63.mp3",
     }
 ],
   "code": 200
@@ -42398,7 +42398,7 @@ const url403094 =
   "data": [
     {
         "id": 403094,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P64.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P64.mp3",
     }
 ],
   "code": 200
@@ -42408,7 +42408,7 @@ const url403095 =
   "data": [
     {
         "id": 403095,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P65.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P65.mp3",
     }
 ],
   "code": 200
@@ -42418,7 +42418,7 @@ const url403096 =
   "data": [
     {
         "id": 403096,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P66-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P66-1.mp3",
     }
 ],
   "code": 200
@@ -42428,7 +42428,7 @@ const url403097 =
   "data": [
     {
         "id": 403097,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P66-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P66-2.mp3",
     }
 ],
   "code": 200
@@ -42438,7 +42438,7 @@ const url403098 =
   "data": [
     {
         "id": 403098,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P67.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P67.mp3",
     }
 ],
   "code": 200
@@ -42448,7 +42448,7 @@ const url403099 =
   "data": [
     {
         "id": 403099,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P68.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P68.mp3",
     }
 ],
   "code": 200
@@ -42458,7 +42458,7 @@ const url403100 =
   "data": [
     {
         "id": 403100,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P69-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P69-1.mp3",
     }
 ],
   "code": 200
@@ -42468,7 +42468,7 @@ const url403101 =
   "data": [
     {
         "id": 403101,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P69-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P69-2.mp3",
     }
 ],
   "code": 200
@@ -42478,7 +42478,7 @@ const url403102 =
   "data": [
     {
         "id": 403102,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P70.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P70.mp3",
     }
 ],
   "code": 200
@@ -42488,7 +42488,7 @@ const url403103 =
   "data": [
     {
         "id": 403103,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P71.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P71.mp3",
     }
 ],
   "code": 200
@@ -42498,7 +42498,7 @@ const url403104 =
   "data": [
     {
         "id": 403104,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P72-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P72-1.mp3",
     }
 ],
   "code": 200
@@ -42508,7 +42508,7 @@ const url403105 =
   "data": [
     {
         "id": 403105,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P72-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P72-2.mp3",
     }
 ],
   "code": 200
@@ -42518,7 +42518,7 @@ const url403106 =
   "data": [
     {
         "id": 403106,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P73-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P73-1.mp3",
     }
 ],
   "code": 200
@@ -42528,7 +42528,7 @@ const url403107 =
   "data": [
     {
         "id": 403107,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P73-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P73-2.mp3",
     }
 ],
   "code": 200
@@ -42538,7 +42538,7 @@ const url403108 =
   "data": [
     {
         "id": 403108,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P74-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P74-1.mp3",
     }
 ],
   "code": 200
@@ -42548,7 +42548,7 @@ const url403109 =
   "data": [
     {
         "id": 403109,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P74-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P74-2.mp3",
     }
 ],
   "code": 200
@@ -42558,7 +42558,7 @@ const url403110 =
   "data": [
     {
         "id": 403110,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P74-3.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P74-3.mp3",
     }
 ],
   "code": 200
@@ -42568,7 +42568,7 @@ const url403111 =
   "data": [
     {
         "id": 403111,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P75.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P75.mp3",
     }
 ],
   "code": 200
@@ -42578,7 +42578,7 @@ const url403112 =
   "data": [
     {
         "id": 403112,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P76-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P76-1.mp3",
     }
 ],
   "code": 200
@@ -42588,7 +42588,7 @@ const url403113 =
   "data": [
     {
         "id": 403113,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P76-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P76-2.mp3",
     }
 ],
   "code": 200
@@ -42598,7 +42598,7 @@ const url403114 =
   "data": [
     {
         "id": 403114,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P77-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P77-1.mp3",
     }
 ],
   "code": 200
@@ -42608,7 +42608,7 @@ const url403115 =
   "data": [
     {
         "id": 403115,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P77-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P77-2.mp3",
     }
 ],
   "code": 200
@@ -42618,7 +42618,7 @@ const url403116 =
   "data": [
     {
         "id": 403116,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P78.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P78.mp3",
     }
 ],
   "code": 200
@@ -42628,7 +42628,7 @@ const url403117 =
   "data": [
     {
         "id": 403117,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P79-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P79-1.mp3",
     }
 ],
   "code": 200
@@ -42638,7 +42638,7 @@ const url403118 =
   "data": [
     {
         "id": 403118,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P79-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P79-2.mp3",
     }
 ],
   "code": 200
@@ -42648,7 +42648,7 @@ const url403119 =
   "data": [
     {
         "id": 403119,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P80.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P80.mp3",
     }
 ],
   "code": 200
@@ -42658,7 +42658,7 @@ const url403120 =
   "data": [
     {
         "id": 403120,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P81-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P81-1.mp3",
     }
 ],
   "code": 200
@@ -42668,7 +42668,7 @@ const url403121 =
   "data": [
     {
         "id": 403121,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P81-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P81-2.mp3",
     }
 ],
   "code": 200
@@ -42678,7 +42678,7 @@ const url403122 =
   "data": [
     {
         "id": 403122,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P82-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P82-1.mp3",
     }
 ],
   "code": 200
@@ -42688,7 +42688,7 @@ const url403123 =
   "data": [
     {
         "id": 403123,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P82-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P82-2.mp3",
     }
 ],
   "code": 200
@@ -42698,7 +42698,7 @@ const url403124 =
   "data": [
     {
         "id": 403124,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P82-3.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P82-3.mp3",
     }
 ],
   "code": 200
@@ -42708,7 +42708,7 @@ const url403125 =
   "data": [
     {
         "id": 403125,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P83.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P83.mp3",
     }
 ],
   "code": 200
@@ -42718,7 +42718,7 @@ const url403126 =
   "data": [
     {
         "id": 403126,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P84-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P84-1.mp3",
     }
 ],
   "code": 200
@@ -42728,7 +42728,7 @@ const url403127 =
   "data": [
     {
         "id": 403127,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P84-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P84-2.mp3",
     }
 ],
   "code": 200
@@ -42738,7 +42738,7 @@ const url403128 =
   "data": [
     {
         "id": 403128,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P85-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P85-1.mp3",
     }
 ],
   "code": 200
@@ -42748,7 +42748,7 @@ const url403129 =
   "data": [
     {
         "id": 403129,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P85-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P85-2.mp3",
     }
 ],
   "code": 200
@@ -42758,7 +42758,7 @@ const url403130 =
   "data": [
     {
         "id": 403130,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P86.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P86.mp3",
     }
 ],
   "code": 200
@@ -42768,7 +42768,7 @@ const url403131 =
   "data": [
     {
         "id": 403131,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P87-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P87-1.mp3",
     }
 ],
   "code": 200
@@ -42778,7 +42778,7 @@ const url403132 =
   "data": [
     {
         "id": 403132,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P87-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P87-2.mp3",
     }
 ],
   "code": 200
@@ -42788,7 +42788,7 @@ const url403133 =
   "data": [
     {
         "id": 403133,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P88-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P88-1.mp3",
     }
 ],
   "code": 200
@@ -42798,7 +42798,7 @@ const url403134 =
   "data": [
     {
         "id": 403134,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P88-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P88-2.mp3",
     }
 ],
   "code": 200
@@ -42808,7 +42808,7 @@ const url403135 =
   "data": [
     {
         "id": 403135,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P89.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P89.mp3",
     }
 ],
   "code": 200
@@ -42818,7 +42818,7 @@ const url403136 =
   "data": [
     {
         "id": 403136,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P90.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P90.mp3",
     }
 ],
   "code": 200
@@ -42828,7 +42828,7 @@ const url403137 =
   "data": [
     {
         "id": 403137,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P91-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P91-1.mp3",
     }
 ],
   "code": 200
@@ -42838,7 +42838,7 @@ const url403138 =
   "data": [
     {
         "id": 403138,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P91-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P91-2.mp3",
     }
 ],
   "code": 200
@@ -42848,7 +42848,7 @@ const url403139 =
   "data": [
     {
         "id": 403139,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P92.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P92.mp3",
     }
 ],
   "code": 200
@@ -42858,7 +42858,7 @@ const url403140 =
   "data": [
     {
         "id": 403140,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P93.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P93.mp3",
     }
 ],
   "code": 200
@@ -42868,7 +42868,7 @@ const url403141 =
   "data": [
     {
         "id": 403141,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P94-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P94-1.mp3",
     }
 ],
   "code": 200
@@ -42878,7 +42878,7 @@ const url403142 =
   "data": [
     {
         "id": 403142,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P94-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P94-2.mp3",
     }
 ],
   "code": 200
@@ -42888,7 +42888,7 @@ const url403143 =
   "data": [
     {
         "id": 403143,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P95-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P95-1.mp3",
     }
 ],
   "code": 200
@@ -42898,7 +42898,7 @@ const url403144 =
   "data": [
     {
         "id": 403144,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P95-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P95-2.mp3",
     }
 ],
   "code": 200
@@ -42908,7 +42908,7 @@ const url403145 =
   "data": [
     {
         "id": 403145,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P96-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P96-1.mp3",
     }
 ],
   "code": 200
@@ -42918,7 +42918,7 @@ const url403146 =
   "data": [
     {
         "id": 403146,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P96-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P96-2.mp3",
     }
 ],
   "code": 200
@@ -42928,7 +42928,7 @@ const url403147 =
   "data": [
     {
         "id": 403147,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P97-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P97-1.mp3",
     }
 ],
   "code": 200
@@ -42938,7 +42938,7 @@ const url403148 =
   "data": [
     {
         "id": 403148,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P97-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P97-2.mp3",
     }
 ],
   "code": 200
@@ -42948,7 +42948,7 @@ const url403149 =
   "data": [
     {
         "id": 403149,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P98-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P98-1.mp3",
     }
 ],
   "code": 200
@@ -42958,7 +42958,7 @@ const url403150 =
   "data": [
     {
         "id": 403150,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P98-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P98-2.mp3",
     }
 ],
   "code": 200
@@ -42968,7 +42968,7 @@ const url403151 =
   "data": [
     {
         "id": 403151,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P99.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P99.mp3",
     }
 ],
   "code": 200
@@ -42978,7 +42978,7 @@ const url403152 =
   "data": [
     {
         "id": 403152,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P100.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P100.mp3",
     }
 ],
   "code": 200
@@ -42988,7 +42988,7 @@ const url403153 =
   "data": [
     {
         "id": 403153,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P101.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P101.mp3",
     }
 ],
   "code": 200
@@ -42998,7 +42998,7 @@ const url403154 =
   "data": [
     {
         "id": 403154,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P102.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P102.mp3",
     }
 ],
   "code": 200
@@ -43008,7 +43008,7 @@ const url403155 =
   "data": [
     {
         "id": 403155,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P103-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P103-1.mp3",
     }
 ],
   "code": 200
@@ -43018,7 +43018,7 @@ const url403156 =
   "data": [
     {
         "id": 403156,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P103-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P103-2.mp3",
     }
 ],
   "code": 200
@@ -43028,7 +43028,7 @@ const url403157 =
   "data": [
     {
         "id": 403157,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P104-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P104-1.mp3",
     }
 ],
   "code": 200
@@ -43038,7 +43038,7 @@ const url403158 =
   "data": [
     {
         "id": 403158,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P104-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P104-2.mp3",
     }
 ],
   "code": 200
@@ -43048,7 +43048,7 @@ const url403159 =
   "data": [
     {
         "id": 403159,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P104-3.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P104-3.mp3",
     }
 ],
   "code": 200
@@ -43058,7 +43058,7 @@ const url403160 =
   "data": [
     {
         "id": 403160,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P105.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P105.mp3",
     }
 ],
   "code": 200
@@ -43068,7 +43068,7 @@ const url403161 =
   "data": [
     {
         "id": 403161,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P106-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P106-1.mp3",
     }
 ],
   "code": 200
@@ -43078,7 +43078,7 @@ const url403162 =
   "data": [
     {
         "id": 403162,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P106-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P106-2.mp3",
     }
 ],
   "code": 200
@@ -43088,7 +43088,7 @@ const url403163 =
   "data": [
     {
         "id": 403163,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P107-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P107-1.mp3",
     }
 ],
   "code": 200
@@ -43098,7 +43098,7 @@ const url403164 =
   "data": [
     {
         "id": 403164,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P107-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P107-2.mp3",
     }
 ],
   "code": 200
@@ -43108,7 +43108,7 @@ const url403165 =
   "data": [
     {
         "id": 403165,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P108-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P108-1.mp3",
     }
 ],
   "code": 200
@@ -43118,7 +43118,7 @@ const url403166 =
   "data": [
     {
         "id": 403166,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P108-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P108-2.mp3",
     }
 ],
   "code": 200
@@ -43128,7 +43128,7 @@ const url403167 =
   "data": [
     {
         "id": 403167,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P109.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P109.mp3",
     }
 ],
   "code": 200
@@ -43138,7 +43138,7 @@ const url403168 =
   "data": [
     {
         "id": 403168,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P110.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P110.mp3",
     }
 ],
   "code": 200
@@ -43148,7 +43148,7 @@ const url403169 =
   "data": [
     {
         "id": 403169,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P111-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P111-1.mp3",
     }
 ],
   "code": 200
@@ -43158,7 +43158,7 @@ const url403170 =
   "data": [
     {
         "id": 403170,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P111-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P111-2.mp3",
     }
 ],
   "code": 200
@@ -43168,7 +43168,7 @@ const url403171 =
   "data": [
     {
         "id": 403171,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P112-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P112-1.mp3",
     }
 ],
   "code": 200
@@ -43178,7 +43178,7 @@ const url403172 =
   "data": [
     {
         "id": 403172,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P112-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P112-2.mp3",
     }
 ],
   "code": 200
@@ -43188,7 +43188,7 @@ const url403173 =
   "data": [
     {
         "id": 403173,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P113.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P113.mp3",
     }
 ],
   "code": 200
@@ -43198,7 +43198,7 @@ const url403174 =
   "data": [
     {
         "id": 403174,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P114.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P114.mp3",
     }
 ],
   "code": 200
@@ -43208,7 +43208,7 @@ const url403175 =
   "data": [
     {
         "id": 403175,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P115.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P115.mp3",
     }
 ],
   "code": 200
@@ -43218,7 +43218,7 @@ const url403176 =
   "data": [
     {
         "id": 403176,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P116-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P116-1.mp3",
     }
 ],
   "code": 200
@@ -43228,7 +43228,7 @@ const url403177 =
   "data": [
     {
         "id": 403177,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P116-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P116-2.mp3",
     }
 ],
   "code": 200
@@ -43238,7 +43238,7 @@ const url403178 =
   "data": [
     {
         "id": 403178,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P117.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P117.mp3",
     }
 ],
   "code": 200
@@ -43248,7 +43248,7 @@ const url403179 =
   "data": [
     {
         "id": 403179,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P119.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P119.mp3",
     }
 ],
   "code": 200
@@ -43258,7 +43258,7 @@ const url403180 =
   "data": [
     {
         "id": 403180,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P120-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P120-1.mp3",
     }
 ],
   "code": 200
@@ -43268,7 +43268,7 @@ const url403181 =
   "data": [
     {
         "id": 403181,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P120-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P120-2.mp3",
     }
 ],
   "code": 200
@@ -43278,7 +43278,7 @@ const url403182 =
   "data": [
     {
         "id": 403182,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P121.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P121.mp3",
     }
 ],
   "code": 200
@@ -43288,7 +43288,7 @@ const url403183 =
   "data": [
     {
         "id": 403183,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P122-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P122-1.mp3",
     }
 ],
   "code": 200
@@ -43298,7 +43298,7 @@ const url403184 =
   "data": [
     {
         "id": 403184,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P122-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P122-2.mp3",
     }
 ],
   "code": 200
@@ -43308,7 +43308,7 @@ const url403185 =
   "data": [
     {
         "id": 403185,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P123.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P123.mp3",
     }
 ],
   "code": 200
@@ -43318,7 +43318,7 @@ const url403186 =
   "data": [
     {
         "id": 403186,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P124.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P124.mp3",
     }
 ],
   "code": 200
@@ -43328,7 +43328,7 @@ const url403187 =
   "data": [
     {
         "id": 403187,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P125.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P125.mp3",
     }
 ],
   "code": 200
@@ -43338,7 +43338,7 @@ const url403188 =
   "data": [
     {
         "id": 403188,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P126-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P126-1.mp3",
     }
 ],
   "code": 200
@@ -43348,7 +43348,7 @@ const url403189 =
   "data": [
     {
         "id": 403189,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P126-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P126-2.mp3",
     }
 ],
   "code": 200
@@ -43358,7 +43358,7 @@ const url403190 =
   "data": [
     {
         "id": 403190,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P127-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P127-1.mp3",
     }
 ],
   "code": 200
@@ -43368,7 +43368,7 @@ const url403191 =
   "data": [
     {
         "id": 403191,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P127-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P127-2.mp3",
     }
 ],
   "code": 200
@@ -43378,7 +43378,7 @@ const url403192 =
   "data": [
     {
         "id": 403192,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P128-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P128-1.mp3",
     }
 ],
   "code": 200
@@ -43388,7 +43388,7 @@ const url403193 =
   "data": [
     {
         "id": 403193,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P128-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P128-2.mp3",
     }
 ],
   "code": 200
@@ -43398,7 +43398,7 @@ const url403194 =
   "data": [
     {
         "id": 403194,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P130-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P130-1.mp3",
     }
 ],
   "code": 200
@@ -43408,7 +43408,7 @@ const url403195 =
   "data": [
     {
         "id": 403195,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P130-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P130-2.mp3",
     }
 ],
   "code": 200
@@ -43418,7 +43418,7 @@ const url403196 =
   "data": [
     {
         "id": 403196,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P131.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P131.mp3",
     }
 ],
   "code": 200
@@ -43428,7 +43428,7 @@ const url403197 =
   "data": [
     {
         "id": 403197,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P133.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P133.mp3",
     }
 ],
   "code": 200
@@ -43438,7 +43438,7 @@ const url403198 =
   "data": [
     {
         "id": 403198,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P134-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P134-1.mp3",
     }
 ],
   "code": 200
@@ -43448,7 +43448,7 @@ const url403199 =
   "data": [
     {
         "id": 403199,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P134-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P134-2.mp3",
     }
 ],
   "code": 200
@@ -43458,7 +43458,7 @@ const url403200 =
   "data": [
     {
         "id": 403200,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P134-3.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P134-3.mp3",
     }
 ],
   "code": 200
@@ -43468,7 +43468,7 @@ const url403201 =
   "data": [
     {
         "id": 403201,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P135.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P135.mp3",
     }
 ],
   "code": 200
@@ -43478,7 +43478,7 @@ const url403202 =
   "data": [
     {
         "id": 403202,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P136.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P136.mp3",
     }
 ],
   "code": 200
@@ -43488,7 +43488,7 @@ const url403203 =
   "data": [
     {
         "id": 403203,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P137-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P137-1.mp3",
     }
 ],
   "code": 200
@@ -43498,7 +43498,7 @@ const url403204 =
   "data": [
     {
         "id": 403204,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P137-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P137-2.mp3",
     }
 ],
   "code": 200
@@ -43508,7 +43508,7 @@ const url403205 =
   "data": [
     {
         "id": 403205,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P138-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P138-1.mp3",
     }
 ],
   "code": 200
@@ -43518,7 +43518,7 @@ const url403206 =
   "data": [
     {
         "id": 403206,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P138-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P138-2.mp3",
     }
 ],
   "code": 200
@@ -43528,7 +43528,7 @@ const url403207 =
   "data": [
     {
         "id": 403207,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P138-3.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/SBS2P138-3.mp3",
     }
 ],
   "code": 200
@@ -43539,7 +43539,7 @@ const url404001 =
   "data": [
     {
         "id": 404001,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P10.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P10.mp3",
     }
 ],
   "code": 200
@@ -43549,7 +43549,7 @@ const url404002 =
   "data": [
     {
         "id": 404002,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P100N.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P100N.mp3",
     }
 ],
   "code": 200
@@ -43559,7 +43559,7 @@ const url404003 =
   "data": [
     {
         "id": 404003,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P102E.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P102E.mp3",
     }
 ],
   "code": 200
@@ -43569,7 +43569,7 @@ const url404004 =
   "data": [
     {
         "id": 404004,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P105D.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P105D.mp3",
     }
 ],
   "code": 200
@@ -43579,7 +43579,7 @@ const url404005 =
   "data": [
     {
         "id": 404005,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P109J.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P109J.mp3",
     }
 ],
   "code": 200
@@ -43589,7 +43589,7 @@ const url404006 =
   "data": [
     {
         "id": 404006,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P109K.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P109K.mp3",
     }
 ],
   "code": 200
@@ -43599,7 +43599,7 @@ const url404007 =
   "data": [
     {
         "id": 404007,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P109L.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P109L.mp3",
     }
 ],
   "code": 200
@@ -43609,7 +43609,7 @@ const url404008 =
   "data": [
     {
         "id": 404008,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P113C.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P113C.mp3",
     }
 ],
   "code": 200
@@ -43619,7 +43619,7 @@ const url404009 =
   "data": [
     {
         "id": 404009,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P115E.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P115E.mp3",
     }
 ],
   "code": 200
@@ -43629,7 +43629,7 @@ const url404010 =
   "data": [
     {
         "id": 404010,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P119J.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P119J.mp3",
     }
 ],
   "code": 200
@@ -43639,7 +43639,7 @@ const url404011 =
   "data": [
     {
         "id": 404011,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P122E.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P122E.mp3",
     }
 ],
   "code": 200
@@ -43649,7 +43649,7 @@ const url404012 =
   "data": [
     {
         "id": 404012,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P126Ex.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P126Ex.mp3",
     }
 ],
   "code": 200
@@ -43659,7 +43659,7 @@ const url404013 =
   "data": [
     {
         "id": 404013,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P128J.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P128J.mp3",
     }
 ],
   "code": 200
@@ -43669,7 +43669,7 @@ const url404014 =
   "data": [
     {
         "id": 404014,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P129L.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P129L.mp3",
     }
 ],
   "code": 200
@@ -43679,7 +43679,7 @@ const url404015 =
   "data": [
     {
         "id": 404015,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P13.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P13.mp3",
     }
 ],
   "code": 200
@@ -43689,7 +43689,7 @@ const url404016 =
   "data": [
     {
         "id": 404016,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P131N.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P131N.mp3",
     }
 ],
   "code": 200
@@ -43699,7 +43699,7 @@ const url404017 =
   "data": [
     {
         "id": 404017,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P133D.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P133D.mp3",
     }
 ],
   "code": 200
@@ -43709,7 +43709,7 @@ const url404018 =
   "data": [
     {
         "id": 404018,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P15.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P15.mp3",
     }
 ],
   "code": 200
@@ -43719,7 +43719,7 @@ const url404019 =
   "data": [
     {
         "id": 404019,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P17I.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P17I.mp3",
     }
 ],
   "code": 200
@@ -43729,7 +43729,7 @@ const url404020 =
   "data": [
     {
         "id": 404020,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P19.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P19.mp3",
     }
 ],
   "code": 200
@@ -43739,7 +43739,7 @@ const url404021 =
   "data": [
     {
         "id": 404021,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P2.mp3",
     }
 ],
   "code": 200
@@ -43749,7 +43749,7 @@ const url404022 =
   "data": [
     {
         "id": 404022,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P20M.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P20M.mp3",
     }
 ],
   "code": 200
@@ -43759,7 +43759,7 @@ const url404023 =
   "data": [
     {
         "id": 404023,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P22.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P22.mp3",
     }
 ],
   "code": 200
@@ -43769,7 +43769,7 @@ const url404024 =
   "data": [
     {
         "id": 404024,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P23D.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P23D.mp3",
     }
 ],
   "code": 200
@@ -43779,7 +43779,7 @@ const url404025 =
   "data": [
     {
         "id": 404025,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P24.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P24.mp3",
     }
 ],
   "code": 200
@@ -43789,7 +43789,7 @@ const url404026 =
   "data": [
     {
         "id": 404026,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P26I.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P26I.mp3",
     }
 ],
   "code": 200
@@ -43799,7 +43799,7 @@ const url404027 =
   "data": [
     {
         "id": 404027,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P26J.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P26J.mp3",
     }
 ],
   "code": 200
@@ -43809,7 +43809,7 @@ const url404028 =
   "data": [
     {
         "id": 404028,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P27M.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P27M.mp3",
     }
 ],
   "code": 200
@@ -43819,7 +43819,7 @@ const url404029 =
   "data": [
     {
         "id": 404029,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P29E.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P29E.mp3",
     }
 ],
   "code": 200
@@ -43829,7 +43829,7 @@ const url404030 =
   "data": [
     {
         "id": 404030,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P32D.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P32D.mp3",
     }
 ],
   "code": 200
@@ -43839,7 +43839,7 @@ const url404031 =
   "data": [
     {
         "id": 404031,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P33F.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P33F.mp3",
     }
 ],
   "code": 200
@@ -43849,7 +43849,7 @@ const url404032 =
   "data": [
     {
         "id": 404032,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P37K.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P37K.mp3",
     }
 ],
   "code": 200
@@ -43859,7 +43859,7 @@ const url404033 =
   "data": [
     {
         "id": 404033,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P38L.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P38L.mp3",
     }
 ],
   "code": 200
@@ -43869,7 +43869,7 @@ const url404034 =
   "data": [
     {
         "id": 404034,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P39M.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P39M.mp3",
     }
 ],
   "code": 200
@@ -43879,7 +43879,7 @@ const url404035 =
   "data": [
     {
         "id": 404035,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P42F.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P42F.mp3",
     }
 ],
   "code": 200
@@ -43889,7 +43889,7 @@ const url404036 =
   "data": [
     {
         "id": 404036,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P43H.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P43H.mp3",
     }
 ],
   "code": 200
@@ -43899,7 +43899,7 @@ const url404037 =
   "data": [
     {
         "id": 404037,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P44I.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P44I.mp3",
     }
 ],
   "code": 200
@@ -43909,7 +43909,7 @@ const url404038 =
   "data": [
     {
         "id": 404038,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P44J.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P44J.mp3",
     }
 ],
   "code": 200
@@ -43919,7 +43919,7 @@ const url404039 =
   "data": [
     {
         "id": 404039,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P45L.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P45L.mp3",
     }
 ],
   "code": 200
@@ -43929,7 +43929,7 @@ const url404040 =
   "data": [
     {
         "id": 404040,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P49R.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P49R.mp3",
     }
 ],
   "code": 200
@@ -43939,7 +43939,7 @@ const url404041 =
   "data": [
     {
         "id": 404041,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P49S.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P49S.mp3",
     }
 ],
   "code": 200
@@ -43949,7 +43949,7 @@ const url404042 =
   "data": [
     {
         "id": 404042,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P54D.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P54D.mp3",
     }
 ],
   "code": 200
@@ -43959,7 +43959,7 @@ const url404043 =
   "data": [
     {
         "id": 404043,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P56F.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P56F.mp3",
     }
 ],
   "code": 200
@@ -43969,7 +43969,7 @@ const url404044 =
   "data": [
     {
         "id": 404044,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P59G.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P59G.mp3",
     }
 ],
   "code": 200
@@ -43979,7 +43979,7 @@ const url404045 =
   "data": [
     {
         "id": 404045,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P63D.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P63D.mp3",
     }
 ],
   "code": 200
@@ -43989,7 +43989,7 @@ const url404046 =
   "data": [
     {
         "id": 404046,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P64E.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P64E.mp3",
     }
 ],
   "code": 200
@@ -43999,7 +43999,7 @@ const url404047 =
   "data": [
     {
         "id": 404047,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P66G.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P66G.mp3",
     }
 ],
   "code": 200
@@ -44009,7 +44009,7 @@ const url404048 =
   "data": [
     {
         "id": 404048,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P66H.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P66H.mp3",
     }
 ],
   "code": 200
@@ -44019,7 +44019,7 @@ const url404049 =
   "data": [
     {
         "id": 404049,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P67I.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P67I.mp3",
     }
 ],
   "code": 200
@@ -44029,7 +44029,7 @@ const url404050 =
   "data": [
     {
         "id": 404050,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P69C.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P69C.mp3",
     }
 ],
   "code": 200
@@ -44039,7 +44039,7 @@ const url404051 =
   "data": [
     {
         "id": 404051,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P70D.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P70D.mp3",
     }
 ],
   "code": 200
@@ -44049,7 +44049,7 @@ const url404052 =
   "data": [
     {
         "id": 404052,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P73H.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P73H.mp3",
     }
 ],
   "code": 200
@@ -44059,7 +44059,7 @@ const url404053 =
   "data": [
     {
         "id": 404053,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P76N.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P76N.mp3",
     }
 ],
   "code": 200
@@ -44069,7 +44069,7 @@ const url404054 =
   "data": [
     {
         "id": 404054,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P7G.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P7G.mp3",
     }
 ],
   "code": 200
@@ -44079,7 +44079,7 @@ const url404055 =
   "data": [
     {
         "id": 404055,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P7H.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P7H.mp3",
     }
 ],
   "code": 200
@@ -44089,7 +44089,7 @@ const url404056 =
   "data": [
     {
         "id": 404056,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P80F.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P80F.mp3",
     }
 ],
   "code": 200
@@ -44099,7 +44099,7 @@ const url404057 =
   "data": [
     {
         "id": 404057,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P82C.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P82C.mp3",
     }
 ],
   "code": 200
@@ -44109,7 +44109,7 @@ const url404058 =
   "data": [
     {
         "id": 404058,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P83E.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P83E.mp3",
     }
 ],
   "code": 200
@@ -44119,7 +44119,7 @@ const url404059 =
   "data": [
     {
         "id": 404059,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P84G.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P84G.mp3",
     }
 ],
   "code": 200
@@ -44129,7 +44129,7 @@ const url404060 =
   "data": [
     {
         "id": 404060,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P85H.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P85H.mp3",
     }
 ],
   "code": 200
@@ -44139,7 +44139,7 @@ const url404061 =
   "data": [
     {
         "id": 404061,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P88M.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P88M.mp3",
     }
 ],
   "code": 200
@@ -44149,7 +44149,7 @@ const url404062 =
   "data": [
     {
         "id": 404062,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P89N.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P89N.mp3",
     }
 ],
   "code": 200
@@ -44159,7 +44159,7 @@ const url404063 =
   "data": [
     {
         "id": 404063,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P92B.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P92B.mp3",
     }
 ],
   "code": 200
@@ -44169,7 +44169,7 @@ const url404064 =
   "data": [
     {
         "id": 404064,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P98.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P98.mp3",
     }
 ],
   "code": 200
@@ -44179,7 +44179,7 @@ const url404065 =
   "data": [
     {
         "id": 404065,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P99-1.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P99-1.mp3",
     }
 ],
   "code": 200
@@ -44189,7 +44189,7 @@ const url404066 =
   "data": [
     {
         "id": 404066,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P99-2.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS2MP3/%E7%AC%AC2%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/SBS2P99-2.mp3",
     }
 ],
   "code": 200
@@ -44200,7 +44200,7 @@ const url405001 =
   "data": [
     {
         "id": 405001,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/A001Introduction%20.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/A001Introduction%20.mp3",
     }
 ],
   "code": 200
@@ -44210,7 +44210,7 @@ const url405002 =
   "data": [
     {
         "id": 405002,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P001_Chapter%2001_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P001_Chapter%2001_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -44220,7 +44220,7 @@ const url405003 =
   "data": [
     {
         "id": 405003,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P002_Chapter%2001_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P002_Chapter%2001_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -44230,7 +44230,7 @@ const url405004 =
   "data": [
     {
         "id": 405004,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P002_Chapter%2001_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P002_Chapter%2001_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44240,7 +44240,7 @@ const url405005 =
   "data": [
     {
         "id": 405005,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P003_Chapter%2001_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P003_Chapter%2001_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -44250,7 +44250,7 @@ const url405006 =
   "data": [
     {
         "id": 405006,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P003_Chapter%2001_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P003_Chapter%2001_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44260,7 +44260,7 @@ const url405007 =
   "data": [
     {
         "id": 405007,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P004_Chapter%2001_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P004_Chapter%2001_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -44270,7 +44270,7 @@ const url405008 =
   "data": [
     {
         "id": 405008,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P004_Chapter%2001_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P004_Chapter%2001_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44280,7 +44280,7 @@ const url405009 =
   "data": [
     {
         "id": 405009,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P005_Chapter%2001_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P005_Chapter%2001_Reading.mp3",
     }
 ],
   "code": 200
@@ -44290,7 +44290,7 @@ const url405010 =
   "data": [
     {
         "id": 405010,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P006_Chapter%2001_Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P006_Chapter%2001_Listening.mp3",
     }
 ],
   "code": 200
@@ -44300,7 +44300,7 @@ const url405011 =
   "data": [
     {
         "id": 405011,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P007_Chapter%2001_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P007_Chapter%2001_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -44310,7 +44310,7 @@ const url405012 =
   "data": [
     {
         "id": 405012,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P008_Chapter%2001_Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P008_Chapter%2001_Exercises.mp3",
     }
 ],
   "code": 200
@@ -44320,7 +44320,7 @@ const url405013 =
   "data": [
     {
         "id": 405013,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P009_Chapter%2001_How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P009_Chapter%2001_How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -44330,7 +44330,7 @@ const url405014 =
   "data": [
     {
         "id": 405014,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P010_Chapter%2001_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P010_Chapter%2001_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -44340,7 +44340,7 @@ const url405015 =
   "data": [
     {
         "id": 405015,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P011_Chapter%2002_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P011_Chapter%2002_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -44350,7 +44350,7 @@ const url405016 =
   "data": [
     {
         "id": 405016,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P012_Chapter%2002_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P012_Chapter%2002_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -44360,7 +44360,7 @@ const url405017 =
   "data": [
     {
         "id": 405017,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P012_Chapter%2002_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P012_Chapter%2002_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44370,7 +44370,7 @@ const url405018 =
   "data": [
     {
         "id": 405018,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P013_Chapter%2002_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P013_Chapter%2002_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -44380,7 +44380,7 @@ const url405019 =
   "data": [
     {
         "id": 405019,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P013_Chapter%2002_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P013_Chapter%2002_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44390,7 +44390,7 @@ const url405020 =
   "data": [
     {
         "id": 405020,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P014_Chapter%2002_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P014_Chapter%2002_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -44400,7 +44400,7 @@ const url405021 =
   "data": [
     {
         "id": 405021,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P014_Chapter%2002_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P014_Chapter%2002_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44410,7 +44410,7 @@ const url405022 =
   "data": [
     {
         "id": 405022,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P015_Chapter%2002_How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P015_Chapter%2002_How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -44420,7 +44420,7 @@ const url405023 =
   "data": [
     {
         "id": 405023,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P016_Chapter%2002_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P016_Chapter%2002_Reading.mp3",
     }
 ],
   "code": 200
@@ -44430,7 +44430,7 @@ const url405024 =
   "data": [
     {
         "id": 405024,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P017_Chapter%2002_Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P017_Chapter%2002_Listening.mp3",
     }
 ],
   "code": 200
@@ -44440,7 +44440,7 @@ const url405025 =
   "data": [
     {
         "id": 405025,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P018_Chapter%2002_1Introduction.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P018_Chapter%2002_1Introduction.mp3",
     }
 ],
   "code": 200
@@ -44450,7 +44450,7 @@ const url405026 =
   "data": [
     {
         "id": 405026,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P018_Chapter%2002_2Model%20Conversation(Ex.1).mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P018_Chapter%2002_2Model%20Conversation(Ex.1).mp3",
     }
 ],
   "code": 200
@@ -44460,7 +44460,7 @@ const url405027 =
   "data": [
     {
         "id": 405027,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P018_Chapter%2002_3Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P018_Chapter%2002_3Exercises.mp3",
     }
 ],
   "code": 200
@@ -44470,7 +44470,7 @@ const url405028 =
   "data": [
     {
         "id": 405028,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P020_Chapter%2002_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P020_Chapter%2002_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -44480,7 +44480,7 @@ const url405029 =
   "data": [
     {
         "id": 405029,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P021_Chapter%2003_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P021_Chapter%2003_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -44490,7 +44490,7 @@ const url405030 =
   "data": [
     {
         "id": 405030,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P022_Chapter%2003_Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P022_Chapter%2003_Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -44500,7 +44500,7 @@ const url405031 =
   "data": [
     {
         "id": 405031,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P023_Chapter%2003_Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P023_Chapter%2003_Exercises.mp3",
     }
 ],
   "code": 200
@@ -44510,7 +44510,7 @@ const url405032 =
   "data": [
     {
         "id": 405032,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P024_Chapter%2003_1Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P024_Chapter%2003_1Reading.mp3",
     }
 ],
   "code": 200
@@ -44520,7 +44520,7 @@ const url405033 =
   "data": [
     {
         "id": 405033,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P024_Chapter%2003_2Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P024_Chapter%2003_2Listening.mp3",
     }
 ],
   "code": 200
@@ -44530,7 +44530,7 @@ const url405034 =
   "data": [
     {
         "id": 405034,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P025_Chapter%2003_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P025_Chapter%2003_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -44540,7 +44540,7 @@ const url405035 =
   "data": [
     {
         "id": 405035,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P025_Chapter%2003_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P025_Chapter%2003_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44550,7 +44550,7 @@ const url405036 =
   "data": [
     {
         "id": 405036,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P026_Chapter%2003_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P026_Chapter%2003_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -44560,7 +44560,7 @@ const url405037 =
   "data": [
     {
         "id": 405037,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P026_Chapter%2003_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P026_Chapter%2003_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44570,7 +44570,7 @@ const url405038 =
   "data": [
     {
         "id": 405038,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P028_Chapter%2003_Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P028_Chapter%2003_Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -44580,7 +44580,7 @@ const url405039 =
   "data": [
     {
         "id": 405039,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P029_Chapter%2003_1Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P029_Chapter%2003_1Exercises.mp3",
     }
 ],
   "code": 200
@@ -44590,7 +44590,7 @@ const url405040 =
   "data": [
     {
         "id": 405040,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P029_Chapter%2003_2How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P029_Chapter%2003_2How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -44600,7 +44600,7 @@ const url405041 =
   "data": [
     {
         "id": 405041,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P030_Chapter%2003_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P030_Chapter%2003_Reading.mp3",
     }
 ],
   "code": 200
@@ -44610,7 +44610,7 @@ const url405042 =
   "data": [
     {
         "id": 405042,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P031_Chapter%2003_On%20Your%20Own.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P031_Chapter%2003_On%20Your%20Own.mp3",
     }
 ],
   "code": 200
@@ -44620,7 +44620,7 @@ const url405043 =
   "data": [
     {
         "id": 405043,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P032_Chapter%2003_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P032_Chapter%2003_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -44630,7 +44630,7 @@ const url405044 =
   "data": [
     {
         "id": 405044,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P033_Side%20by%20Side%20Gazette%2001_1Feature%20Article.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P033_Side%20by%20Side%20Gazette%2001_1Feature%20Article.mp3",
     }
 ],
   "code": 200
@@ -44640,7 +44640,7 @@ const url405045 =
   "data": [
     {
         "id": 405045,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P033_Side%20by%20Side%20Gazette%2001_2nd%20Article.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P033_Side%20by%20Side%20Gazette%2001_2nd%20Article.mp3",
     }
 ],
   "code": 200
@@ -44650,7 +44650,7 @@ const url405046 =
   "data": [
     {
         "id": 405046,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P034_Side%20by%20Side%20Gazette%2001_1Around%20the%20World.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P034_Side%20by%20Side%20Gazette%2001_1Around%20the%20World.mp3",
     }
 ],
   "code": 200
@@ -44660,7 +44660,7 @@ const url405047 =
   "data": [
     {
         "id": 405047,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P034_Side%20by%20Side%20Gazette%2001_2Interview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P034_Side%20by%20Side%20Gazette%2001_2Interview.mp3",
     }
 ],
   "code": 200
@@ -44670,7 +44670,7 @@ const url405048 =
   "data": [
     {
         "id": 405048,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P035_Side%20by%20Side%20Gazette%2001_1We've%20Got%20Mail!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P035_Side%20by%20Side%20Gazette%2001_1We've%20Got%20Mail!.mp3",
     }
 ],
   "code": 200
@@ -44680,7 +44680,7 @@ const url405049 =
   "data": [
     {
         "id": 405049,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P035_Side%20by%20Side%20Gazette%2001_2Global%20Exchange.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P035_Side%20by%20Side%20Gazette%2001_2Global%20Exchange.mp3",
     }
 ],
   "code": 200
@@ -44690,7 +44690,7 @@ const url405050 =
   "data": [
     {
         "id": 405050,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P035_Side%20by%20Side%20Gazette%2001_3Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P035_Side%20by%20Side%20Gazette%2001_3Listening.mp3",
     }
 ],
   "code": 200
@@ -44700,7 +44700,7 @@ const url405051 =
   "data": [
     {
         "id": 405051,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P036_Side%20by%20Side%20Gazette%2001_Fun%20With%20Idioms.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P036_Side%20by%20Side%20Gazette%2001_Fun%20With%20Idioms.mp3",
     }
 ],
   "code": 200
@@ -44710,7 +44710,7 @@ const url405052 =
   "data": [
     {
         "id": 405052,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P037_Chapter%2004_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P037_Chapter%2004_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -44720,7 +44720,7 @@ const url405053 =
   "data": [
     {
         "id": 405053,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P038_Chapter%2004_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P038_Chapter%2004_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -44730,7 +44730,7 @@ const url405054 =
   "data": [
     {
         "id": 405054,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P038_Chapter%2004_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P038_Chapter%2004_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44740,7 +44740,7 @@ const url405055 =
   "data": [
     {
         "id": 405055,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P039_Chapter%2004_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P039_Chapter%2004_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -44750,7 +44750,7 @@ const url405056 =
   "data": [
     {
         "id": 405056,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P039_Chapter%2004_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P039_Chapter%2004_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44760,7 +44760,7 @@ const url405057 =
   "data": [
     {
         "id": 405057,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P040_Chapter%2004_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P040_Chapter%2004_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -44770,7 +44770,7 @@ const url405058 =
   "data": [
     {
         "id": 405058,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P040_Chapter%2004_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P040_Chapter%2004_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44780,7 +44780,7 @@ const url405059 =
   "data": [
     {
         "id": 405059,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P041_Chapter%2004_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P041_Chapter%2004_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -44790,7 +44790,7 @@ const url405060 =
   "data": [
     {
         "id": 405060,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P041_Chapter%2004_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P041_Chapter%2004_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44800,7 +44800,7 @@ const url405061 =
   "data": [
     {
         "id": 405061,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P042_Chapter%2004_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P042_Chapter%2004_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -44810,7 +44810,7 @@ const url405062 =
   "data": [
     {
         "id": 405062,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P042_Chapter%2004_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P042_Chapter%2004_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44820,7 +44820,7 @@ const url405063 =
   "data": [
     {
         "id": 405063,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P044_Chapter%2004_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P044_Chapter%2004_Reading.mp3",
     }
 ],
   "code": 200
@@ -44830,7 +44830,7 @@ const url405064 =
   "data": [
     {
         "id": 405064,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P045_Chapter%2004_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P045_Chapter%2004_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -44840,7 +44840,7 @@ const url405065 =
   "data": [
     {
         "id": 405065,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P045_Chapter%2004_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P045_Chapter%2004_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44850,7 +44850,7 @@ const url405066 =
   "data": [
     {
         "id": 405066,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P046_Chapter%2004_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P046_Chapter%2004_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -44860,7 +44860,7 @@ const url405067 =
   "data": [
     {
         "id": 405067,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P046_Chapter%2004_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P046_Chapter%2004_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44870,7 +44870,7 @@ const url405068 =
   "data": [
     {
         "id": 405068,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P047_Chapter%2004_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P047_Chapter%2004_Reading.mp3",
     }
 ],
   "code": 200
@@ -44880,7 +44880,7 @@ const url405069 =
   "data": [
     {
         "id": 405069,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P048_Chapter%2004_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P048_Chapter%2004_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -44890,7 +44890,7 @@ const url405070 =
   "data": [
     {
         "id": 405070,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P048_Chapter%2004_2How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P048_Chapter%2004_2How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -44900,7 +44900,7 @@ const url405071 =
   "data": [
     {
         "id": 405071,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P049_Chapter%2004_1Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P049_Chapter%2004_1Reading.mp3",
     }
 ],
   "code": 200
@@ -44910,7 +44910,7 @@ const url405072 =
   "data": [
     {
         "id": 405072,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P049_Chapter%2004_2Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P049_Chapter%2004_2Listening.mp3",
     }
 ],
   "code": 200
@@ -44920,7 +44920,7 @@ const url405073 =
   "data": [
     {
         "id": 405073,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P050_Chapter%2004_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P050_Chapter%2004_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -44930,7 +44930,7 @@ const url405074 =
   "data": [
     {
         "id": 405074,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P051_Chapter%2005_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P051_Chapter%2005_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -44940,7 +44940,7 @@ const url405075 =
   "data": [
     {
         "id": 405075,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P052_Chapter%2005_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P052_Chapter%2005_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -44950,7 +44950,7 @@ const url405076 =
   "data": [
     {
         "id": 405076,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P052_Chapter%2005_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P052_Chapter%2005_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44960,7 +44960,7 @@ const url405077 =
   "data": [
     {
         "id": 405077,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P054_Chapter%2005_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P054_Chapter%2005_Reading.mp3",
     }
 ],
   "code": 200
@@ -44970,7 +44970,7 @@ const url405078 =
   "data": [
     {
         "id": 405078,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P056_Chapter%2005_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P056_Chapter%2005_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -44980,7 +44980,7 @@ const url405079 =
   "data": [
     {
         "id": 405079,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P056_Chapter%2005_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P056_Chapter%2005_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -44990,7 +44990,7 @@ const url405080 =
   "data": [
     {
         "id": 405080,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P058_Chapter%2005_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P058_Chapter%2005_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -45000,7 +45000,7 @@ const url405081 =
   "data": [
     {
         "id": 405081,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P058_Chapter%2005_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P058_Chapter%2005_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45010,7 +45010,7 @@ const url405082 =
   "data": [
     {
         "id": 405082,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P059_Chapter%2005_How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P059_Chapter%2005_How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -45020,7 +45020,7 @@ const url405083 =
   "data": [
     {
         "id": 405083,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P060_Chapter%2005_1Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P060_Chapter%2005_1Reading.mp3",
     }
 ],
   "code": 200
@@ -45030,7 +45030,7 @@ const url405084 =
   "data": [
     {
         "id": 405084,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P060_Chapter%2005_2Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P060_Chapter%2005_2Listening.mp3",
     }
 ],
   "code": 200
@@ -45040,7 +45040,7 @@ const url405085 =
   "data": [
     {
         "id": 405085,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P061_Chapter%2005_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P061_Chapter%2005_Reading.mp3",
     }
 ],
   "code": 200
@@ -45050,7 +45050,7 @@ const url405086 =
   "data": [
     {
         "id": 405086,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P062_Chapter%2005_Roly%20Play.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P062_Chapter%2005_Roly%20Play.mp3",
     }
 ],
   "code": 200
@@ -45060,7 +45060,7 @@ const url405087 =
   "data": [
     {
         "id": 405087,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P064_Chapter%2005_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P064_Chapter%2005_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -45070,7 +45070,7 @@ const url405088 =
   "data": [
     {
         "id": 405088,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P065_Side%20by%20Side%20Gazette%2002_Feature%20Article.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P065_Side%20by%20Side%20Gazette%2002_Feature%20Article.mp3",
     }
 ],
   "code": 200
@@ -45080,7 +45080,7 @@ const url405089 =
   "data": [
     {
         "id": 405089,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P066_Side%20by%20Side%20Gazette%2002_1Around%20the%20World.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P066_Side%20by%20Side%20Gazette%2002_1Around%20the%20World.mp3",
     }
 ],
   "code": 200
@@ -45090,7 +45090,7 @@ const url405090 =
   "data": [
     {
         "id": 405090,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P066_Side%20by%20Side%20Gazette%2002_2Interview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P066_Side%20by%20Side%20Gazette%2002_2Interview.mp3",
     }
 ],
   "code": 200
@@ -45100,7 +45100,7 @@ const url405091 =
   "data": [
     {
         "id": 405091,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P067_Side%20by%20Side%20Gazette%2002_1Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P067_Side%20by%20Side%20Gazette%2002_1Listening.mp3",
     }
 ],
   "code": 200
@@ -45110,7 +45110,7 @@ const url405092 =
   "data": [
     {
         "id": 405092,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P067_Side%20by%20Side%20Gazette%2002_2Fun%20With%20Idioms.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P067_Side%20by%20Side%20Gazette%2002_2Fun%20With%20Idioms.mp3",
     }
 ],
   "code": 200
@@ -45120,7 +45120,7 @@ const url405093 =
   "data": [
     {
         "id": 405093,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P068_Side%20by%20Side%20Gazette%2002_1We've%20Got%20Mail!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P068_Side%20by%20Side%20Gazette%2002_1We've%20Got%20Mail!.mp3",
     }
 ],
   "code": 200
@@ -45130,7 +45130,7 @@ const url405094 =
   "data": [
     {
         "id": 405094,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P068_Side%20by%20Side%20Gazette%2002_2Global%20Exchange.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P068_Side%20by%20Side%20Gazette%2002_2Global%20Exchange.mp3",
     }
 ],
   "code": 200
@@ -45140,7 +45140,7 @@ const url405095 =
   "data": [
     {
         "id": 405095,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P069_Chapter%2006_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P069_Chapter%2006_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -45150,7 +45150,7 @@ const url405096 =
   "data": [
     {
         "id": 405096,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P070_Chapter%2006_1Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P070_Chapter%2006_1Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -45160,7 +45160,7 @@ const url405097 =
   "data": [
     {
         "id": 405097,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P070_Chapter%2006_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P070_Chapter%2006_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45170,7 +45170,7 @@ const url405098 =
   "data": [
     {
         "id": 405098,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P072_Chapter%2006_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P072_Chapter%2006_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45180,7 +45180,7 @@ const url405099 =
   "data": [
     {
         "id": 405099,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P072_Chapter%2006_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P072_Chapter%2006_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45190,7 +45190,7 @@ const url405100 =
   "data": [
     {
         "id": 405100,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P073_Chapter%2006_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P073_Chapter%2006_Reading.mp3",
     }
 ],
   "code": 200
@@ -45200,7 +45200,7 @@ const url405101 =
   "data": [
     {
         "id": 405101,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P074_Chapter%2006_Model%20Conversations.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P074_Chapter%2006_Model%20Conversations.mp3",
     }
 ],
   "code": 200
@@ -45210,7 +45210,7 @@ const url405102 =
   "data": [
     {
         "id": 405102,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P075_Chapter%2006_How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P075_Chapter%2006_How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -45220,7 +45220,7 @@ const url405103 =
   "data": [
     {
         "id": 405103,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P076_Chapter%2006_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P076_Chapter%2006_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45230,7 +45230,7 @@ const url405104 =
   "data": [
     {
         "id": 405104,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P076_Chapter%2006_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P076_Chapter%2006_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45240,7 +45240,7 @@ const url405105 =
   "data": [
     {
         "id": 405105,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P079_Chapter%2006_1Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P079_Chapter%2006_1Reading.mp3",
     }
 ],
   "code": 200
@@ -45250,7 +45250,7 @@ const url405106 =
   "data": [
     {
         "id": 405106,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P079_Chapter%2006_2Listening%201.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P079_Chapter%2006_2Listening%201.mp3",
     }
 ],
   "code": 200
@@ -45260,7 +45260,7 @@ const url405107 =
   "data": [
     {
         "id": 405107,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P079_Chapter%2006_3Listening%202.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P079_Chapter%2006_3Listening%202.mp3",
     }
 ],
   "code": 200
@@ -45270,7 +45270,7 @@ const url405108 =
   "data": [
     {
         "id": 405108,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P080_Chapter%2006_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P080_Chapter%2006_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -45280,7 +45280,7 @@ const url405109 =
   "data": [
     {
         "id": 405109,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P081_Chapter%2007_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P081_Chapter%2007_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -45290,7 +45290,7 @@ const url405110 =
   "data": [
     {
         "id": 405110,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P082_Chapter%2007_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P082_Chapter%2007_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45300,7 +45300,7 @@ const url405111 =
   "data": [
     {
         "id": 405111,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P082_Chapter%2007_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P082_Chapter%2007_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45310,7 +45310,7 @@ const url405112 =
   "data": [
     {
         "id": 405112,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P083_Chapter%2007_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P083_Chapter%2007_Reading.mp3",
     }
 ],
   "code": 200
@@ -45320,7 +45320,7 @@ const url405113 =
   "data": [
     {
         "id": 405113,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P084_Chapter%2007_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P084_Chapter%2007_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45330,7 +45330,7 @@ const url405114 =
   "data": [
     {
         "id": 405114,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P084_Chapter%2007_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P084_Chapter%2007_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45340,7 +45340,7 @@ const url405115 =
   "data": [
     {
         "id": 405115,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P085_Chapter%2007_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P085_Chapter%2007_Reading.mp3",
     }
 ],
   "code": 200
@@ -45350,7 +45350,7 @@ const url405116 =
   "data": [
     {
         "id": 405116,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P086_Chapter%2007_Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P086_Chapter%2007_Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45360,7 +45360,7 @@ const url405117 =
   "data": [
     {
         "id": 405117,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P087_Chapter%2007_1Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P087_Chapter%2007_1Exercises.mp3",
     }
 ],
   "code": 200
@@ -45370,7 +45370,7 @@ const url405118 =
   "data": [
     {
         "id": 405118,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P087_Chapter%2007_2How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P087_Chapter%2007_2How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -45380,7 +45380,7 @@ const url405119 =
   "data": [
     {
         "id": 405119,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P088_Chapter%2007_Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P088_Chapter%2007_Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45390,7 +45390,7 @@ const url405120 =
   "data": [
     {
         "id": 405120,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P089_Chapter%2007_Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P089_Chapter%2007_Exercises.mp3",
     }
 ],
   "code": 200
@@ -45400,7 +45400,7 @@ const url405121 =
   "data": [
     {
         "id": 405121,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P090_Chapter%2007_Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P090_Chapter%2007_Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45410,7 +45410,7 @@ const url405122 =
   "data": [
     {
         "id": 405122,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P091_Chapter%2007_Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P091_Chapter%2007_Exercises.mp3",
     }
 ],
   "code": 200
@@ -45420,7 +45420,7 @@ const url405123 =
   "data": [
     {
         "id": 405123,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P092_Chapter%2007_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P092_Chapter%2007_Reading.mp3",
     }
 ],
   "code": 200
@@ -45430,7 +45430,7 @@ const url405124 =
   "data": [
     {
         "id": 405124,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P093_Chapter%2007_Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P093_Chapter%2007_Listening.mp3",
     }
 ],
   "code": 200
@@ -45440,7 +45440,7 @@ const url405125 =
   "data": [
     {
         "id": 405125,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P094_Chapter%2007_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P094_Chapter%2007_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -45450,7 +45450,7 @@ const url405126 =
   "data": [
     {
         "id": 405126,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P095_Chapter%2008_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P095_Chapter%2008_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -45460,7 +45460,7 @@ const url405127 =
   "data": [
     {
         "id": 405127,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P096_Chapter%2008_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P096_Chapter%2008_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45470,7 +45470,7 @@ const url405128 =
   "data": [
     {
         "id": 405128,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P096_Chapter%2008_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P096_Chapter%2008_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45480,7 +45480,7 @@ const url405129 =
   "data": [
     {
         "id": 405129,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P098_Chapter%2008_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P098_Chapter%2008_Reading.mp3",
     }
 ],
   "code": 200
@@ -45490,7 +45490,7 @@ const url405130 =
   "data": [
     {
         "id": 405130,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P100_Chapter%2008_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P100_Chapter%2008_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45500,7 +45500,7 @@ const url405131 =
   "data": [
     {
         "id": 405131,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P100_Chapter%2008_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P100_Chapter%2008_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45510,7 +45510,7 @@ const url405132 =
   "data": [
     {
         "id": 405132,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P101_Chapter%2008_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P101_Chapter%2008_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45520,7 +45520,7 @@ const url405133 =
   "data": [
     {
         "id": 405133,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P101_Chapter%2008_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P101_Chapter%2008_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45530,7 +45530,7 @@ const url405134 =
   "data": [
     {
         "id": 405134,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P102_Chapter%2008_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P102_Chapter%2008_Reading.mp3",
     }
 ],
   "code": 200
@@ -45540,7 +45540,7 @@ const url405135 =
   "data": [
     {
         "id": 405135,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P103_Chapter%2008_Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P103_Chapter%2008_Listening.mp3",
     }
 ],
   "code": 200
@@ -45550,7 +45550,7 @@ const url405136 =
   "data": [
     {
         "id": 405136,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P104_Chapter%2008_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P104_Chapter%2008_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45560,7 +45560,7 @@ const url405137 =
   "data": [
     {
         "id": 405137,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P104_Chapter%2008_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P104_Chapter%2008_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45570,7 +45570,7 @@ const url405138 =
   "data": [
     {
         "id": 405138,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P105_Chapter%2008_How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P105_Chapter%2008_How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -45580,7 +45580,7 @@ const url405139 =
   "data": [
     {
         "id": 405139,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P106_Chapter%2008_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P106_Chapter%2008_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45590,7 +45590,7 @@ const url405140 =
   "data": [
     {
         "id": 405140,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P106_Chapter%2008_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P106_Chapter%2008_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45600,7 +45600,7 @@ const url405141 =
   "data": [
     {
         "id": 405141,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P108_Chapter%2008_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P108_Chapter%2008_Reading.mp3",
     }
 ],
   "code": 200
@@ -45610,7 +45610,7 @@ const url405142 =
   "data": [
     {
         "id": 405142,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P109_Chapter%2008_On%20Your%20Own.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P109_Chapter%2008_On%20Your%20Own.mp3",
     }
 ],
   "code": 200
@@ -45620,7 +45620,7 @@ const url405143 =
   "data": [
     {
         "id": 405143,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P110_Chapter%2008_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P110_Chapter%2008_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -45630,7 +45630,7 @@ const url405144 =
   "data": [
     {
         "id": 405144,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P111_Side%20by%20Side%20Gazette%2003_Feature%20Article.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P111_Side%20by%20Side%20Gazette%2003_Feature%20Article.mp3",
     }
 ],
   "code": 200
@@ -45640,7 +45640,7 @@ const url405145 =
   "data": [
     {
         "id": 405145,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P112_Side%20by%20Side%20Gazette%2003_1Around%20the%20World.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P112_Side%20by%20Side%20Gazette%2003_1Around%20the%20World.mp3",
     }
 ],
   "code": 200
@@ -45650,7 +45650,7 @@ const url405146 =
   "data": [
     {
         "id": 405146,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P112_Side%20by%20Side%20Gazette%2003_2Interview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P112_Side%20by%20Side%20Gazette%2003_2Interview.mp3",
     }
 ],
   "code": 200
@@ -45660,7 +45660,7 @@ const url405147 =
   "data": [
     {
         "id": 405147,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P113_Side%20by%20Side%20Gazette%2003_1Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P113_Side%20by%20Side%20Gazette%2003_1Listening.mp3",
     }
 ],
   "code": 200
@@ -45670,7 +45670,7 @@ const url405148 =
   "data": [
     {
         "id": 405148,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P113_Side%20by%20Side%20Gazette%2003_2Fun%20With%20Idioms.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P113_Side%20by%20Side%20Gazette%2003_2Fun%20With%20Idioms.mp3",
     }
 ],
   "code": 200
@@ -45680,7 +45680,7 @@ const url405149 =
   "data": [
     {
         "id": 405149,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P114_Side%20by%20Side%20Gazette%2003_1We've%20Got%20Mail!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P114_Side%20by%20Side%20Gazette%2003_1We've%20Got%20Mail!.mp3",
     }
 ],
   "code": 200
@@ -45690,7 +45690,7 @@ const url405150 =
   "data": [
     {
         "id": 405150,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P114_Side%20by%20Side%20Gazette%2003_2Global%20Exchange.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P114_Side%20by%20Side%20Gazette%2003_2Global%20Exchange.mp3",
     }
 ],
   "code": 200
@@ -45700,7 +45700,7 @@ const url405151 =
   "data": [
     {
         "id": 405151,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P115_Chapter%2009_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P115_Chapter%2009_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -45710,7 +45710,7 @@ const url405152 =
   "data": [
     {
         "id": 405152,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P116_Chapter%2009_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P116_Chapter%2009_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45720,7 +45720,7 @@ const url405153 =
   "data": [
     {
         "id": 405153,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P116_Chapter%2009_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P116_Chapter%2009_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45730,7 +45730,7 @@ const url405154 =
   "data": [
     {
         "id": 405154,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P117_Chapter%2009_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P117_Chapter%2009_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45740,7 +45740,7 @@ const url405155 =
   "data": [
     {
         "id": 405155,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P117_Chapter%2009_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P117_Chapter%2009_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45750,7 +45750,7 @@ const url405156 =
   "data": [
     {
         "id": 405156,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P117_Chapter%2009_3How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P117_Chapter%2009_3How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -45760,7 +45760,7 @@ const url405157 =
   "data": [
     {
         "id": 405157,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P118_Chapter%2009_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P118_Chapter%2009_Reading.mp3",
     }
 ],
   "code": 200
@@ -45770,7 +45770,7 @@ const url405158 =
   "data": [
     {
         "id": 405158,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P119_Chapter%2009_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P119_Chapter%2009_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45780,7 +45780,7 @@ const url405159 =
   "data": [
     {
         "id": 405159,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P119_Chapter%2009_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P119_Chapter%2009_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45790,7 +45790,7 @@ const url405160 =
   "data": [
     {
         "id": 405160,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P120_Chapter%2009_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P120_Chapter%2009_Reading.mp3",
     }
 ],
   "code": 200
@@ -45800,7 +45800,7 @@ const url405161 =
   "data": [
     {
         "id": 405161,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P122_Chapter%2009_Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P122_Chapter%2009_Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45810,7 +45810,7 @@ const url405162 =
   "data": [
     {
         "id": 405162,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P123_Chapter%2009_Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P123_Chapter%2009_Exercises.mp3",
     }
 ],
   "code": 200
@@ -45820,7 +45820,7 @@ const url405163 =
   "data": [
     {
         "id": 405163,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P124_Chapter%2009_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P124_Chapter%2009_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45830,7 +45830,7 @@ const url405164 =
   "data": [
     {
         "id": 405164,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P124_Chapter%2009_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P124_Chapter%2009_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45840,7 +45840,7 @@ const url405165 =
   "data": [
     {
         "id": 405165,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P125_Chapter%2009_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P125_Chapter%2009_Reading.mp3",
     }
 ],
   "code": 200
@@ -45850,7 +45850,7 @@ const url405166 =
   "data": [
     {
         "id": 405166,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P128_Chapter%2009_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P128_Chapter%2009_Reading.mp3",
     }
 ],
   "code": 200
@@ -45860,7 +45860,7 @@ const url405167 =
   "data": [
     {
         "id": 405167,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P129_Chapter%2009_Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P129_Chapter%2009_Listening.mp3",
     }
 ],
   "code": 200
@@ -45870,7 +45870,7 @@ const url405168 =
   "data": [
     {
         "id": 405168,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P130_Chapter%2009_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P130_Chapter%2009_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -45880,7 +45880,7 @@ const url405169 =
   "data": [
     {
         "id": 405169,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P131_Chapter%2010_Vocabulary%20Preview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P131_Chapter%2010_Vocabulary%20Preview.mp3",
     }
 ],
   "code": 200
@@ -45890,7 +45890,7 @@ const url405170 =
   "data": [
     {
         "id": 405170,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P132_Chapter%2010_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P132_Chapter%2010_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45900,7 +45900,7 @@ const url405171 =
   "data": [
     {
         "id": 405171,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P132_Chapter%2010_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P132_Chapter%2010_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45910,7 +45910,7 @@ const url405172 =
   "data": [
     {
         "id": 405172,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P133_Chapter%2010_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P133_Chapter%2010_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45920,7 +45920,7 @@ const url405173 =
   "data": [
     {
         "id": 405173,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P133_Chapter%2010_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P133_Chapter%2010_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45930,7 +45930,7 @@ const url405174 =
   "data": [
     {
         "id": 405174,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P134_Chapter%2010_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P134_Chapter%2010_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45940,7 +45940,7 @@ const url405175 =
   "data": [
     {
         "id": 405175,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P134_Chapter%2010_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P134_Chapter%2010_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45950,7 +45950,7 @@ const url405176 =
   "data": [
     {
         "id": 405176,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P136_Chapter%2010_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P136_Chapter%2010_Reading.mp3",
     }
 ],
   "code": 200
@@ -45960,7 +45960,7 @@ const url405177 =
   "data": [
     {
         "id": 405177,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P137_Chapter%2010_Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P137_Chapter%2010_Listening.mp3",
     }
 ],
   "code": 200
@@ -45970,7 +45970,7 @@ const url405178 =
   "data": [
     {
         "id": 405178,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P138_Chapter%2010_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P138_Chapter%2010_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -45980,7 +45980,7 @@ const url405179 =
   "data": [
     {
         "id": 405179,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P138_Chapter%2010_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P138_Chapter%2010_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -45990,7 +45990,7 @@ const url405180 =
   "data": [
     {
         "id": 405180,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P140_Chapter%2010_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P140_Chapter%2010_Reading.mp3",
     }
 ],
   "code": 200
@@ -46000,7 +46000,7 @@ const url405181 =
   "data": [
     {
         "id": 405181,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P141_Chapter%2010_1Model%20Conversation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P141_Chapter%2010_1Model%20Conversation.mp3",
     }
 ],
   "code": 200
@@ -46010,7 +46010,7 @@ const url405182 =
   "data": [
     {
         "id": 405182,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P141_Chapter%2010_2Exercises.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P141_Chapter%2010_2Exercises.mp3",
     }
 ],
   "code": 200
@@ -46020,7 +46020,7 @@ const url405183 =
   "data": [
     {
         "id": 405183,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P141_Chapter%2010_3How%20to%20Say%20it!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P141_Chapter%2010_3How%20to%20Say%20it!.mp3",
     }
 ],
   "code": 200
@@ -46030,7 +46030,7 @@ const url405184 =
   "data": [
     {
         "id": 405184,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P142_Chapter%2010_Reading.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P142_Chapter%2010_Reading.mp3",
     }
 ],
   "code": 200
@@ -46040,7 +46040,7 @@ const url405185 =
   "data": [
     {
         "id": 405185,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P143_Chapter%2010_On%20Your%20Own.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P143_Chapter%2010_On%20Your%20Own.mp3",
     }
 ],
   "code": 200
@@ -46050,7 +46050,7 @@ const url405186 =
   "data": [
     {
         "id": 405186,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P144_Chapter%2010_Pronunciation.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P144_Chapter%2010_Pronunciation.mp3",
     }
 ],
   "code": 200
@@ -46060,7 +46060,7 @@ const url405187 =
   "data": [
     {
         "id": 405187,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P145_Side%20by%20Side%20Gazette%2004_Feature%20Article.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P145_Side%20by%20Side%20Gazette%2004_Feature%20Article.mp3",
     }
 ],
   "code": 200
@@ -46070,7 +46070,7 @@ const url405188 =
   "data": [
     {
         "id": 405188,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P146_Side%20by%20Side%20Gazette%2004_Around%20the%20World.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P146_Side%20by%20Side%20Gazette%2004_Around%20the%20World.mp3",
     }
 ],
   "code": 200
@@ -46080,7 +46080,7 @@ const url405189 =
   "data": [
     {
         "id": 405189,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P147_Side%20by%20Side%20Gazette%2004_1Interview.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P147_Side%20by%20Side%20Gazette%2004_1Interview.mp3",
     }
 ],
   "code": 200
@@ -46090,7 +46090,7 @@ const url405190 =
   "data": [
     {
         "id": 405190,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P147_Side%20by%20Side%20Gazette%2004_2Fun%20With%20Idioms.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P147_Side%20by%20Side%20Gazette%2004_2Fun%20With%20Idioms.mp3",
     }
 ],
   "code": 200
@@ -46100,7 +46100,7 @@ const url405191 =
   "data": [
     {
         "id": 405191,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P148_Side%20by%20Side%20Gazette%2004_1We've%20Got%20Mail!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P148_Side%20by%20Side%20Gazette%2004_1We've%20Got%20Mail!.mp3",
     }
 ],
   "code": 200
@@ -46110,7 +46110,7 @@ const url405192 =
   "data": [
     {
         "id": 405192,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P148_Side%20by%20Side%20Gazette%2004_2Global%20Exchange.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P148_Side%20by%20Side%20Gazette%2004_2Global%20Exchange.mp3",
     }
 ],
   "code": 200
@@ -46120,7 +46120,7 @@ const url405193 =
   "data": [
     {
         "id": 405193,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6/P148_Side%20by%20Side%20Gazette%2004_3Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B9%A6%E9%9F%B3%E9%A2%91/P148_Side%20by%20Side%20Gazette%2004_3Listening.mp3",
     }
 ],
   "code": 200
@@ -46131,7 +46131,7 @@ const url406001 =
   "data": [
     {
         "id": 406001,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/A001Introduction%20.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/A001Introduction%20.mp3",
     }
 ],
   "code": 200
@@ -46141,7 +46141,7 @@ const url406002 =
   "data": [
     {
         "id": 406002,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P007_Chapter%2001_Exercise%20H%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P007_Chapter%2001_Exercise%20H%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46151,7 +46151,7 @@ const url406003 =
   "data": [
     {
         "id": 406003,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P008_Chapter%2001_Exercise%20I%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P008_Chapter%2001_Exercise%20I%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46161,7 +46161,7 @@ const url406004 =
   "data": [
     {
         "id": 406004,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P013_Chapter%2002_Exercise%20B%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P013_Chapter%2002_Exercise%20B%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46171,7 +46171,7 @@ const url406005 =
   "data": [
     {
         "id": 406005,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P019_Chapter%2002_Exercise%20J%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P019_Chapter%2002_Exercise%20J%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46181,7 +46181,7 @@ const url406006 =
   "data": [
     {
         "id": 406006,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P019_Chapter%2002_Exercise%20K%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P019_Chapter%2002_Exercise%20K%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46191,7 +46191,7 @@ const url406007 =
   "data": [
     {
         "id": 406007,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P023_Chapter%2002_Exercise%20N%20Sound%20It%20Out!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P023_Chapter%2002_Exercise%20N%20Sound%20It%20Out!.mp3",
     }
 ],
   "code": 200
@@ -46201,7 +46201,7 @@ const url406008 =
   "data": [
     {
         "id": 406008,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P026_Chapter%2003_Exercise%20C%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P026_Chapter%2003_Exercise%20C%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46211,7 +46211,7 @@ const url406009 =
   "data": [
     {
         "id": 406009,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P030_Chapter%2003_Exercise%20H%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P030_Chapter%2003_Exercise%20H%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46221,7 +46221,7 @@ const url406010 =
   "data": [
     {
         "id": 406010,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P030_Chapter%2003_Exercise%20J%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P030_Chapter%2003_Exercise%20J%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46231,7 +46231,7 @@ const url406011 =
   "data": [
     {
         "id": 406011,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P033_Chapter%2003_Exercise%20L%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P033_Chapter%2003_Exercise%20L%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46241,7 +46241,7 @@ const url406012 =
   "data": [
     {
         "id": 406012,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P035_Check-Up%20Test%20Chapters%2001-03_Exercise%20E%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P035_Check-Up%20Test%20Chapters%2001-03_Exercise%20E%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46251,7 +46251,7 @@ const url406013 =
   "data": [
     {
         "id": 406013,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P036_Chapter%2004_Exercise%20B%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P036_Chapter%2004_Exercise%20B%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46261,7 +46261,7 @@ const url406014 =
   "data": [
     {
         "id": 406014,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P037_Chapter%2004_Exercise%20D%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P037_Chapter%2004_Exercise%20D%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46271,7 +46271,7 @@ const url406015 =
   "data": [
     {
         "id": 406015,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P038_Chapter%2004_Exercise%20F%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P038_Chapter%2004_Exercise%20F%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46281,7 +46281,7 @@ const url406016 =
   "data": [
     {
         "id": 406016,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P043_Chapter%2004_Exercise%20K%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P043_Chapter%2004_Exercise%20K%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46291,7 +46291,7 @@ const url406017 =
   "data": [
     {
         "id": 406017,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P047_Chapter%2004_Exercise%20O%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P047_Chapter%2004_Exercise%20O%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46301,7 +46301,7 @@ const url406018 =
   "data": [
     {
         "id": 406018,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P049_Chapter%2004_Exercise%20Q%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P049_Chapter%2004_Exercise%20Q%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46311,7 +46311,7 @@ const url406019 =
   "data": [
     {
         "id": 406019,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P054_Chapter%2005_Exercise%20C%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P054_Chapter%2005_Exercise%20C%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46321,7 +46321,7 @@ const url406020 =
   "data": [
     {
         "id": 406020,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P056_Chapter%2005_Exercise%20E%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P056_Chapter%2005_Exercise%20E%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46331,7 +46331,7 @@ const url406021 =
   "data": [
     {
         "id": 406021,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P061_Chapter%2005_Exercise%20L%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P061_Chapter%2005_Exercise%20L%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46341,7 +46341,7 @@ const url406022 =
   "data": [
     {
         "id": 406022,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P064_Chapter%2006_Exercise%20E%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P064_Chapter%2006_Exercise%20E%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46351,7 +46351,7 @@ const url406023 =
   "data": [
     {
         "id": 406023,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P065_Chapter%2006_Exercise%20F%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P065_Chapter%2006_Exercise%20F%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46361,7 +46361,7 @@ const url406024 =
   "data": [
     {
         "id": 406024,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P067_Chapter%2006_Exercise%20H%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P067_Chapter%2006_Exercise%20H%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46371,7 +46371,7 @@ const url406025 =
   "data": [
     {
         "id": 406025,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P068_Chapter%2006_Exercise%20I%20Sound%20It%20Out!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P068_Chapter%2006_Exercise%20I%20Sound%20It%20Out!.mp3",
     }
 ],
   "code": 200
@@ -46381,7 +46381,7 @@ const url406026 =
   "data": [
     {
         "id": 406026,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P071_Chapter%2006_Exercise%20L%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P071_Chapter%2006_Exercise%20L%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46391,7 +46391,7 @@ const url406027 =
   "data": [
     {
         "id": 406027,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P077_Check-Up%20Test%20Chapters%2004-06_Exercise%20F%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P077_Check-Up%20Test%20Chapters%2004-06_Exercise%20F%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46401,7 +46401,7 @@ const url406028 =
   "data": [
     {
         "id": 406028,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P079_Chapter%2007_Exercise%20B%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P079_Chapter%2007_Exercise%20B%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46411,7 +46411,7 @@ const url406029 =
   "data": [
     {
         "id": 406029,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P080_Chapter%2007_Exercise%20D%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P080_Chapter%2007_Exercise%20D%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46421,7 +46421,7 @@ const url406030 =
   "data": [
     {
         "id": 406030,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P083_Chapter%2007_Exercise%20I%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P083_Chapter%2007_Exercise%20I%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46431,7 +46431,7 @@ const url406031 =
   "data": [
     {
         "id": 406031,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P087_Chapter%2007_Exercise%20N%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P087_Chapter%2007_Exercise%20N%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46441,7 +46441,7 @@ const url406032 =
   "data": [
     {
         "id": 406032,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P089_Chapter%2008_Exercise%20B%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P089_Chapter%2008_Exercise%20B%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46451,7 +46451,7 @@ const url406033 =
   "data": [
     {
         "id": 406033,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P095_Chapter%2008_Exercise%20G%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P095_Chapter%2008_Exercise%20G%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46461,7 +46461,7 @@ const url406034 =
   "data": [
     {
         "id": 406034,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P095_Chapter%2008_Exercise%20H%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P095_Chapter%2008_Exercise%20H%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46471,7 +46471,7 @@ const url406035 =
   "data": [
     {
         "id": 406035,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P097_Chapter%2008_Exercise%20J%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P097_Chapter%2008_Exercise%20J%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46481,7 +46481,7 @@ const url406036 =
   "data": [
     {
         "id": 406036,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P099_Check-Up%20Test%20Chapters%2007-08_Exercise%20D%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P099_Check-Up%20Test%20Chapters%2007-08_Exercise%20D%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46491,7 +46491,7 @@ const url406037 =
   "data": [
     {
         "id": 406037,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P102_Chapter%2009_Exercise%20C%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P102_Chapter%2009_Exercise%20C%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46501,7 +46501,7 @@ const url406038 =
   "data": [
     {
         "id": 406038,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P105_Chapter%2009_Exercise%20G%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P105_Chapter%2009_Exercise%20G%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46511,7 +46511,7 @@ const url406039 =
   "data": [
     {
         "id": 406039,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P107_Chapter%2009_Exercise%20I%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P107_Chapter%2009_Exercise%20I%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46521,7 +46521,7 @@ const url406040 =
   "data": [
     {
         "id": 406040,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P108_Chapter%2009_Exercise%20L%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P108_Chapter%2009_Exercise%20L%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46531,7 +46531,7 @@ const url406041 =
   "data": [
     {
         "id": 406041,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P112_Chapter%2010_Exercise%20D%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P112_Chapter%2010_Exercise%20D%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46541,7 +46541,7 @@ const url406042 =
   "data": [
     {
         "id": 406042,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P112_Chapter%2010_Exercise%20E%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P112_Chapter%2010_Exercise%20E%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46551,7 +46551,7 @@ const url406043 =
   "data": [
     {
         "id": 406043,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P112_Chapter%2010_Exercise%20F%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P112_Chapter%2010_Exercise%20F%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46561,7 +46561,7 @@ const url406044 =
   "data": [
     {
         "id": 406044,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P117_Chapter%2010_Exercise%20K%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P117_Chapter%2010_Exercise%20K%20Listening.mp3",
     }
 ],
   "code": 200
@@ -46571,7 +46571,7 @@ const url406045 =
   "data": [
     {
         "id": 406045,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P117_Chapter%2010_Exercise%20L%20GrammarRap.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P117_Chapter%2010_Exercise%20L%20GrammarRap.mp3",
     }
 ],
   "code": 200
@@ -46581,7 +46581,7 @@ const url406046 =
   "data": [
     {
         "id": 406046,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P118_Chapter%2010_Exercise%20M%20Sound%20It%20Out!.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P118_Chapter%2010_Exercise%20M%20Sound%20It%20Out!.mp3",
     }
 ],
   "code": 200
@@ -46591,7 +46591,7 @@ const url406047 =
   "data": [
     {
         "id": 406047,
-        "url": "http://susanlistening-1253455298.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P121_Check-Up%20Test%20Chapters%2009-10_Exercise%20C%20Listening.mp3",
+        "url": "http://susanenglish-1254112734.file.myqcloud.com/Side%20by%20Side/SBS3MP3/%E7%AC%AC3%E5%86%8C%20%E7%BB%83%E4%B9%A0%E5%86%8C%E9%9F%B3%E9%A2%91/P121_Check-Up%20Test%20Chapters%2009-10_Exercise%20C%20Listening.mp3",
     }
 ],
   "code": 200
