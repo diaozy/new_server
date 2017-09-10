@@ -209,7 +209,7 @@ Start New Server
 
 //get books
 app.get(dir + '/books1', function(request, response) {
-	response.send(books1);
+	response.send();
 	console.log(`Process ${request.url}...`);
 });
 
